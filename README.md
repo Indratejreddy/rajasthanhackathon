@@ -60,7 +60,20 @@ This is made in vanialla JS so the file structure is not too complex basically h
     style.css
     index.js
 
+- Quizzo
+    - assets
+        - audio
+        - images
+    - labelled images  ---> Need To Train AI to recognize (pending)
+    - models           ---> Contains face_landmark_68, ssd_mobilenetv1_model, tiny_face_detector_model
+    - app.js           ---> Contains Core Logic
+    - face-api.min.js  ---> Library Code
+    - index.html       ---> Website HTML
+    -style.css         ---> Website CSS
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NEED TO WRITE FOLDER STRUCTURE DUE TO LACK OF TIME POSTPONED
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Run Locally
 
