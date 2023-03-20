@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="This is a AI protored online examination website which restructs user from coping or exploiting the website in all means.">
+    <title>Quizzo</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="./face-api.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+    <script defer src="./app.js"></script>
+</head>
+
+<body class="body">
+    <a class="download-blob" style="display: none;">Download</a>
+    <section id="preloader" class="preloader">
+        <video src="./assets/images/ezgif.com-gif-maker (1).mp4" autoplay loop >   </video>
+    </section>
+    <div class="quizApplication">
+        <div class="start">
+            <div class="center">
+                <form class="form">
+                    <div class="parent">
+                        
+                      <input  type="text" class="form__input title" autocomplete="off" placeholder=" " required/>
+                      <label  class="form__label">Name</label>  
+                    </div>
+            
+                    <div class="parent">
+                      <input  type="text" class="form__input tagline" autocomplete="off" placeholder=" " required/>
+                      <label class="form__label">Email</label>  
+                    </div>
+            
+                    <div class="parent">
+                      <input  type="text" class="form__input desc" autocomplete="off" placeholder=" " required/>
+                      <label  class="form__label">Phone No.</label>  
+                    </div>
+                <div class="btn-1">
+                    <img class="hoverGif" src="./assets/images/14-rec-unscreen.gif" alt="">
+                    <a id="start-btn" onmouseleave="bigImage()" onmouseover="bigImg()"><span>Start</span></a></div>
+                  </form>
+            </div>
+        </div>
+        <main id="question-container" class="hide">
+            <section class="main">
+                <section class="videos">
+                    <video id="video" autoplay muted></video>
+                    <div class="timer">
+                        <div>
+                            <img width="40px" src="./assets/images/basic-animations-TALzd3tg-unscreen.gif" alt="">
+                        </div>
+                        <div id="ten-countdown"></div>
+                    </div>
+                    <video id="video1" autoplay muted></video>
+                </section>
+                <section class="quiz">
+                    <div>
+                        <div class="QA">
+                            <h2 id="number">Question 1</h2>
+                            <h3 class="points-num">Points: </h3>
+                            <button id="next-btn">Next</button>
+                        </div>
+                        <h1 id="question"></h1>
+                    </div>
+
+                    <div class="btns" id="answer-buttons">
+
+                    </div>
+                </section>
+            </section>
+
+            <section class="aside">
+                <section class="points">
+                    <p class="point-marker">12 : 80p </p>
+                    <p class="point-marker">11 : 75p </p>
+                    <p class="point-marker">10 : 70p </p>
+                    <p class="point-marker"> 9 : 65p </p>
+                    <p class="point-marker"> 8 : 60p </p>
+                    <p class="point-marker"> 7 : 55p </p>
+                    <p class="point-marker"> 6 : 50p </p>
+                    <p class="point-marker"> 5 : 45p </p>
+                    <p class="point-marker"> 4 : -5p </p>
+                    <p class="point-marker">3 : -10p </p>
+                    <p class="point-marker">2 : -15p </p>
+                    <p class="point-marker">1 : -20p </p>
+                </section>
+                <div class="line1"></div>
+                <div class="line2"></div>
+                <div class="line3"></div>
+                <div class="line4"></div>
+                <section class="lifesave">
+                    <button class="life1" onclick="call50()"><img src="./assets/images/50.webp" width="51px"
+                            alt=""></button>
+                    <button class="life" onclick="callGoogle()"><img src="./assets/images/google.png" width="50px"
+                            alt=""></button>
+                </section>
+            </section>
+        </main>
+        </main>
+    </div>
+</body>
+
+</html>

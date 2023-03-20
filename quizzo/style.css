@@ -1,0 +1,465 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    box-sizing: border-box;
+    zoom: 100%;
+    background-color: #021A2A;
+}
+
+.quizApplication {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.btn-1 a:hover::after {
+    transform: scaleX(0);
+
+}
+
+.btn-1 a:hover {
+    color: #fff !important;
+    border: 2px solid #fff;
+    transition: all .5s ease;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-size: 24px;
+}
+
+.btn-1,
+.btn-2 {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    flex-direction: column;
+}
+
+.btn-1 a,
+.btn-2 a {
+    text-decoration: none;
+    border: 2px solid #010100;
+    cursor: pointer;
+    padding: 15px;
+    color: #000;
+    background-color: #000;
+    padding: .5em 2em;
+    border-radius: 100px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+    position: relative;
+    display: inline-block;
+}
+
+span {
+    position: relative;
+    z-index: 3;
+}
+
+button[type="submit"] {
+    border: none !important;
+    background: transparent !important;
+}
+
+
+/* Button 1 styles */
+
+.btn-1 a::before {
+    content: "";
+    position: absolute;
+    top: 5px;
+    left: -2px;
+    width: calc(100% + 6px);
+    /*100% plus double the times left values*/
+    height: calc(100% - 10px);
+    background-color: #ffffff;
+    transition: all 0.5s ease-in-out;
+    transform: scaleY(1);
+}
+
+.btn-1 a:hover::before, .btn-1 span:hover {
+    transform: scaleY(0);
+    background: black;
+}
+
+.start {
+    background-color: #3CA5DE;
+    height: 80%;
+    width: 50%;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-1 a::after {
+    content: "";
+    position: absolute;
+    left: 5px;
+    top: -5px;
+    width: calc(100% - 10px);
+    /*100% plus double the times left values*/
+    height: calc(100% + 10px);
+    background-color: #ffffff;
+    transition: all 0.5s ease-in-out;
+    transform: scaleX(1);
+}
+
+.start img {
+    position: absolute;
+    display: none;
+    background-color: transparent !important;
+
+}
+
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.start button {
+    border: 2px solid #021A2A;
+    padding: 3% 10%;
+    color: #021A2A;
+    font-weight: 800;
+    background-color: #3CA5DE;
+    position: relative;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1.2em;
+}
+
+.parent {
+    position: relative;
+    width: 20rem;
+    margin-top: 20%;
+}
+.form__input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 2px solid #021A2A;
+    border-radius: 0.5rem;
+    font-family: inherit;
+    font-size: inherit;
+    outline: none;
+    padding: 1.25rem;
+    background: none;
+   /* Change border when input focus*/
+}
+
+.form__input:focus {
+    border-width: 5px;
+}
+
+.form__label {
+    position: absolute;
+    left: 1rem;
+    top: 0.5rem;
+    color: #010100;
+    z-index: 99;
+    padding: 0 0.5rem;
+    cursor: text;
+    transition: top 200ms ease-in, left 200ms ease-in, font-size 200ms ease-in;
+    background-color: #3CA5DE !important;
+}
+
+.ph {
+    background-color: #3CA5DE !important;
+    z-index: 999;
+}
+/* 1. When the input is in the focus state reduce the size of the label and move upwards 2. Keep label state when content is in input field */
+.form__input:focus ~ .form__label, .form__input:not(:placeholder-shown).form__input:not(:focus) ~ .form__label {
+    top: -0.5rem;
+    font-size: 0.8rem;
+    left: 0.8rem;
+}
+
+.show{
+    transform: translate(0%, 0%);
+}
+
+.life1:hover,
+.life:hover {
+    box-shadow: #3CA5DE 0px 0px 100px;
+    background-color: transparent;
+}
+
+#question-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.videos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+canvas {
+    left: 53% !important;
+    width: 40% !important;
+}
+
+.timer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#ten-countdown {
+    text-align: center;
+    display: inline;
+    padding: 5px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#video,
+#video1 {
+    width: 40% !important;
+    padding: 0 30px;
+    background-color: black;
+}
+
+.hide {
+    display: none !important;
+}
+
+.preloader {
+    width: 100vw;
+    height: 100vh;
+    background-color: #fff;
+    z-index: 99;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.preloader video {
+    width: 10%;
+}
+
+.quiz div h2,
+div h1 {
+    border: 2px solid #3CA5DE;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+div h1 {
+    padding: 5% 2%;
+}
+
+.btns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+
+button {
+    background-color: transparent;
+    color: #fff;
+    border: 2px solid #3CA5DE;
+    border-radius: 5px;
+    padding: 10px 0px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.main {
+    width: 70%;
+}
+
+
+.aside {
+    width: 20%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.line1,
+.line2,
+.line3,
+.line4 {
+    width: 30%;
+    height: 2px;
+    z-index: 99;
+    background-color: #fff;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+
+.line1 {
+    top: 32%;
+    left: 3%;
+}
+
+.line2 {
+    top: 32%;
+    left: 65%;
+}
+
+.videos {
+    position: relative;
+}
+
+canvas {
+    background-color: transparent;
+    z-index: 999;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 40%;
+    padding: 0 30px;
+}
+
+.line3 {
+    top: 52%;
+    left: 3%;
+}
+
+.line4 {
+    top: 52%;
+    left: 65%;
+}
+
+.points {
+    border: 2px solid #3CA5DE;
+    background-color: transparent;
+    border-radius: 10px;
+    width: 100%;
+    text-align: center;
+}
+
+.quiz div h2 {
+    display: inline;
+    font-size: 18px;
+    font-weight: lighter;
+    padding: 1% 1%;
+}
+
+#next-btn {
+    font-size: 18px;
+    font-weight: lighter;
+    padding: 1% 2%;
+}
+
+.lifesave {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2%;
+    width: 120%;
+}
+
+.life1,
+.life {
+    width: 30%;
+}
+
+.QA {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.correct {
+    background: green;
+}
+
+.wrong {
+    background-color: red;
+}
+
+
+::selection {
+    background-color: transparent;
+}
+
+@media only screen and (min-width:370px) and (max-width:600px) {
+
+    .start {
+        height: 3vh;
+        width: 80vw;
+    }
+
+    #start-btn {
+        padding: 5% 10%;
+    }
+
+    #question-container {
+        flex-direction: column;
+        margin-top: 8%;
+    }
+
+    div h1 {
+        margin-top: -1%;
+    }
+
+    #video1 {
+        display: none;
+    }
+
+    #video {
+        width: 50%;
+    }
+
+    #next-btn,
+    #number {
+        padding: 2% 5%;
+    }
+
+    .aside {
+        flex-direction: column;
+        width: 90%;
+        margin-top: 5%;
+    }
+
+    .points {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+
+    .main {
+        width: 90%;
+    }
+
+    .line1,
+    .line2,
+    .line3,
+    .line4 {
+        display: none;
+    }
+
+    #ten-countdown {
+        font-size: 18px;
+    }
+
+    canvas {
+        left: 32.5% !important;
+        width: 50% !important;
+    }
+}
