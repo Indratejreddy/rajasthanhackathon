@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link type="text/css" rel="stylesheet" href="popup.css">
+</head>
+<body>
+<div class="container">
+  <div class="item devs">
+    <img class="rakshit" src="./asset/developers/Ellipse 3.png" alt="">
+    <img class="akash" src="./asset/developers/Ellipse 5.png" alt="">
+    <img class="indratej" src="./asset/developers/profile.png" alt="">
+    <img class="shashank" src="./asset/developers/profile2.png" alt="">
+    <img class="jagadish"  src="./asset/developers/profile3.png" alt="">
+</div>
+<div class="item modes">
+    <div class="one">
+        <img src="./asset/modes/3d circle.png" width="75%%" alt="" srcset="">
+        <img src="./asset/modes/studying.png" width="75%" alt="" srcset="">
+        <h1 c>Study Mode</h1>
+    </div>
+    <div class="two">
+        <img src="./asset/modes/3d circle.png" width="75%" alt="" srcset="">
+        <img src="./asset/modes/disturb.png" class="disturb-img" width="75%" alt="" srcset="">
+        <h1>Entertainment Mode</h1>
+    </div>
+</div>
+<div class="item summarizer">
+    <h1 class="filter-title">Video Summarizer</h1>
+    <input type="text" placeholder="Enter Video Link..." class="video-link-input">
+    <button class="getSummary btn">GET SUMMARY</button>
+    <button class="btn download">DOWNLOAD SUMMARY</SUMMAry></button>
+    <button class="btn getLink">GET LINK OF CURRENT TAB</button>
+    <textarea  class="output" type="text" readonly placeholder="Output Come Here !!" class="video-link-input"></textarea>
+</div>
+
+<div class="item yt-custom-filter">
+  <h1 class="filter-title">Custom Filter</h1>
+
+  <button id="all-categories-btn" class="btn accordian">  
+    <input type="checkbox" id="all_categories">
+    Select All
+</button>
+  <ul class="list-category">
+    <li>
+      <input type="checkbox" id="option1" class="categories"><label for="option1"> Music </label>
+      <svg xmlns="http://www.w3.org/2000/svg" class="btn1 circle dropdown" viewBox="0 0 512 512"><title>Caret Down</title><path d="M98 190.06l139.78 163.12a24 24 0 0036.44 0L414 190.06c13.34-15.57 2.28-39.62-18.22-39.62h-279.6c-20.5 0-31.56 24.05-18.18 39.62z"/></svg>
+
+      <ul>
+        <li><label><input type="checkbox" parent = "option1" id = "10" class="subOption"> Music</label></li>
+        <li><label><input type="checkbox" parent = "option1" id = "33" class="subOption"> Classics</label></li>
+      </ul>
+    </li>
+
+    <li>
+      <input type="checkbox" id="option2" class="categories"><label for="option2"> Entertainment</label>
+      <svg xmlns="http://www.w3.org/2000/svg" class="btn1 circle dropdown" viewBox="0 0 512 512"><title>Caret Down</title><path d="M98 190.06l139.78 163.12a24 24 0 0036.44 0L414 190.06c13.34-15.57 2.28-39.62-18.22-39.62h-279.6c-20.5 0-31.56 24.05-18.18 39.62z"/></svg>
+
+      <ul>
+        <li><label><input type="checkbox" parent = "option2" id = "24" class="subOption"> Entertainment</label></li>
+        <li><label><input type="checkbox" parent = "option2" id = "23" class="subOption"> Comedy</label></li>
+        <li><label><input type="checkbox" parent = "option2" id = "36" class="subOption"> Drama</label></li>
+        <li><label><input type="checkbox" parent = "option2" id = "42" class="subOption"> Shorts</label></li>
+        <li><label><input type="checkbox" parent = "option2" id = "43" class="subOption"> Shows</label></li>
+      </ul>
+    </li>
+    <li>
+      <input type="checkbox" id="option3" class="categories"><label for="option3"> Education</label>
+      <svg xmlns="http://www.w3.org/2000/svg" class="btn1 circle dropdown" viewBox="0 0 512 512"><title>Caret Down</title><path d="M98 190.06l139.78 163.12a24 24 0 0036.44 0L414 190.06c13.34-15.57 2.28-39.62-18.22-39.62h-279.6c-20.5 0-31.56 24.05-18.18 39.62z"/></svg>
+
+      <ul>
+        <li><label><input type="checkbox" parent = "option3" id = "29" class="subOption">Nonprofits & Activism</label></li>
+        <li><label><input type="checkbox" parent = "option3" id = "27" class="subOption"> Education</label></li>
+        <li><label><input type="checkbox" parent = "option3" id = "28" class="subOption">  Science & Technology</label></li>
+      </ul>
+    </li>
+    <li>
+      <input type="checkbox" id="option4" class="categories"><label for="option4"> Explore</label>
+      <svg xmlns="http://www.w3.org/2000/svg" class="btn1 circle dropdown" viewBox="0 0 512 512"><title>Caret Down</title><path d="M98 190.06l139.78 163.12a24 24 0 0036.44 0L414 190.06c13.34-15.57 2.28-39.62-18.22-39.62h-279.6c-20.5 0-31.56 24.05-18.18 39.62z"/></svg>
+
+      <ul>
+        <li><label><input type="checkbox" parent = "option4" id = "19" class="subOption"> Travel & Events</label></li>
+        <li><label><input type="checkbox" parent = "option4" id = "38" class="subOption"> Foreign</label></li>
+      </ul>
+    </li>
+    <li>
+      <input type="checkbox" id="option5" class="categories"><label for="option5"> Sports</label>
+      <svg xmlns="http://www.w3.org/2000/svg" class="btn1 circle dropdown" viewBox="0 0 512 512"><title>Caret Down</title><path d="M98 190.06l139.78 163.12a24 24 0 0036.44 0L414 190.06c13.34-15.57 2.28-39.62-18.22-39.62h-279.6c-20.5 0-31.56 24.05-18.18 39.62z"/></svg>
+
+      <ul>
+        <li><label><input type="checkbox" parent = "option5" id = "17" class="subOption"> Sports</label></li>
+      </ul>
+    </li>
+    <li>
+      <input type="checkbox" id="option6" class="categories"><label for="option6">  News & Politics</label>
+      <svg xmlns="http://www.w3.org/2000/svg" class="btn1 circle dropdown" viewBox="0 0 512 512"><title>Caret Down</title><path d="M98 190.06l139.78 163.12a24 24 0 0036.44 0L414 190.06c13.34-15.57 2.28-39.62-18.22-39.62h-279.6c-20.5 0-31.56 24.05-18.18 39.62z"/></svg>
+
+      <ul>
+        <li><label><input type="checkbox" parent = "option6" id = "25" class="subOption"> News & Politics</label></li>
+      </ul>
+    <li>
+      <input type="checkbox" id="option7" class="categories"><label for="option7"> Gaming</label>
+      <svg xmlns="http://www.w3.org/2000/svg" class="btn1 circle dropdown" viewBox="0 0 512 512"><title>Caret Down</title><path d="M98 190.06l139.78 163.12a24 24 0 0036.44 0L414 190.06c13.34-15.57 2.28-39.62-18.22-39.62h-279.6c-20.5 0-31.56 24.05-18.18 39.62z"/></svg>
+    
+    
+      <ul>
+        <li><label><input type="checkbox" parent = "option7" id = "20" class="subOption"> Gaming</label></li>
+      </ul>
+    </li>
+    <li>
+      <input type="checkbox" id="option8" class="categories"><label for="option8"> Fashion</label>
+      <svg xmlns="http://www.w3.org/2000/svg" class="btn1 circle dropdown" viewBox="0 0 512 512"><title>Caret Down</title><path d="M98 190.06l139.78 163.12a24 24 0 0036.44 0L414 190.06c13.34-15.57 2.28-39.62-18.22-39.62h-279.6c-20.5 0-31.56 24.05-18.18 39.62z"/></svg>
+      <ul>
+        <li><label><input type="checkbox" parent = "option8" id = "26" class="subOption">  Howto & Style</label></li>
+      </ul>
+    </li>
+    <li>
+      <input type="checkbox" id="option9" class="categories"><label for="option9"> Auto</label>
+      <svg xmlns="http://www.w3.org/2000/svg" class="btn1 circle dropdown" viewBox="0 0 512 512"><title>Caret Down</title><path d="M98 190.06l139.78 163.12a24 24 0 0036.44 0L414 190.06c13.34-15.57 2.28-39.62-18.22-39.62h-279.6c-20.5 0-31.56 24.05-18.18 39.62z"/></svg>
+      <ul>
+        <li><label><input type="checkbox" parent = "option9" id = "2" class="subOption">  Autos & Vehicles</label></li>
+      </ul>
+    </li>
+    <li>
+      <input type="checkbox" id="option10" class="categories"><label for="option10"> Blog</label>
+      <svg xmlns="http://www.w3.org/2000/svg" class="btn1 circle dropdown" viewBox="0 0 512 512"><title>Caret Down</title><path d="M98 190.06l139.78 163.12a24 24 0 0036.44 0L414 190.06c13.34-15.57 2.28-39.62-18.22-39.62h-279.6c-20.5 0-31.56 24.05-18.18 39.62z"/></svg>
+      <ul>
+        <li><label><input type="checkbox" parent = "option10" id = "21" class="subOption">  Videoblogging</label></li>
+        <li><label><input type="checkbox" parent = "option10" id = "22" class="subOption">  People & Blogs</label></li>
+      </ul>
+    </li>
+    <li>
+      <input type="checkbox" id="option11" class="categories"><label for="option11"> Movies</label>
+      <svg xmlns="http://www.w3.org/2000/svg" class="btn1 circle dropdown" viewBox="0 0 512 512"><title>Caret Down</title><path d="M98 190.06l139.78 163.12a24 24 0 0036.44 0L414 190.06c13.34-15.57 2.28-39.62-18.22-39.62h-279.6c-20.5 0-31.56 24.05-18.18 39.62z"/></svg>
+
+      <ul>
+        <li><label><input type="checkbox" parent = "option11" id = "30" class="subOption"> Movies & Entertainment</label></li>
+        <li><label><input type="checkbox" parent = "option11" id = "1" class="subOption">  Film & Animation</label></li>
+        <li><label><input type="checkbox" parent = "option11" id = "18" class="subOption"> Short Movies</label></li>
+        <li><label><input type="checkbox" parent = "option11" id = "31" class="subOption"> Anime/Animation</label></li>
+        <li><label><input type="checkbox" parent = "option11" id = "32" class="subOption"> Action/Adventure</label></li>
+        <li><label><input type="checkbox" parent = "option11" id = "35" class="subOption"> Documentary</label></li>
+        <li><label><input type="checkbox" parent = "option11" id = "39" class="subOption"> Horror</label></li>
+        <li><label><input type="checkbox" parent = "option11" id = "40" class="subOption"> Sci-fi/Fantasy</label></li>
+        <li><label><input type="checkbox" parent = "option11" id = "41" class="subOption"> Thriller</label></li>
+        <li><label><input type="checkbox" parent = "option11" id = "44" class="subOption"> Trailers</label></li>
+      </ul>
+    </li>
+
+    <li>
+      <input type="checkbox" id="option12" class="categories"><label for="option12"> TidBits</label>
+      <svg xmlns="http://www.w3.org/2000/svg" class="btn1 circle dropdown" viewBox="0 0 512 512"><title>Caret Down</title><path d="M98 190.06l139.78 163.12a24 24 0 0036.44 0L414 190.06c13.34-15.57 2.28-39.62-18.22-39.62h-279.6c-20.5 0-31.56 24.05-18.18 39.62z"/></svg>
+
+      <ul>
+        <li><label><input type="checkbox" parent = "option12" id = "37" class="subOption"> Family</label></li>
+        <li><label><input type="checkbox" parent = "option12" id = "15" class="subOption"> Pets & Animals</label></li>
+
+      </ul>
+    </li>
+
+  </ul>
+  <button id="reload" class='btn set-time-btn'>Make Change</button>
+</div>
+<div class="item"></div>
+<div class="item"></div>
+<!-- Include the Google Charts API library -->
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<!-- Load the YouTube Data API client library -->
+<script src="./index.js"></script>
+</div>
+<script src="popup.js"></script>
+</body>
+</html>
