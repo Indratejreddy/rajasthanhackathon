@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Вивчення мов за допомогою Netflix і YouTube™"
+  },
+  "manifestAppDesc": {
+    "message": "Вивчення мови з розширенням Netflix (LLN) і вивчення мови з YouTube (LLY)"
+  },
+  "appName": {
+    "message": "Вивчайте мову з LLNY!"
+  },
+  "appDesc": {
+    "message": "Вивчення мови з розширенням Netflix робить ваше життя набагато легшим і веселішим"
+  },
+  "upper": {
+    "message": "Верхня"
+  },
+  "lower": {
+    "message": "Нижній"
+  },
+  "disableTestModeTitle": {
+    "message": "Вимкніть тестовий режим"
+  },
+  "disableTestModeDescription": {
+    "message": "Netflix іноді запускає тести, які можуть спричинити неправильну роботу вивчення мови за допомогою Netflix. Щоб уникнути проблем,\nрекомендуємо вимкнути участь у тестуванні Netflix. Це легко:"
+  },
+  "disableTestModeButton": {
+    "message": "Вимкнути тестування"
+  },
+  "lowerSelectBox": {
+    "message": "Нижня мова субтитрів:"
+  },
+  "okayButton": {
+    "message": "Гаразд"
+  },
+  "closeButton": {
+    "message": "Закрити"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY Завантажити субтитри"
+  },
+  "chooseOneFormat": {
+    "message": "Виберіть один формат:"
+  },
+  "onePerDayForFree": {
+    "message": "Один раз на день безкоштовно"
+  },
+  "loading": {
+    "message": "Завантаження"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - Рідна мова"
+  },
+  "hello": {
+    "message": "Привіт"
+  },
+  "pleaseSelectYour": {
+    "message": "Будь ласка, виберіть свій"
+  },
+  "upperSubtitles": {
+    "message": "Верхні субтитри"
+  },
+  "targetLanguage": {
+    "message": "Мова перекладу"
+  },
+  "lowerSubtitles": {
+    "message": "Нижчі субтитри"
+  },
+  "motherLanguage": {
+    "message": "Рідна мова"
+  },
+  "translationLanguage": {
+    "message": "Мова перекладу"
+  },
+  "anyProblemInFunctionality": {
+    "message": "Будь-яку проблему з функціональністю цього розширення можна вирішити простим оновленням"
+  },
+  "signInForFree": {
+    "message": "Увійдіть безкоштовно"
+  },
+  "speedUpLanguageLearning": {
+    "message": "Прискорити вивчення мови"
+  },
+  "subtitles": {
+    "message": "Субтитри"
+  },
+  "words": {
+    "message": "Слова"
+  },
+  "help": {
+    "message": "Допоможіть"
+  },
+  "saveWordMeaning": {
+    "message": "Ви можете зберегти значення будь-якого слова, клацнувши по ньому правою кнопкою миші"
+  },
+  "always": {
+    "message": "Завжди"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "Лише слова з цього відео?"
+  },
+  "exportAs": {
+    "message": "Завантажити як"
+  },
+  "file": {
+    "message": "файл"
+  },
+  "howToChangeSubtitles": {
+    "message": "Як змінити мову субтитрів"
+  },
+  "howToTranslateWord": {
+    "message": "Як перекласти слово"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "Наведіть курсор миші на оригінальні субтитри"
+  },
+  "howToSaveWords": {
+    "message": "Як зберегти слова"
+  },
+  "clickAnyWordOnThe": {
+    "message": "Просто клацніть будь-яке слово з оригінальних субтитрів, а потім натисніть на"
+  },
+  "sign": {
+    "message": "знак"
+  },
+  "howToSaveSentence": {
+    "message": "Як зберегти речення"
+  },
+  "clickOnThe": {
+    "message": "Натисніть на"
+  },
+  "clickOnLanguageTab": {
+    "message": "Натисніть на піктограму налаштувань, а потім натисніть на вкладку мови, щоб знайти відповідний селектор"
+  },
+  "signAtTheEndOfSentence": {
+    "message": "підпишіть у кінці будь-якого речення, яке вам подобається"
+  },
+  "howToExportWords": {
+    "message": "Як завантажити слова"
+  },
+  "clickOnSettingButton": {
+    "message": "Натисніть на кнопку налаштування"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "у нижній частині програвача, а потім натисніть кнопку завантаження файлу, щоб завантажити текстовий файл"
+  },
+  "howToPronounceWords": {
+    "message": "Як вимовляти слова"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "Просто натисніть будь-яке слово оригінальних субтитрів"
+  },
+  "uploadSubtitle": {
+    "message": "Завантажте субтитри"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "Мова завантажених субтитрів:"
+  },
+  "delaySubtitles": {
+    "message": "Затримка субтитрів"
+  },
+  "decrease": {
+    "message": "Зменшення"
+  },
+  "increase": {
+    "message": "Збільшувати"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "Натисніть, щоб вибрати ВЕРХНІ субтитри"
+  },
+  "mainSubtitles": {
+    "message": "Основні субтитри"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "Натисніть, щоб вибрати НИЖНІ субтитри"
+  },
+  "translateSubtitles": {
+    "message": "Переклад субтитрів"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "Верхня мова субтитрів:"
+  },
+  "settngsMenuHeader": {
+    "message": "Меню налаштувань LLNY"
+  },
+  "appearance": {
+    "message": "Зовнішній вигляд"
+  },
+  "tools": {
+    "message": "Інструменти"
+  },
+  "shortcuts": {
+    "message": "Ярлики"
+  },
+  "rateUs": {
+    "message": "Оцініть нас"
+  },
+  "account": {
+    "message": "Рахунок"
+  },
+  "languages": {
+    "message": "Рахунок"
+  },
+  "showHide": {
+    "message": "Показати/сховати"
+  },
+  "fontSize": {
+    "message": "Розмір шрифту"
+  },
+  "color": {
+    "message": "Колір"
+  },
+  "download": {
+    "message": "Завантажити"
+  },
+  "thirdSubtitle": {
+    "message": "Треті субтитри"
+  },
+  "machineTranslate": {
+    "message": "Машинний переклад"
+  },
+  "hoverDictionary": {
+    "message": "Мишачий словник"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "Колір фону субтитрів"
+  },
+  "choose": {
+    "message": "Виберіть"
+  },
+  "blur": {
+    "message": "Розмиття"
+  },
+  "show": {
+    "message": "Показати"
+  },
+  "hide": {
+    "message": "Сховати"
+  },
+  "bothLanguages": {
+    "message": "Обидві мови"
+  },
+  "sidebarSubtitles": {
+    "message": "Субтитри бічної панелі"
+  },
+  "phonetics": {
+    "message": "фонетика"
+  },
+  "no": {
+    "message": "Ні"
+  },
+  "and": {
+    "message": "і"
+  },
+  "original": {
+    "message": "Оригінал"
+  },
+  "romanji": {
+    "message": "Romanji"
+  },
+  "hirgana": {
+    "message": "Хіргана"
+  },
+  "wordPronunciation": {
+    "message": "Вимова слова"
+  },
+  "speed": {
+    "message": "Швидкість"
+  },
+  "stop": {
+    "message": "СТОП"
+  },
+  "automaticStopAfterSentence": {
+    "message": "Автоматична зупинка після кожного речення"
+  },
+  "theButton": {
+    "message": "кнопка"
+  },
+  "autoStopAfterTime": {
+    "message": "Автоматична зупинка та запуск через час"
+  },
+  "autoStopWithSpace": {
+    "message": "Auto Stop and Start with Space"
+  },
+  "videoPause": {
+    "message": "Пауза відео"
+  },
+  "time": {
+    "message": "Час"
+  },
+  "downloadWords": {
+    "message": "Завантажити Words"
+  },
+  "enableDisable": {
+    "message": "Увімкнути/Вимкнути"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "Уповільніть швидкість відтворення"
+  },
+  "normalPlaybackSpeed": {
+    "message": "Нормальна швидкість відтворення"
+  },
+  "speedUpPlayBack": {
+    "message": "Прискорити відтворення"
+  },
+  "saveCurrentSubtitles": {
+    "message": "Зберегти поточні субтитри"
+  },
+  "backward": {
+    "message": "Назад"
+  },
+  "forward": {
+    "message": "Вперед"
+  },
+  "previousSentence": {
+    "message": "Попереднє речення"
+  },
+  "repeatSentence": {
+    "message": "Повторити речення"
+  },
+  "nextSentence": {
+    "message": "Наступне речення"
+  },
+  "unlimitedRepeat": {
+    "message": "Необмежена кількість повторів"
+  },
+  "playPause": {
+    "message": "Відтворити / Пауза"
+  },
+  "beGenerousUser": {
+    "message": "Ви можете бути щедрим користувачем, написавши тут відгук. Спасибі!"
+  },
+  "writeReview": {
+    "message": "Написати відгук"
+  },
+  "tweetAboutUs": {
+    "message": "Твіти про нас"
+  },
+  "reportBug": {
+    "message": "Повідомити про помилки"
+  },
+  "askForNew": {
+    "message": "Попросіть нове"
+  },
+  "signOut": {
+    "message": "Вийти з аккаунта"
+  },
+  "version": {
+    "message": "Версія"
+  },
+  "translations": {
+    "message": "Переклади"
+  },
+  "saved": {
+    "message": "Збережено"
+  },
+  "export": {
+    "message": "Завантажити"
+  },
+  "bothSubtitles": {
+    "message": "Обидва субтитри"
+  },
+  "exportSaveWords": {
+    "message": "Завантажте збережені слова"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "Цю мову можна змінити в налаштуваннях відео"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "Цю мову можна змінити в налаштуваннях розширення"
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "Пошук відео з субтитрами"
+  },
+  "andTranslationOfItIs": {
+    "message": "І його переклад"
+  },
+  "note": {
+    "message": "Примітка"
+  },
+  "edit": {
+    "message": "РЕДАГУВАТИ"
+  },
+  "toChangeShareContent": {
+    "message": "щоб змінити Поділитися вмістом"
+  },
+  "discardChanges": {
+    "message": "Скасувати зміни"
+  },
+  "primarySubtitle": {
+    "message": "Основні субтитри"
+  },
+  "translation": {
+    "message": "Переклад"
+  },
+  "saveChanges": {
+    "message": "Зберегти зміни"
+  },
+  "share": {
+    "message": "Поділіться"
+  },
+  "loadingMainSubtitles": {
+    "message": "Завантаження основних субтитрів"
+  },
+  "youtubeMenu": {
+    "message": "Меню YouTube"
+  },
+  "off": {
+    "message": "Вимкнено"
+  },
+  "mouseDictionary": {
+    "message": "Мишачий словник"
+  },
+  "premmium": {
+    "message": "Преміум"
+  },
+  "highSpeedLearning": {
+    "message": "Високошвидкісне навчання"
+  },
+  "pronunciation": {
+    "message": "Вимова"
+  },
+  "sidebarTranslations": {
+    "message": "Переклади бічної панелі"
+  },
+  "keyboardShortcuts": {
+    "message": "Гарячі клавіши"
+  },
+  "toUseShortcuts": {
+    "message": "Щоб використовувати, спочатку активуйте ярлики в налаштуваннях"
+  },
+  "upgradeYourAccount": {
+    "message": "Оновіть свій обліковий запис, щоб використовувати машинний переклад!"
+  },
+  "startYourFreeTrial": {
+    "message": "Почніть БЕЗКОШТОВНУ пробну версію"
+  },
+  "toAccessMachineTranslations": {
+    "message": "щоб отримати доступ до машинного перекладу для всіх фільмів"
+  },
+  "freeTrial": {
+    "message": "Безкоштовний пробний період"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "Щоб увімкнути/вимкнути фонетику для корейської, японської, спрощеної китайської та традиційної китайської мов, перейдіть до налаштувань або натисніть кнопку нижче!"
+  },
+  "openMenu": {
+    "message": "Відкрийте меню"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "Увійдіть, щоб завантажити файл субтитрів!"
+  },
+  "loginForFree": {
+    "message": "Увійдіть безкоштовно"
+  },
+  "subscribe": {
+    "message": "Підписатися"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "Ви досягли щоденного обмеження на завантаження субтитрів. Отримайте БЕЗКОШТОВНУ пробну версію, щоб завантажити більше субтитрів!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "Ой! Це відео не має субтитрів!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "Будь ласка, увійдіть, щоб зберегти слова у своєму обліковому записі"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "Почніть БЕЗКОШТОВНУ пробну версію для використання цієї функції!"
+  },
+  "getYourTrialToUpload": {
+    "message": "Отримайте БЕЗКОШТОВНУ пробну версію для завантаження субтитрів"
+  },
+  "loginToLearnPronunciation": {
+    "message": "Увійдіть, щоб дізнатися точну вимову кожного слова"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "Ви досягли щоденного ліміту вимови. Отримайте БЕЗКОШТОВНУ пробну версію, щоб почути необмежену кількість слів"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "Ви досягли щоденного ліміту збереження слів. Отримайте БЕЗКОШТОВНУ пробну версію, щоб вивчити необмежену кількість слів"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "Ви досягли щоденного ліміту редагування. Отримайте БЕЗКОШТОВНУ пробну версію з необмеженою кількістю змін"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "Більш точні значення ви можете побачити у своїй підписці!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "Отримайте БЕЗКОШТОВНУ пробну версію, щоб показати/приховати цільові субтитри"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "Отримайте БЕЗКОШТОВНУ пробну версію, щоб показати/приховати вторинні субтитри"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "Отримайте БЕЗКОШТОВНУ пробну версію, щоб показати/приховати вторинні субтитри"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "Увійдіть, щоб відфільтрувати збережені слова на основі"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "Отримайте БЕЗКОШТОВНУ пробну версію, щоб фільтрувати збережені слова на основі"
+  },
+  "haveProblem": {
+    "message": "Якщо у вас виникли проблеми, будь ласка, вийдіть і ввійдіть знову"
+  },
+  "date": {
+    "message": "дата"
+  },
+  "video": {
+    "message": "відео"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "Увійдіть, щоб зберегти колір субтитрів!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "Увійдіть, щоб зберегти непрозорість субтитрів!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "Увійдіть, щоб зберегти розмір шрифту субтитрів!"
+  },
+  "loginToExportSubtitles": {
+    "message": "Будь ласка, увійдіть, щоб завантажити субтитри!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "Увійдіть, щоб завантажити збережені слова як"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "Отримайте БЕЗКОШТОВНУ пробну версію, щоб завантажити збережені слова як"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "Отримайте БЕЗКОШТОВНУ пробну версію збереженого речення на основі відео"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "Отримайте БЕЗКОШТОВНУ пробну версію, щоб отримати доступ до машинного перекладу як третього субтитра."
+  },
+  "synchronize": {
+    "message": "Синхронізувати"
+  },
+  "settings": {
+    "message": "Налаштування"
+  },
+  "moreActions": {
+    "message": "Інші дії"
+  },
+  "openSidebar": {
+    "message": "Відкрийте бічну панель"
+  },
+  "moreSettingsButton": {
+    "message": "Розширені налаштування"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "Субтитри/CC"
+  }
+}

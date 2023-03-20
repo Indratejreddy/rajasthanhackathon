@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "تعلم اللغة مع نتفلیکس و یوتیوب"
+  },
+  "manifestAppDesc": {
+    "message": "(LLY)وتعلم اللغة مع یوتیوب (LLN) تعلم اللغة مع امتداد نتفلیکس "
+  },
+  "appName": {
+    "message": "!LLNYتعلم اللغة مع "
+  },
+  "appDesc": {
+    "message": "يجعل تعلم اللغة باکستنشن نتفلیکس حياتك أكثر سهولة ومتعة"
+  },
+  "upper": {
+    "message": "العلوي"
+  },
+  "lower": {
+    "message": "أدنى"
+  },
+  "disableTestModeTitle": {
+    "message": "تعطيل وضع الاختبار"
+  },
+  "disableTestModeDescription": {
+    "message": ":بإيقاف تشغيل مشاركة اختبار نتفلیکس. من السهل\nيقوم نتفلیکس أحيانًا بإجراء اختبارات قد تؤدي إلى عدم عمل تعلم اللغة مع نتفلیکس بشكل صحيح. لتجنب المشاكل ، نوصي"
+  },
+  "disableTestModeButton": {
+    "message": "تعطيل الاختبار"
+  },
+  "lowerSelectBox": {
+    "message": ":لغة الترجمة السفلية"
+  },
+  "okayButton": {
+    "message": "تمام"
+  },
+  "closeButton": {
+    "message": "يغلق"
+  },
+  "exportSubtitlesHeader": {
+    "message": "تحميل ترجماتLLNY"
+  },
+  "chooseOneFormat": {
+    "message": ":اختر تنسيقًا واحدًا"
+  },
+  "onePerDayForFree": {
+    "message": "واحد في اليوم مجانا"
+  },
+  "loading": {
+    "message": "تحميل"
+  },
+  "nativeLanguageHeader": {
+    "message": " اللغة الأم-LLNY"
+  },
+  "hello": {
+    "message": "مرحبًا"
+  },
+  "pleaseSelectYour": {
+    "message": "الرجاء تحديد الخاص بك"
+  },
+  "upperSubtitles": {
+    "message": "ترجمات العلوي"
+  },
+  "targetLanguage": {
+    "message": "لغة الهدف"
+  },
+  "lowerSubtitles": {
+    "message": "ترجمات أقل"
+  },
+  "motherLanguage": {
+    "message": "اللغة الأم"
+  },
+  "translationLanguage": {
+    "message": "لغة الترجمة"
+  },
+  "anyProblemInFunctionality": {
+    "message": "يمكن حل أي مشكلة في وظائف هذا اکستنشن من خلال تحديث بسيط"
+  },
+  "signInForFree": {
+    "message": "تسجيل الدخول مجانا"
+  },
+  "speedUpLanguageLearning": {
+    "message": "تسريع تعلم اللغة"
+  },
+  "subtitles": {
+    "message": "ترجمات"
+  },
+  "words": {
+    "message": "كلمات"
+  },
+  "help": {
+    "message": "مساعدة"
+  },
+  "saveWordMeaning": {
+    "message": "يمكنك حفظ معنى أي كلمة من خلال النقر بزر الماوس الأيمن عليها"
+  },
+  "always": {
+    "message": "دائماً"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "فقط كلمات هذا الفيديو؟"
+  },
+  "exportAs": {
+    "message": "تحميل ك"
+  },
+  "file": {
+    "message": "ملف"
+  },
+  "howToChangeSubtitles": {
+    "message": "كيفية تغيير لغة الترجمة"
+  },
+  "howToTranslateWord": {
+    "message": "كيف تترجم كلمة"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "حرك الماوس فوق الترجمة الأصلية"
+  },
+  "howToSaveWords": {
+    "message": "كيفية حفظ الكلمات"
+  },
+  "clickAnyWordOnThe": {
+    "message": "فقط انقر فوق أي كلمة من الترجمة الأصلية ، ثم انقر فوق"
+  },
+  "sign": {
+    "message": "وقع"
+  },
+  "howToSaveSentence": {
+    "message": "كيفية حفظ الجمل"
+  },
+  "clickOnThe": {
+    "message": "اضغط على"
+  },
+  "clickOnLanguageTab": {
+    "message": "انقر فوق رمز الإعداد ، ثم انقر فوق علامة تبويب اللغة للعثور على المحدد المناسب"
+  },
+  "signAtTheEndOfSentence": {
+    "message": "قم بالتوقيع في نهاية أي جملة تريدها"
+  },
+  "howToExportWords": {
+    "message": "كيفية تحميل الكلمات"
+  },
+  "clickOnSettingButton": {
+    "message": "انقر فوق زر الإعداد"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "في الجزء السفلي من المشغل ، ثم انقر فوق زر تنزيل الملف لتنزيل الملف النصي"
+  },
+  "howToPronounceWords": {
+    "message": "كيف تنطق الكلمات"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "فقط انقر فوق أي كلمة من الترجمة الأصلية"
+  },
+  "uploadSubtitle": {
+    "message": "تحميل ترجمات"
+  },
+  "subtitlesUploadLanguage": {
+    "message": ":لغة الترجمة التي تم تحميلها"
+  },
+  "delaySubtitles": {
+    "message": "ترجمات التأخير"
+  },
+  "decrease": {
+    "message": "ينقص"
+  },
+  "increase": {
+    "message": "زيادة"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "انقر لتحديد ترجمات أعلاه"
+  },
+  "mainSubtitles": {
+    "message": "الترجمات الرئيسية"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "انقر لتحديد ترجمات تحت"
+  },
+  "translateSubtitles": {
+    "message": "ترجمة الترجمة"
+  },
+  "upperSubtitlesLanguage": {
+    "message": ":لغة الترجمة العلوية"
+  },
+  "settngsMenuHeader": {
+    "message": "LLNYقائمة إعدادات "
+  },
+  "appearance": {
+    "message": "مظهر"
+  },
+  "tools": {
+    "message": "أدوات"
+  },
+  "shortcuts": {
+    "message": "الاختصارات"
+  },
+  "rateUs": {
+    "message": "قيمنا"
+  },
+  "account": {
+    "message": "الحساب"
+  },
+  "languages": {
+    "message": "اللغات"
+  },
+  "showHide": {
+    "message": "اظهر/المخفي"
+  },
+  "fontSize": {
+    "message": "حجم الخط"
+  },
+  "color": {
+    "message": "اللون"
+  },
+  "download": {
+    "message": "تحميل"
+  },
+  "thirdSubtitle": {
+    "message": "الترجمات الثالثة"
+  },
+  "machineTranslate": {
+    "message": "الترجمة الآلية"
+  },
+  "hoverDictionary": {
+    "message": "قاموس الماوس"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "لون خلفية الترجمة"
+  },
+  "choose": {
+    "message": "أختر"
+  },
+  "blur": {
+    "message": "طمس"
+  },
+  "show": {
+    "message": "يعرض"
+  },
+  "hide": {
+    "message": "إخفاء"
+  },
+  "bothLanguages": {
+    "message": "كلتا اللغتين"
+  },
+  "sidebarSubtitles": {
+    "message": "ترجمات الشريط الجانبي"
+  },
+  "phonetics": {
+    "message": "علم الصوتيات"
+  },
+  "no": {
+    "message": "لا"
+  },
+  "and": {
+    "message": "و"
+  },
+  "original": {
+    "message": "أصلي"
+  },
+  "romanji": {
+    "message": "رومانجی"
+  },
+  "hirgana": {
+    "message": "هيرجانا"
+  },
+  "wordPronunciation": {
+    "message": "نطق الكلمات"
+  },
+  "speed": {
+    "message": "سرعة"
+  },
+  "stop": {
+    "message": "قف"
+  },
+  "automaticStopAfterSentence": {
+    "message": "الإيقاف التلقائي بعد كل جملة"
+  },
+  "theButton": {
+    "message": "الزر"
+  },
+  "autoStopAfterTime": {
+    "message": "التوقف التلقائي والبدء بعد الوقت"
+  },
+  "autoStopWithSpace": {
+    "message": "التوقف التلقائي والبدء بالمساحة"
+  },
+  "videoPause": {
+    "message": "وقفة الفيديو"
+  },
+  "time": {
+    "message": "وقت"
+  },
+  "downloadWords": {
+    "message": "تحميل الكلمات"
+  },
+  "enableDisable": {
+    "message": "مفعل/غير مفعل"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "إبطاء سرعة التشغيل"
+  },
+  "normalPlaybackSpeed": {
+    "message": "سرعة التشغيل العادية"
+  },
+  "speedUpPlayBack": {
+    "message": "تسريع التشغيل"
+  },
+  "saveCurrentSubtitles": {
+    "message": "حفظ الترجمة الحالية"
+  },
+  "backward": {
+    "message": "الى الوراء"
+  },
+  "forward": {
+    "message": "إلى الأمام"
+  },
+  "previousSentence": {
+    "message": "الجملة السابقة"
+  },
+  "repeatSentence": {
+    "message": "كرر الجملة"
+  },
+  "nextSentence": {
+    "message": "الجملة التالية"
+  },
+  "unlimitedRepeat": {
+    "message": "كرر غير محدود"
+  },
+  "playPause": {
+    "message": "تشغيل / وقفة"
+  },
+  "beGenerousUser": {
+    "message": "!يمكنك أن تكون مستخدمًا كريمًا عن طريق كتابة مراجعة هنا. شكرًا"
+  },
+  "writeReview": {
+    "message": "أكتب مراجعة"
+  },
+  "tweetAboutUs": {
+    "message": "غرد عنا"
+  },
+  "reportBug": {
+    "message": "تبليغ عن ثغرة"
+  },
+  "askForNew": {
+    "message": "اسأل عن الجديد"
+  },
+  "signOut": {
+    "message": "خروج"
+  },
+  "version": {
+    "message": "الإصدار"
+  },
+  "translations": {
+    "message": "الترجمات"
+  },
+  "saved": {
+    "message": "أنقذ"
+  },
+  "export": {
+    "message": "تحميل"
+  },
+  "bothSubtitles": {
+    "message": "كلا الترجمتين"
+  },
+  "exportSaveWords": {
+    "message": "تنزيل الكلمات المحفوظة"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "يمكنك تغيير هذه اللغة على إعدادات الفيديو"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "يمكنك تغيير هذه اللغة في إعدادات اکستنشن"
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "البحث عن مقاطع الفيديو مع الترجمة"
+  },
+  "andTranslationOfItIs": {
+    "message": "وترجمتها"
+  },
+  "note": {
+    "message": "ملحوظة"
+  },
+  "edit": {
+    "message": "تعديل"
+  },
+  "toChangeShareContent": {
+    "message": "لتغيير مشاركة المحتوى"
+  },
+  "discardChanges": {
+    "message": "تجاهل التغييرات"
+  },
+  "primarySubtitle": {
+    "message": "العنوان الفرعي الأساسي"
+  },
+  "translation": {
+    "message": "ترجمة"
+  },
+  "saveChanges": {
+    "message": "حفظ التغييرات"
+  },
+  "share": {
+    "message": "شارك"
+  },
+  "loadingMainSubtitles": {
+    "message": "تحميل الترجمات الرئيسية"
+  },
+  "youtubeMenu": {
+    "message": "قائمة يوتيوب"
+  },
+  "off": {
+    "message": "عن"
+  },
+  "mouseDictionary": {
+    "message": "قاموس الماوس"
+  },
+  "premmium": {
+    "message": "برمیوم"
+  },
+  "highSpeedLearning": {
+    "message": "التعلم عالي السرعة"
+  },
+  "pronunciation": {
+    "message": "النطق"
+  },
+  "sidebarTranslations": {
+    "message": "ترجمات الشريط الجانبي"
+  },
+  "keyboardShortcuts": {
+    "message": "اختصارات لوحة المفاتيح"
+  },
+  "toUseShortcuts": {
+    "message": "للاستخدام ، قم أولاً بتنشيط الاختصارات من الإعدادات"
+  },
+  "upgradeYourAccount": {
+    "message": "!قم بترقية حسابك لاستخدام الترجمة الآلية"
+  },
+  "startYourFreeTrial": {
+    "message": "ابدأ تجربتك المجانية"
+  },
+  "toAccessMachineTranslations": {
+    "message": "للوصول إلى الترجمات الآلية لجميع الأفلام"
+  },
+  "freeTrial": {
+    "message": "تجربة مجانية"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "لتمكين / تعطيل الصوت للغات الكورية واليابانية والصينية المبسطة والصينية التقليدية ، انتقل إلى الإعداد أو انقر فوق الزر أدناه!"
+  },
+  "openMenu": {
+    "message": "افتح القائمة"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "!سجل الدخول لتنزيل ملف الترجمة"
+  },
+  "loginForFree": {
+    "message": "تسجيل الدخول مجانا"
+  },
+  "subscribe": {
+    "message": "يشترك"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "!لقد وصلت إلى حدودك اليومية لتنزيل الترجمات. احصل على الإصدار التجريبي المجاني لتنزيل المزيد من الترجمات"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "!أُووبس! هذا الفيديو ليس له ترجمة"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "الرجاء تسجيل الدخول لحفظ الكلمات في حسابك"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "!ابدأ تجربتك المجانية لاستخدام هذه الميزة"
+  },
+  "getYourTrialToUpload": {
+    "message": "احصل على الإصدار التجريبي المجاني لتحميل الترجمة"
+  },
+  "loginToLearnPronunciation": {
+    "message": "سجل الدخول لتتعلم النطق الدقيق لكل كلمة"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "لقد وصلت إلى حدودك اليومية للنطق. احصل على الإصدار التجريبي المجاني لسماع عدد غير محدود من الكلمات"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "لقد وصلت إلى حدودك اليومية لحفظ الكلمات. احصل على الإصدار التجريبي المجاني لتعلم عدد غير محدود من الكلمات"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "لقد وصلت إلى حدودك اليومية للتحرير. احصل على نسختك التجريبية المجانية لعدد غير محدود من التعديلات"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "!يمكنك أن ترى معاني أكثر دقة في اشتراكك"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "احصل على الإصدار التجريبي المجاني لإظهار / إخفاء العنوان الفرعي الهدف"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "احصل على الإصدار التجريبي المجاني لإظهار / إخفاء الترجمة الثانوية"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "احصل على الإصدار التجريبي المجاني لإظهار / إخفاء الترجمة الثانوية"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "تسجيل الدخول لتصفية الكلمات المحفوظة على أساس"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "احصل على الإصدار التجريبي المجاني لتصفية الكلمات المحفوظة بناءً على"
+  },
+  "haveProblem": {
+    "message": "إذا كانت لديك مشكلة ، فالرجاء تسجيل الخروج وتسجيل الدخول مرة أخرى"
+  },
+  "date": {
+    "message": "تاريخ"
+  },
+  "video": {
+    "message": "فيديو"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "!تسجيل الدخول للحفاظ على لون الترجمة"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "!تسجيل الدخول لحفظ عتامة الترجمة"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "!سجل الدخول لحفظ حجم خط الترجمة"
+  },
+  "loginToExportSubtitles": {
+    "message": "!الرجاء تسجيل الدخول لتنزيل ترجمات"
+  },
+  "loginToSavedWordsAs": {
+    "message": "قم بتسجيل الدخول لتنزيل الكلمات المحفوظة بصيغة"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "احصل على الإصدار التجريبي المجاني لتنزيل الكلمات المحفوظة بتنسيق"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "احصل على الإصدار التجريبي المجاني للجملة المحفوظة بناءً على الفيديو"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": ".احصل على الإصدار التجريبي المجاني للوصول إلى الترجمات الآلية كعنوان فرعي ثالث"
+  },
+  "synchronize": {
+    "message": "تزامن"
+  },
+  "settings": {
+    "message": "إعدادات"
+  },
+  "moreActions": {
+    "message": "مزيد من الإجراءات"
+  },
+  "openSidebar": {
+    "message": "افتح الشريط الجانبي"
+  },
+  "moreSettingsButton": {
+    "message": "إعدادات متقدمة"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "ترجمة وشرح"
+  }
+}

@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Aprenentatge d'idiomes amb Netflix i YouTube™"
+  },
+  "manifestAppDesc": {
+    "message": "Aprenentatge d'idiomes amb extensió Netflix (LLN) i Aprenentatge d'idiomes amb YouTube (LLY)"
+  },
+  "appName": {
+    "message": "Aprenent idioma amb LLNY!"
+  },
+  "appDesc": {
+    "message": "L'aprenentatge d'idiomes amb l'extensió de Netflix et fa la vida molt més fàcil i divertida"
+  },
+  "upper": {
+    "message": "Superior"
+  },
+  "lower": {
+    "message": "Més baix"
+  },
+  "disableTestModeTitle": {
+    "message": "Desactiva el mode de prova"
+  },
+  "disableTestModeDescription": {
+    "message": "De vegades, Netflix realitza proves que poden fer que l'aprenentatge d'idiomes amb Netflix no funcioni correctament. Per evitar problemes,\nrecomanem que desactivis la participació a les proves de Netflix. És fàcil:"
+  },
+  "disableTestModeButton": {
+    "message": "Desactiva les proves"
+  },
+  "lowerSelectBox": {
+    "message": "Idioma inferior dels subtítols:"
+  },
+  "okayButton": {
+    "message": "Bé"
+  },
+  "closeButton": {
+    "message": "Tanca"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY Descarrega els subtítols"
+  },
+  "chooseOneFormat": {
+    "message": "Trieu un format:"
+  },
+  "onePerDayForFree": {
+    "message": "Un al dia gratis"
+  },
+  "loading": {
+    "message": "Carregant"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - Llengua nativa"
+  },
+  "hello": {
+    "message": "Hola"
+  },
+  "pleaseSelectYour": {
+    "message": "Seleccioneu el vostre"
+  },
+  "upperSubtitles": {
+    "message": "Subtítols superiors"
+  },
+  "targetLanguage": {
+    "message": "Llengua objectiu"
+  },
+  "lowerSubtitles": {
+    "message": "Subtítols inferiors"
+  },
+  "motherLanguage": {
+    "message": "Llengua materna"
+  },
+  "translationLanguage": {
+    "message": "Idioma de traducció"
+  },
+  "anyProblemInFunctionality": {
+    "message": "Qualsevol problema en la funcionalitat d'aquesta extensió es pot resoldre amb una simple actualització"
+  },
+  "signInForFree": {
+    "message": "Inicieu la sessió gratuïtament"
+  },
+  "speedUpLanguageLearning": {
+    "message": "Accelera l'aprenentatge d'idiomes"
+  },
+  "subtitles": {
+    "message": "subtítols"
+  },
+  "words": {
+    "message": "Paraules"
+  },
+  "help": {
+    "message": "Ajuda"
+  },
+  "saveWordMeaning": {
+    "message": "Podeu desar el significat de qualsevol paraula fent-hi clic amb el botó dret"
+  },
+  "always": {
+    "message": "Sempre"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "Només paraules d'aquest vídeo?"
+  },
+  "exportAs": {
+    "message": "Descarrega com a"
+  },
+  "file": {
+    "message": "dossier"
+  },
+  "howToChangeSubtitles": {
+    "message": "Com canviar l'idioma dels subtítols"
+  },
+  "howToTranslateWord": {
+    "message": "Com traduir la paraula"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "Passeu el ratolí sobre els subtítols originals"
+  },
+  "howToSaveWords": {
+    "message": "Com estalviar paraules"
+  },
+  "clickAnyWordOnThe": {
+    "message": "Només cal que feu clic a qualsevol paraula dels subtítols originals i després feu clic a "
+  },
+  "sign": {
+    "message": "signe"
+  },
+  "howToSaveSentence": {
+    "message": "Com guardar frases"
+  },
+  "clickOnThe": {
+    "message": "Feu clic a "
+  },
+  "clickOnLanguageTab": {
+    "message": "Feu clic a la icona de configuració i, a continuació, feu clic a la pestanya d'idioma per trobar el selector adequat"
+  },
+  "signAtTheEndOfSentence": {
+    "message": "Signeu al final de qualsevol frase que us agradi"
+  },
+  "howToExportWords": {
+    "message": "Com descarregar paraules"
+  },
+  "clickOnSettingButton": {
+    "message": "Feu clic al botó de configuració"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "a la part inferior del reproductor i, a continuació, feu clic al botó de baixada del fitxer per descarregar el fitxer de text"
+  },
+  "howToPronounceWords": {
+    "message": "Com pronunciar paraules"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "Només cal que feu clic a qualsevol paraula dels subtítols originals"
+  },
+  "uploadSubtitle": {
+    "message": "Carrega subtítols"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "L'idioma dels subtítols penjats:"
+  },
+  "delaySubtitles": {
+    "message": "Retardar els subtítols"
+  },
+  "decrease": {
+    "message": "Disminuir"
+  },
+  "increase": {
+    "message": "Augmentar"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "Feu clic per seleccionar els subtítols SUPERIOR"
+  },
+  "mainSubtitles": {
+    "message": "Subtítols principals"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "Feu clic per seleccionar els subtítols INFERIOR"
+  },
+  "translateSubtitles": {
+    "message": "Tradueix subtítols"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "Idioma dels subtítols superiors:"
+  },
+  "settngsMenuHeader": {
+    "message": "Menú de configuració de LLNY"
+  },
+  "appearance": {
+    "message": "Aparença"
+  },
+  "tools": {
+    "message": "Eines"
+  },
+  "shortcuts": {
+    "message": "Dreceres"
+  },
+  "rateUs": {
+    "message": "Puntua'ns"
+  },
+  "account": {
+    "message": "compte"
+  },
+  "languages": {
+    "message": "Idiomes"
+  },
+  "showHide": {
+    "message": "Mostra/Oculta"
+  },
+  "fontSize": {
+    "message": "Mida de la font"
+  },
+  "color": {
+    "message": "Color"
+  },
+  "download": {
+    "message": "descarregar"
+  },
+  "thirdSubtitle": {
+    "message": "Tercers subtítols"
+  },
+  "machineTranslate": {
+    "message": "Traducció automàtica"
+  },
+  "hoverDictionary": {
+    "message": "Diccionari del ratolí"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "Color de fons dels subtítols"
+  },
+  "choose": {
+    "message": "Tria"
+  },
+  "blur": {
+    "message": "Desenfocament"
+  },
+  "show": {
+    "message": "Espectacle"
+  },
+  "hide": {
+    "message": "Amaga"
+  },
+  "bothLanguages": {
+    "message": "ambdues llengües"
+  },
+  "sidebarSubtitles": {
+    "message": "Subtítols de la barra lateral"
+  },
+  "phonetics": {
+    "message": "Fonètica"
+  },
+  "no": {
+    "message": "No"
+  },
+  "and": {
+    "message": "i"
+  },
+  "original": {
+    "message": "Original"
+  },
+  "romanji": {
+    "message": "Romanji"
+  },
+  "hirgana": {
+    "message": "Hirgana"
+  },
+  "wordPronunciation": {
+    "message": "Pronunciació de paraules"
+  },
+  "speed": {
+    "message": "Velocitat"
+  },
+  "stop": {
+    "message": "Atura"
+  },
+  "automaticStopAfterSentence": {
+    "message": "Atura automàtica després de cada frase"
+  },
+  "theButton": {
+    "message": "el botó"
+  },
+  "autoStopAfterTime": {
+    "message": "Atura automàtica i inici després del temps"
+  },
+  "autoStopWithSpace": {
+    "message": "Atura automàtica i comença amb l'espai"
+  },
+  "videoPause": {
+    "message": "Pausa de vídeo"
+  },
+  "time": {
+    "message": "Temps"
+  },
+  "downloadWords": {
+    "message": "Descarrega Words"
+  },
+  "enableDisable": {
+    "message": "Activar/desactivar"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "Redueix la velocitat de reproducció"
+  },
+  "normalPlaybackSpeed": {
+    "message": "Velocitat de reproducció normal"
+  },
+  "speedUpPlayBack": {
+    "message": "Accelera la reproducció"
+  },
+  "saveCurrentSubtitles": {
+    "message": "Desa els subtítols actuals"
+  },
+  "backward": {
+    "message": "enrere"
+  },
+  "forward": {
+    "message": "Endavant"
+  },
+  "previousSentence": {
+    "message": "frase anterior"
+  },
+  "repeatSentence": {
+    "message": "Repeteix la frase"
+  },
+  "nextSentence": {
+    "message": "següent frase"
+  },
+  "unlimitedRepeat": {
+    "message": "Repetició il·limitada"
+  },
+  "playPause": {
+    "message": "Reproduir/Pausa"
+  },
+  "beGenerousUser": {
+    "message": "Podeu ser un usuari generós escrivint una ressenya aquí. Gràcies!"
+  },
+  "writeReview": {
+    "message": "Escriu una ressenya"
+  },
+  "tweetAboutUs": {
+    "message": "Tuiteja sobre nosaltres"
+  },
+  "reportBug": {
+    "message": "Informeu d'errors"
+  },
+  "askForNew": {
+    "message": "Demana nou"
+  },
+  "signOut": {
+    "message": "Tanca sessió"
+  },
+  "version": {
+    "message": "Versió"
+  },
+  "translations": {
+    "message": "Traduccions"
+  },
+  "saved": {
+    "message": "Desat"
+  },
+  "export": {
+    "message": "descarregar"
+  },
+  "bothSubtitles": {
+    "message": "Els dos subtítols"
+  },
+  "exportSaveWords": {
+    "message": "Baixa les paraules desades"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "Pots canviar aquest idioma a la configuració del vídeo"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "Podeu canviar aquest idioma a la configuració de l'extensió"
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "Cerca vídeos amb subtítols"
+  },
+  "andTranslationOfItIs": {
+    "message": "I la seva traducció"
+  },
+  "note": {
+    "message": "Nota"
+  },
+  "edit": {
+    "message": "EDITAR"
+  },
+  "toChangeShareContent": {
+    "message": "per canviar el contingut Compartir"
+  },
+  "discardChanges": {
+    "message": "Descartar els canvis"
+  },
+  "primarySubtitle": {
+    "message": "Subtítol principal"
+  },
+  "translation": {
+    "message": "Traducció"
+  },
+  "saveChanges": {
+    "message": "Guardar canvis"
+  },
+  "share": {
+    "message": "Compartir"
+  },
+  "loadingMainSubtitles": {
+    "message": "Carregant els subtítols principals"
+  },
+  "youtubeMenu": {
+    "message": "Menú de YouTube"
+  },
+  "off": {
+    "message": "Apagat"
+  },
+  "mouseDictionary": {
+    "message": "Diccionari del ratolí"
+  },
+  "premmium": {
+    "message": "Premium"
+  },
+  "highSpeedLearning": {
+    "message": "Aprenentatge d'alta velocitat"
+  },
+  "pronunciation": {
+    "message": "Pronunciació"
+  },
+  "sidebarTranslations": {
+    "message": "Traduccions de la barra lateral"
+  },
+  "keyboardShortcuts": {
+    "message": "Dreceres de teclat"
+  },
+  "toUseShortcuts": {
+    "message": "Per utilitzar-lo, primer activeu les dreceres des de la configuració"
+  },
+  "upgradeYourAccount": {
+    "message": "Actualitzeu el vostre compte per utilitzar la traducció automàtica!"
+  },
+  "startYourFreeTrial": {
+    "message": "Comença la teva prova GRATUÏTA"
+  },
+  "toAccessMachineTranslations": {
+    "message": "per accedir a traduccions automàtiques de totes les pel·lícules"
+  },
+  "freeTrial": {
+    "message": "Prova gratuïta"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "Per activar/desactivar la fonètica per als idiomes coreà, japonès, xinès simplificat i xinès tradicional, aneu a la configuració o feu clic al botó següent!"
+  },
+  "openMenu": {
+    "message": "Obre el menú"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "Inicieu sessió per descarregar el fitxer de subtítols!"
+  },
+  "loginForFree": {
+    "message": "Inicieu sessió gratuïtament"
+  },
+  "subscribe": {
+    "message": "Subscriu-te"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "Heu assolit els vostres límits diaris per baixar subtítols. Aconsegueix la teva prova GRATUÏTA per baixar més subtítols!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "Vaja! Aquest vídeo no té subtítols!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "Si us plau, inicieu la sessió per desar paraules al vostre compte"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "Comença la teva prova GRATUÏTA per utilitzar aquesta funció!"
+  },
+  "getYourTrialToUpload": {
+    "message": "Aconsegueix la teva prova GRATUÏTA per pujar subtítols"
+  },
+  "loginToLearnPronunciation": {
+    "message": "Inicieu sessió per conèixer la pronunciació exacta de cada paraula"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "Heu assolit els vostres límits diaris de pronunciació. Aconsegueix la teva prova GRATUÏTA per escoltar un nombre il·limitat de paraules"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "Heu assolit els vostres límits diaris per desar paraules. Aconsegueix la teva prova GRATUÏTA per aprendre un nombre il·limitat de paraules"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "Heu assolit els vostres límits diaris d'edició. Aconsegueix la teva prova GRATUÏTA per a un nombre il·limitat d'edicions"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "Podeu veure significats més precisos a la vostra subscripció!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "Aconsegueix la prova GRATUÏTA per mostrar/amagar el subtítol de destinació"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "Aconsegueix la teva prova GRATUÏTA per mostrar/amagar el subtítol secundari"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "Aconsegueix la teva prova GRATUÏTA per mostrar/amagar el subtítol secundari"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "Inicieu sessió per filtrar les paraules desades en funció de"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "Aconsegueix la teva prova GRATUÏTA per filtrar les paraules desades en funció de"
+  },
+  "haveProblem": {
+    "message": "Si teniu un problema, tanqueu la sessió i torneu a iniciar la sessió"
+  },
+  "date": {
+    "message": "data"
+  },
+  "video": {
+    "message": "vídeo"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "Inicieu sessió per mantenir el color dels subtítols!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "Inicieu sessió per desar l'opacitat dels subtítols!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "Inicieu sessió per desar la mida de la lletra dels subtítols!"
+  },
+  "loginToExportSubtitles": {
+    "message": "Si us plau, inicieu sessió per descarregar subtítols!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "Inicieu sessió per descarregar les paraules desades com a"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "Aconsegueix la teva prova GRATUÏTA per baixar paraules desades com a"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "Aconsegueix la prova GRATUÏTA de la frase desada basada en vídeo"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "Aconsegueix la teva prova GRATUÏTA per accedir a les traduccions automàtiques com a tercer subtítol."
+  },
+  "synchronize": {
+    "message": "Sincronitza"
+  },
+  "settings": {
+    "message": "Configuració"
+  },
+  "moreActions": {
+    "message": "Més accions"
+  },
+  "openSidebar": {
+    "message": "Obre la barra lateral"
+  },
+  "moreSettingsButton": {
+    "message": "Configuració avançada"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "Subtítols/CC"
+  }
+}

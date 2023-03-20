@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "آموزش زبان با نتفلیکس و یوتیوب"
+  },
+  "manifestAppDesc": {
+    "message": "(LLY)و یوتیوب(LLN)آموزش زبان همراه با افزونه نتفلیکس"
+  },
+  "appName": {
+    "message": "!LLNYآموزش زبان با"
+  },
+  "appDesc": {
+    "message": "یادگیری زبان با افزونه نتفلیکس زندگی شما را بسیار ساده تر و سرگرم کننده تر می کند"
+  },
+  "upper": {
+    "message": "بالا"
+  },
+  "lower": {
+    "message": "پایین"
+  },
+  "disableTestModeTitle": {
+    "message": " خاموش کردن حالت آزمایشی "
+  },
+  "disableTestModeDescription": {
+    "message": ":ما پیشنهاد می کنیم که تست نتفلیکس را غیرفعال کنید.کار ساده ای است\n،نتفلیکس اغلب تست هایی را اجرا کرده که باعث می شود یادگیری زبان با نتفلیکس به درستی کار نکند.برای جلوگیری ازاین مسأله werecommend that you turn off Netflix test participation. It's easy:"
+  },
+  "disableTestModeButton": {
+    "message": "خاموش کردن آزمایشی"
+  },
+  "lowerSelectBox": {
+    "message": "زبان زیرنویس پایین:"
+  },
+  "okayButton": {
+    "message": "باشه"
+  },
+  "closeButton": {
+    "message": "بستن"
+  },
+  "exportSubtitlesHeader": {
+    "message": " دانلود زیرنویسLLNY"
+  },
+  "chooseOneFormat": {
+    "message": ":یک حالت را انتخاب کنید"
+  },
+  "onePerDayForFree": {
+    "message": "روزانه یک عدد رایگان"
+  },
+  "loading": {
+    "message": "در حال بارگذاری"
+  },
+  "nativeLanguageHeader": {
+    "message": " زبان مادری-LLNY"
+  },
+  "hello": {
+    "message": "سلام"
+  },
+  "pleaseSelectYour": {
+    "message": "لطفا انتخاب کنید"
+  },
+  "upperSubtitles": {
+    "message": "زیرنویس بالایی"
+  },
+  "targetLanguage": {
+    "message": "زبان مقصد"
+  },
+  "lowerSubtitles": {
+    "message": "زیرنویس پایینی"
+  },
+  "motherLanguage": {
+    "message": "زبان مادری"
+  },
+  "translationLanguage": {
+    "message": "زبان ترجمه"
+  },
+  "anyProblemInFunctionality": {
+    "message": "در صورت وجود مشکل در افزونه با یک رفرش ساده می توانید آن را حل کنید"
+  },
+  "signInForFree": {
+    "message": "واردشدن به صورت رایگان"
+  },
+  "speedUpLanguageLearning": {
+    "message": "افزایش سرعت یادگیری زبان"
+  },
+  "subtitles": {
+    "message": "زیرنویس"
+  },
+  "words": {
+    "message": "کلمات"
+  },
+  "help": {
+    "message": "کمک"
+  },
+  "saveWordMeaning": {
+    "message": "شما می توانید با کلیک راست بر روی کلمات معنی آن را ذخیره کنید"
+  },
+  "always": {
+    "message": "همیشه"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "فقط کلمات این ویدیو؟"
+  },
+  "exportAs": {
+    "message": "دانلود به صورت"
+  },
+  "file": {
+    "message": "فایل"
+  },
+  "howToChangeSubtitles": {
+    "message": "نحوه تغییر زبان زیرنویس"
+  },
+  "howToTranslateWord": {
+    "message": "نحوه ترجمه کلمه"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "ماوس را روی زیرنویس اصلی قرار دهید"
+  },
+  "howToSaveWords": {
+    "message": "چگونه کلمات را ذخیره کنیم"
+  },
+  "clickAnyWordOnThe": {
+    "message": "فقط روی هر کلمه ای از زیرنویس اصلی کلیک کنید، سپس کلیک کنید بر بروی"
+  },
+  "sign": {
+    "message": "علامت"
+  },
+  "howToSaveSentence": {
+    "message": "چگونه جملات را ذخیره کنیم"
+  },
+  "clickOnThe": {
+    "message": "کلیک کنید بر روی"
+  },
+  "clickOnLanguageTab": {
+    "message": "روی نماد تنظیمات کلیک کنید، سپس روی بخش زبان کلیک کنید تا انتخابگر مناسب را پیدا کنید"
+  },
+  "signAtTheEndOfSentence": {
+    "message": "در پایان هر جمله ای که دوست دارید علامت بزنید"
+  },
+  "howToExportWords": {
+    "message": "نحوه دانلود کلمات"
+  },
+  "clickOnSettingButton": {
+    "message": "بر روی دکمه تنظیمات کلیک کنید"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "در پایین پخش کننده، بر روی دکمه دانلود فایل کلیک کنید تا فایل متنی دانلود شود"
+  },
+  "howToPronounceWords": {
+    "message": "نحوه تلفظ کلمات"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "فقط روی هر کلمه ای از زیرنویس اصلی کلیک کنید"
+  },
+  "uploadSubtitle": {
+    "message": "آپلود زیرنویس"
+  },
+  "subtitlesUploadLanguage": {
+    "message": ":زبان زیرنویس های آپلود شده"
+  },
+  "delaySubtitles": {
+    "message": "تاخیر در زیرنویس"
+  },
+  "decrease": {
+    "message": "کاهش"
+  },
+  "increase": {
+    "message": "افزایش"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "برای انتخاب زیرنویس بالایی کلیک کنید"
+  },
+  "mainSubtitles": {
+    "message": "زیرنویس اصلی"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "برای انتخاب زیرنویس پایین کلیک کنید"
+  },
+  "translateSubtitles": {
+    "message": "ترجمه زیرنویس"
+  },
+  "upperSubtitlesLanguage": {
+    "message": ":زبان زیرنویس بالایی"
+  },
+  "settngsMenuHeader": {
+    "message": "LLNY فهرست تنظیمات"
+  },
+  "appearance": {
+    "message": "ظاهر"
+  },
+  "tools": {
+    "message": "ابزار"
+  },
+  "shortcuts": {
+    "message": "میانبرها"
+  },
+  "rateUs": {
+    "message": "به ما امتیاز دهید"
+  },
+  "account": {
+    "message": "حساب کاربری"
+  },
+  "languages": {
+    "message": "زبان"
+  },
+  "showHide": {
+    "message": "نمایش/پنهان"
+  },
+  "fontSize": {
+    "message": "اندازه فونت"
+  },
+  "color": {
+    "message": "رنگ"
+  },
+  "download": {
+    "message": "بارگیری"
+  },
+  "thirdSubtitle": {
+    "message": "زیرنویس سوم"
+  },
+  "machineTranslate": {
+    "message": "ترجمه ماشینی"
+  },
+  "hoverDictionary": {
+    "message": "ماوس دیکشنری"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "رنگ پس‌زمینه زیرنویس"
+  },
+  "choose": {
+    "message": "انتخاب کنید"
+  },
+  "blur": {
+    "message": "محو کردن"
+  },
+  "show": {
+    "message": "نمایش"
+  },
+  "hide": {
+    "message": "مخفی"
+  },
+  "bothLanguages": {
+    "message": "هر دو زبان"
+  },
+  "sidebarSubtitles": {
+    "message": "زیرنویس نوار کناری"
+  },
+  "phonetics": {
+    "message": "فونتیک ها"
+  },
+  "no": {
+    "message": "خیر"
+  },
+  "and": {
+    "message": "و"
+  },
+  "original": {
+    "message": "اصلی"
+  },
+  "romanji": {
+    "message": "رومانجی"
+  },
+  "hirgana": {
+    "message": "هیرگانا"
+  },
+  "wordPronunciation": {
+    "message": "تلفظ کلمات"
+  },
+  "speed": {
+    "message": "سرعت"
+  },
+  "stop": {
+    "message": "توقف"
+  },
+  "automaticStopAfterSentence": {
+    "message": "توقف خودکار بعد از هر جمله"
+  },
+  "theButton": {
+    "message": "دکمه"
+  },
+  "autoStopAfterTime": {
+    "message": "توقف خودکار و شروع بعد از زمان"
+  },
+  "autoStopWithSpace": {
+    "message": "توقف خودکار و شروع با فاصله"
+  },
+  "videoPause": {
+    "message": "توقف ویدئو"
+  },
+  "time": {
+    "message": "زمان"
+  },
+  "downloadWords": {
+    "message": "دانلود کلمات"
+  },
+  "enableDisable": {
+    "message": "روشن کردن/خاموش کردن"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "کاهش سرعت پخش"
+  },
+  "normalPlaybackSpeed": {
+    "message": "سرعت پخش نرمال"
+  },
+  "speedUpPlayBack": {
+    "message": "افزایش سرعت پخش"
+  },
+  "saveCurrentSubtitles": {
+    "message": "ذخیره زیرنویس های فعلی"
+  },
+  "backward": {
+    "message": "به عقب"
+  },
+  "forward": {
+    "message": "رو به جلو"
+  },
+  "previousSentence": {
+    "message": "جمله قبلی"
+  },
+  "repeatSentence": {
+    "message": "تکرار جمله"
+  },
+  "nextSentence": {
+    "message": "جمله بعدی"
+  },
+  "unlimitedRepeat": {
+    "message": "تکرار نامحدود"
+  },
+  "playPause": {
+    "message": "پخش کردن / متوقف کردن"
+  },
+  "beGenerousUser": {
+    "message": "!با نوشتن نظر در اینجا می توانید یک کاربر سخاوتمند باشید. با تشکر"
+  },
+  "writeReview": {
+    "message": "نظری بنویسید"
+  },
+  "tweetAboutUs": {
+    "message": "درباره ما توئیت کنید"
+  },
+  "reportBug": {
+    "message": "گزارش باگ"
+  },
+  "askForNew": {
+    "message": "چیز جدیدی بخواهید"
+  },
+  "signOut": {
+    "message": "خروج"
+  },
+  "version": {
+    "message": "نسخه"
+  },
+  "translations": {
+    "message": "ترجمه ها"
+  },
+  "saved": {
+    "message": "ذخیره ها"
+  },
+  "export": {
+    "message": "بارگیری"
+  },
+  "bothSubtitles": {
+    "message": "هر دو زیرنویس"
+  },
+  "exportSaveWords": {
+    "message": "دانلود کلمات ذخیره شده"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "شما می توانید این زبان را در تنظیمات ویدیو تغییر دهید"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "شما می توانید این زبان را در تنظیمات برنامه تغییر دهید"
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "جستجوی ویدیو با زیرنویس"
+  },
+  "andTranslationOfItIs": {
+    "message": "و ترجمه آن"
+  },
+  "note": {
+    "message": "توجه"
+  },
+  "edit": {
+    "message": "ویرایش کنید"
+  },
+  "toChangeShareContent": {
+    "message": "برای تغییر اشتراک گذاری محتوا"
+  },
+  "discardChanges": {
+    "message": "لغو تغییرات"
+  },
+  "primarySubtitle": {
+    "message": "زیرنویس اصلی"
+  },
+  "translation": {
+    "message": "ترجمه"
+  },
+  "saveChanges": {
+    "message": "ذخیره تغییرات"
+  },
+  "share": {
+    "message": "اشتراک گذاری"
+  },
+  "loadingMainSubtitles": {
+    "message": "بارگیری زیرنویس های اصلی"
+  },
+  "youtubeMenu": {
+    "message": "فهرست یوتیوب"
+  },
+  "off": {
+    "message": "خاموش"
+  },
+  "mouseDictionary": {
+    "message": "ماوس دیکشنری"
+  },
+  "premmium": {
+    "message": "ویژه"
+  },
+  "highSpeedLearning": {
+    "message": "یادگیری با سرعت بالا"
+  },
+  "pronunciation": {
+    "message": "تلفظ"
+  },
+  "sidebarTranslations": {
+    "message": "ترجمه نوار کناری"
+  },
+  "keyboardShortcuts": {
+    "message": "کلید های میانبر صفحه کلید"
+  },
+  "toUseShortcuts": {
+    "message": "برای استفاده، ابتدا میانبرها را از تنظیمات فعال کنید"
+  },
+  "upgradeYourAccount": {
+    "message": "!برای استفاده از ترجمه ماشینی حساب خود را ارتقا دهید"
+  },
+  "startYourFreeTrial": {
+    "message": "دوره آزمایشی رایگان را امتحان کنید"
+  },
+  "toAccessMachineTranslations": {
+    "message": "برای دسترسی به ترجمه ماشینی برای همه فیلم ها"
+  },
+  "freeTrial": {
+    "message": "آزمایش رایگان"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "برای فعال/غیرفعال کردن فونتیک برای زبان‌های کره‌ای، ژاپنی، چینی ساده شده و چینی سنتی به تنظیمات بروید یا روی دکمه زیر کلیک کنید!"
+  },
+  "openMenu": {
+    "message": "بازکردن فهرست"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "!برای دانلود فایل زیرنویس وارد شوید"
+  },
+  "loginForFree": {
+    "message": "وارد شدن به صورت رایگان"
+  },
+  "subscribe": {
+    "message": "اشتراک"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "!شما به محدودیت روزانه خود برای دانلود زیرنویس رسیده اید. برای دسترسی دوره آزمایشی رایگان را امتحان کنید"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "!اوه! این ویدیو زیرنویس ندارد"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "لطفا برای ذخیره کلمات به حساب کاربری خود وارد شوید"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "!دوره آزمایشی رایگان را برای استفاده از این ویژگی شروع کنید"
+  },
+  "getYourTrialToUpload": {
+    "message": "دوره آزمایشی رایگان خود را برای آپلود زیرنویس دریافت کنید"
+  },
+  "loginToLearnPronunciation": {
+    "message": "برای یادگیری تلفظ دقیق هر کلمه وارد حساب کاربری شوید"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "شما به محدودیت های روزانه خود برای تلفظ رسیده اید. برای دسترسی به حالت نامحدود دوره آزمایشی رایگان را امتحان کنید"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "شما به محدودیت های روزانه خود برای ذخیره کلمات رسیده اید. برای دسترسی به حالت نامحدود دوره آزمایشی رایگان را امتحان کنید"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "شما به محدودیت های روزانه خود برای ویرایش رسیده اید. دوره آزمایشی رایگان را برای تعداد نامحدود ویرایش دریافت کنید"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "!می توانید معانی دقیق تری را در اشتراک خود مشاهده کنید"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "دوره آزمایشی رایگان را برای نمایش/پنهان کردن زیرنویس اصلی دریافت کنید"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "دوره آزمایشی رایگان را برای نمایش/پنهان کردن زیرنویس دوم دریافت کنید"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "دوره آزمایشی رایگان را برای نمایش/پنهان کردن زیرنویس دوم دریافت کنید"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "برای فیلتر کردن کلمات ذخیره شده وارد شوید تا بر اساس  "
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "دوره آزمایشی رایگان را دریافت کنید تا فیلتر کردن کلمات ذخیره شده بر اساس "
+  },
+  "haveProblem": {
+    "message": ".اگر مشکلی دارید، یکبار از حسابتان خارج شده و دوباره وارد شوید"
+  },
+  "date": {
+    "message": "زمان"
+  },
+  "video": {
+    "message": "ویدئو"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "!برای انتخاب رنگ زیر نویس وارد حساب کاربری شوید"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "!برای ذخیره میزان شفافیت زیرنویس وارد حساب کاربری شوید"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "برای ذخیره اندازه فونت زیرنویس وارد حساب کاربری شوید!"
+  },
+  "loginToExportSubtitles": {
+    "message": "!لطفا برای دانلود زیرنویس وارد حساب کاربری شوید"
+  },
+  "loginToSavedWordsAs": {
+    "message": "برای دانلود کلمات ذخیره شده به حساب کاربری وارد شوید"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": " دوره آزمایشی رایگان را دریافت کنید تا توانایی دانلود کلمات ذخیره شده "
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "دوره آزمایشی رایگان را برای جمله ذخیره شده بر اساس ویدیو دریافت کنید"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": ".دوره آزمایشی رایگان را برای دسترسی به ترجمه های ماشینی به عنوان زیرنویس سوم دریافت کنید"
+  },
+  "synchronize": {
+    "message": "همگام سازی کنید"
+  },
+  "settings": {
+    "message": "تنظیمات"
+  },
+  "moreActions": {
+    "message": "کنش‌های بیشتر"
+  },
+  "openSidebar": {
+    "message": "نوار کناری را باز کنید"
+  },
+  "moreSettingsButton": {
+    "message": "تنظیمات پیشرفته"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "CC/زیرنویس"
+  }
+}

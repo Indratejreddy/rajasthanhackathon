@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Pag-aaral ng Wika sa Netflix at YouTube™"
+  },
+  "manifestAppDesc": {
+    "message": "Language Learning sa Netflix extension (LLN) at Language Learning sa YouTube (LLY)"
+  },
+  "appName": {
+    "message": "Pag-aaral ng Wika Sa LLNY!"
+  },
+  "appDesc": {
+    "message": "Ang Pag-aaral ng Wika gamit ang extension ng Netflix ay ginagawang mas madali ang iyong buhay, at mas masaya"
+  },
+  "upper": {
+    "message": "Itaas"
+  },
+  "lower": {
+    "message": "Ibaba"
+  },
+  "disableTestModeTitle": {
+    "message": "I-disable ang Test Mode"
+  },
+  "disableTestModeDescription": {
+    "message": "Minsan nagpapatakbo ang Netflix ng mga pagsubok na maaaring maging sanhi ng Pag-aaral ng Wika sa Netflix na hindi gumana nang maayos. Para maiwasan ang mga isyu,\ninirerekumenda namin na i-off mo ang pagsali sa pagsubok sa Netflix. Madali lang:"
+  },
+  "disableTestModeButton": {
+    "message": "Huwag paganahin ang Pagsubok"
+  },
+  "lowerSelectBox": {
+    "message": "Ibabang Subtitle na Wika:"
+  },
+  "okayButton": {
+    "message": "Sige"
+  },
+  "closeButton": {
+    "message": "Isara"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY Mag-download ng Mga Subtitle"
+  },
+  "chooseOneFormat": {
+    "message": "Pumili ng isang Format:"
+  },
+  "onePerDayForFree": {
+    "message": "Libre bawat araw"
+  },
+  "loading": {
+    "message": "Naglo-load"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - Katutubong Wika"
+  },
+  "hello": {
+    "message": "Kamusta"
+  },
+  "pleaseSelectYour": {
+    "message": "Mangyaring piliin ang iyong"
+  },
+  "upperSubtitles": {
+    "message": "Mga Upper Subtitle"
+  },
+  "targetLanguage": {
+    "message": "Target na Wika"
+  },
+  "lowerSubtitles": {
+    "message": "Mabababang Subtitle"
+  },
+  "motherLanguage": {
+    "message": "Wika ng Ina"
+  },
+  "translationLanguage": {
+    "message": "Wika ng Pagsasalin"
+  },
+  "anyProblemInFunctionality": {
+    "message": "Anumang problema sa pag-andar ng extension na ito ay maaaring malutas sa isang simpleng pag-refresh"
+  },
+  "signInForFree": {
+    "message": "Mag-sign in nang Libre"
+  },
+  "speedUpLanguageLearning": {
+    "message": "Pabilisin ang pag-aaral ng wika"
+  },
+  "subtitles": {
+    "message": "Mga subtitle"
+  },
+  "words": {
+    "message": "Mga salita"
+  },
+  "help": {
+    "message": "Tulong"
+  },
+  "saveWordMeaning": {
+    "message": "Maaari mong i-save ang kahulugan ng anumang salita sa pamamagitan ng pag-right-click dito"
+  },
+  "always": {
+    "message": "Laging"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "Mga salita lang ng video na ito?"
+  },
+  "exportAs": {
+    "message": "I-download bilang"
+  },
+  "file": {
+    "message": "file"
+  },
+  "howToChangeSubtitles": {
+    "message": "Paano baguhin ang wika ng mga subtitle"
+  },
+  "howToTranslateWord": {
+    "message": "Paano isalin ang salita"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "I-hover ang mouse sa orihinal na mga subtitle"
+  },
+  "howToSaveWords": {
+    "message": "Paano mag-save ng mga salita"
+  },
+  "clickAnyWordOnThe": {
+    "message": "I-click lamang ang anumang salita ng orihinal na mga subtitle, pagkatapos ay i-click ang"
+  },
+  "sign": {
+    "message": "tanda"
+  },
+  "howToSaveSentence": {
+    "message": "Paano mag-save ng mga pangungusap"
+  },
+  "clickOnThe": {
+    "message": "Mag-click sa"
+  },
+  "clickOnLanguageTab": {
+    "message": "Mag-click sa icon ng setting, pagkatapos ay mag-click sa tab ng wika upang mahanap ang naaangkop na tagapili"
+  },
+  "signAtTheEndOfSentence": {
+    "message": "lagdaan sa dulo ng anumang pangungusap na gusto mo"
+  },
+  "howToExportWords": {
+    "message": "Paano mag-download ng mga salita"
+  },
+  "clickOnSettingButton": {
+    "message": "Mag-click sa pindutan ng setting"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "sa ibaba ng player, pagkatapos ay mag-click sa pindutan ng pag-download ng file upang i-download ang text file"
+  },
+  "howToPronounceWords": {
+    "message": "Paano bigkasin ang mga salita"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "Mag-click lamang sa anumang salita ng orihinal na mga subtitle"
+  },
+  "uploadSubtitle": {
+    "message": "Mag-upload ng mga Subtitle"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "Ang wika ng mga na-upload na subtitle:"
+  },
+  "delaySubtitles": {
+    "message": "Iantala ang mga Subtitle"
+  },
+  "decrease": {
+    "message": "Bumaba"
+  },
+  "increase": {
+    "message": "Taasan"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "I-click para Piliin ang UPPER Subtitles"
+  },
+  "mainSubtitles": {
+    "message": "Pangunahing Subtitle"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "I-click upang Piliin ang MABABANG Subtitle"
+  },
+  "translateSubtitles": {
+    "message": "Isalin ang mga Subtitle"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "Wika sa Upper Subtitle:"
+  },
+  "settngsMenuHeader": {
+    "message": "Menu ng Mga Setting ng LLNY"
+  },
+  "appearance": {
+    "message": "Hitsura"
+  },
+  "tools": {
+    "message": "Mga gamit"
+  },
+  "shortcuts": {
+    "message": "Mga shortcut"
+  },
+  "rateUs": {
+    "message": "I-rate Kami"
+  },
+  "account": {
+    "message": "Account"
+  },
+  "languages": {
+    "message": "Mga wika"
+  },
+  "showHide": {
+    "message": "Ipakita itago"
+  },
+  "fontSize": {
+    "message": "Laki ng Font"
+  },
+  "color": {
+    "message": "Kulay"
+  },
+  "download": {
+    "message": "I-download"
+  },
+  "thirdSubtitle": {
+    "message": "Pangatlong Subtitle"
+  },
+  "machineTranslate": {
+    "message": "makina Isalin"
+  },
+  "hoverDictionary": {
+    "message": "Mouse diksyunaryo"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "Kulay ng Background ng Subtitle"
+  },
+  "choose": {
+    "message": "Pumili"
+  },
+  "blur": {
+    "message": "Malabo"
+  },
+  "show": {
+    "message": "Ipakita"
+  },
+  "hide": {
+    "message": "Tago"
+  },
+  "bothLanguages": {
+    "message": "Parehong Wika"
+  },
+  "sidebarSubtitles": {
+    "message": "Mga Subtitle sa Sidebar"
+  },
+  "phonetics": {
+    "message": "Phonetics"
+  },
+  "no": {
+    "message": "Hindi"
+  },
+  "and": {
+    "message": "at"
+  },
+  "original": {
+    "message": "Orihinal"
+  },
+  "romanji": {
+    "message": "Romanji"
+  },
+  "hirgana": {
+    "message": "Hirgana"
+  },
+  "wordPronunciation": {
+    "message": "Pagbigkas ng Salita"
+  },
+  "speed": {
+    "message": "Bilis"
+  },
+  "stop": {
+    "message": "Tumigil ka"
+  },
+  "automaticStopAfterSentence": {
+    "message": "Awtomatikong Paghinto Pagkatapos ng bawat Pangungusap"
+  },
+  "theButton": {
+    "message": "ang Pindutan"
+  },
+  "autoStopAfterTime": {
+    "message": "Auto Stop at Start pagkatapos ng Oras"
+  },
+  "autoStopWithSpace": {
+    "message": "Auto Stop at Magsimula sa Space"
+  },
+  "videoPause": {
+    "message": "I-pause ang Video"
+  },
+  "time": {
+    "message": "Oras"
+  },
+  "downloadWords": {
+    "message": "Mag-download ng mga Salita"
+  },
+  "enableDisable": {
+    "message": "Payagan hindi payagan"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "Pabagalin ang bilis ng pag-playback"
+  },
+  "normalPlaybackSpeed": {
+    "message": "Normal na bilis ng playback"
+  },
+  "speedUpPlayBack": {
+    "message": "Pabilisin ang pag-playback"
+  },
+  "saveCurrentSubtitles": {
+    "message": "I-save ang kasalukuyang mga subtitle"
+  },
+  "backward": {
+    "message": "Paatras"
+  },
+  "forward": {
+    "message": "Pasulong"
+  },
+  "previousSentence": {
+    "message": "Nakaraang pangungusap"
+  },
+  "repeatSentence": {
+    "message": "Ulitin ang pangungusap"
+  },
+  "nextSentence": {
+    "message": "Susunod na pangungusap"
+  },
+  "unlimitedRepeat": {
+    "message": "Walang limitasyong Pag-uulit"
+  },
+  "playPause": {
+    "message": "I-play / I-pause"
+  },
+  "beGenerousUser": {
+    "message": "Maaari kang maging isang mapagbigay na gumagamit sa pamamagitan ng pagsulat ng isang pagsusuri dito. Salamat!"
+  },
+  "writeReview": {
+    "message": "Sumulat ng pagsusuri"
+  },
+  "tweetAboutUs": {
+    "message": "Tweet tungkol sa amin"
+  },
+  "reportBug": {
+    "message": "Mag-ulat ng mga Bug"
+  },
+  "askForNew": {
+    "message": "Pahingi ng bago"
+  },
+  "signOut": {
+    "message": "Mag-sign Out"
+  },
+  "version": {
+    "message": "Bersyon"
+  },
+  "translations": {
+    "message": "Mga pagsasalin"
+  },
+  "saved": {
+    "message": "Nai-save"
+  },
+  "export": {
+    "message": "I-download"
+  },
+  "bothSubtitles": {
+    "message": "Parehong subtitle"
+  },
+  "exportSaveWords": {
+    "message": "I-download ang mga naka-save na salita"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "Maaari mong baguhin ang wikang ito sa mga setting ng video"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "Maaari mong baguhin ang wikang ito sa mga setting ng extension"
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "Maghanap ng mga video na may mga subtitle"
+  },
+  "andTranslationOfItIs": {
+    "message": "At ang pagsasalin nito"
+  },
+  "note": {
+    "message": "Tandaan"
+  },
+  "edit": {
+    "message": "I-EDIT"
+  },
+  "toChangeShareContent": {
+    "message": "para baguhin ang Ibahagi ang nilalaman"
+  },
+  "discardChanges": {
+    "message": "Itapon ang mga Pagbabago"
+  },
+  "primarySubtitle": {
+    "message": "Pangunahing Subtitle"
+  },
+  "translation": {
+    "message": "Pagsasalin"
+  },
+  "saveChanges": {
+    "message": "I-save ang mga pagbabago"
+  },
+  "share": {
+    "message": "Ibahagi"
+  },
+  "loadingMainSubtitles": {
+    "message": "Naglo-load ng Pangunahing mga subtitle"
+  },
+  "youtubeMenu": {
+    "message": "YouTube Menu"
+  },
+  "off": {
+    "message": "Naka-off"
+  },
+  "mouseDictionary": {
+    "message": "diksyunaryo ng mouse"
+  },
+  "premmium": {
+    "message": "Premium"
+  },
+  "highSpeedLearning": {
+    "message": "Mataas na Bilis ng Pag-aaral"
+  },
+  "pronunciation": {
+    "message": "Pagbigkas"
+  },
+  "sidebarTranslations": {
+    "message": "Mga Pagsasalin sa Sidebar"
+  },
+  "keyboardShortcuts": {
+    "message": "Mga Keyboard Shortcut"
+  },
+  "toUseShortcuts": {
+    "message": "Upang magamit, i-activate muna ang mga shortcut mula sa mga setting"
+  },
+  "upgradeYourAccount": {
+    "message": "I-upgrade ang iyong account para magamit ang Machine Translation!"
+  },
+  "startYourFreeTrial": {
+    "message": "Simulan ang Libreng paggamit"
+  },
+  "toAccessMachineTranslations": {
+    "message": "para ma-access ang mga machine translation para sa lahat ng pelikula"
+  },
+  "freeTrial": {
+    "message": "Libreng subok"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "Upang paganahin/i-disable ang phonetic para sa Korean, Japanese, Simplified Chinese at Traditional Chinese na mga wika pumunta sa setting o i-click ang button sa ibaba!"
+  },
+  "openMenu": {
+    "message": "Buksan ang Menu"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "Mag-log in para mag-download ng subtitle file!"
+  },
+  "loginForFree": {
+    "message": "Mag-log in nang Libre"
+  },
+  "subscribe": {
+    "message": "Mag-subscribe"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "Naabot mo na ang iyong pang-araw-araw na limitasyon para sa pag-download ng mga subtitle. Kunin ang iyong LIBRENG pagsubok sa pag-download ng higit pang mga subtitle!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "Oops! Walang subtitle ang video na ito!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "Mangyaring mag-login upang i-save ang mga salita sa iyong account"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "Simulan ang iyong LIBRENG pagsubok para sa paggamit ng feature na ito!"
+  },
+  "getYourTrialToUpload": {
+    "message": "Kunin ang iyong LIBRENG pagsubok upang Mag-upload ng Subtitle"
+  },
+  "loginToLearnPronunciation": {
+    "message": "Mag-log in upang matutunan ang eksaktong pagbigkas ng bawat salita"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "Naabot mo na ang iyong pang-araw-araw na limitasyon para sa pagbigkas. Kunin ang iyong LIBRENG pagsubok sa pagdinig ng walang limitasyong bilang ng mga salita"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "Naabot mo na ang iyong pang-araw-araw na limitasyon para sa pag-save ng mga salita. Kunin ang iyong LIBRENG pagsubok sa pag-aaral ng walang limitasyong bilang ng mga salita"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "Naabot mo na ang iyong pang-araw-araw na limitasyon para sa pag-edit. Kunin ang iyong LIBRENG pagsubok sa walang limitasyong bilang ng mga pag-edit"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "Makakakita ka ng mas tumpak na mga kahulugan sa iyong subscription!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "Kunin ang iyong LIBRENG pagsubok upang ipakita/itago ang target na Subtitle"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "Kunin ang iyong LIBRENG pagsubok upang ipakita/itago ang Pangalawang Subtitle"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "Kunin ang iyong LIBRENG pagsubok upang ipakita/itago ang Pangalawang Subtitle"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "Mag-log in upang i-filter ang mga naka-save na salita batay sa"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "Kunin ang iyong LIBRENG pagsubok upang i-filter ang mga naka-save na salita batay sa"
+  },
+  "haveProblem": {
+    "message": "Kung mayroon kang problema, Mangyaring Mag-sign Out at Mag-sign in muli"
+  },
+  "date": {
+    "message": "petsa"
+  },
+  "video": {
+    "message": "video"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "Mag-log in para panatilihin ang kulay ng mga subtitle!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "Mag-log in para i-save ang opacity ng mga subtitle!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "Mag-log in upang i-save ang laki ng font ng mga subtitle!"
+  },
+  "loginToExportSubtitles": {
+    "message": "Mangyaring mag-login upang mag-download ng mga subtitle!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "Mag-log in upang i-download ang mga naka-save na salita bilang"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "Kunin ang iyong LIBRENG pagsubok para mag-download ng mga naka-save na salita bilang"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "Kunin ang iyong LIBRENG pagsubok sa naka-save na pangungusap batay sa video"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "Kunin ang iyong LIBRENG pagsubok upang ma-access ang mga pagsasalin ng makina bilang ikatlong subtitle."
+  },
+  "synchronize": {
+    "message": "I-synchronize"
+  },
+  "settings": {
+    "message": "Mga setting"
+  },
+  "moreActions": {
+    "message": "Marami pang pagkilos"
+  },
+  "openSidebar": {
+    "message": "Buksan ang Sidebar"
+  },
+  "moreSettingsButton": {
+    "message": "Mga Advanced na Setting"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "Mga subtitle/CC"
+  }
+}

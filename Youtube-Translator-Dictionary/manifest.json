@@ -1,0 +1,67 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "name": "Language Learning with Netflix & YouTube™",
+  "description": "__MSG_manifestAppDesc__",
+  "default_locale": "en",
+  "version": "4.23.03.13",
+  "manifest_version": 3,
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://www.youtube.com/*", "https://www.youtube.com/*"],
+      "css": ["youtube/styles.css"],
+      "js": ["youtube/contentscript.js"],
+      "run_at": "document_start",
+      "all_frames": false
+    },
+    {
+      "matches": ["http://www.netflix.com/*", "https://www.netflix.com/*"],
+      "css": ["netflix/styles.css"],
+      "js": ["netflix/contentscript.js"],
+      "run_at": "document_start",
+      "all_frames": false
+    }
+  ],
+  "background": {
+    "service_worker": "backgroundscript.js"
+  },
+  "action": {
+    "default_icon": {
+      "16": "images/icon_16.png",
+      "48": "images/icon_48.png",
+      "128": "images/icon_128.png",
+      "240": "images/icon_240.png"
+    },
+    "default_title": "Language Learning with Netflix & YouTube™",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "images/icon_16.png",
+    "48": "images/icon_48.png",
+    "128": "images/icon_128.png",
+    "240": "images/icon_240.png"
+  },
+  "permissions": ["storage", "tts"],
+  "host_permissions": [
+    "https://glosbe.com/*",
+    "*://youtube.com/*",
+    "*://netflix.com/*"
+  ],
+  "tts_engine": {
+    "voices": [
+      {
+        "voice_name": "Alice",
+        "event_types": ["start", "marker", "end"]
+      }
+    ]
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["*.*"],
+      "matches": ["*://*/*"]
+    }
+  ]
+}

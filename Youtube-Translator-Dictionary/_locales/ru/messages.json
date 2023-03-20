@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Изучение языка с помощью Netflix и YouTube™"
+  },
+  "manifestAppDesc": {
+    "message": "Изучение языка с расширением Netflix (LLN) и Изучение языка с YouTube (LLY)"
+  },
+  "appName": {
+    "message": "Изучайте язык с LLNY!"
+  },
+  "appDesc": {
+    "message": "Изучение языков с помощью расширения Netflix сделает вашу жизнь намного проще и веселее"
+  },
+  "upper": {
+    "message": "Вверху"
+  },
+  "lower": {
+    "message": "Нижний"
+  },
+  "disableTestModeTitle": {
+    "message": "Отключить режим тестирования"
+  },
+  "disableTestModeDescription": {
+    "message": "Netflix иногда проводит тесты, которые могут привести к неправильной работе Language Learning with Netflix. Чтобы избежать проблем, мы\nрекомендуем вам отключить участие в тестах Netflix. Это просто:"
+  },
+  "disableTestModeButton": {
+    "message": "Отключить тестирование"
+  },
+  "lowerSelectBox": {
+    "message": "Язык субтитров:"
+  },
+  "okayButton": {
+    "message": "Хорошо"
+  },
+  "closeButton": {
+    "message": "Закрыть"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY Скачать субтитры"
+  },
+  "chooseOneFormat": {
+    "message": "Выберите один формат:"
+  },
+  "onePerDayForFree": {
+    "message": "Один раз в день бесплатно"
+  },
+  "loading": {
+    "message": "Загрузка"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - Родной язык"
+  },
+  "hello": {
+    "message": "Здравствуйте"
+  },
+  "pleaseSelectYour": {
+    "message": "Пожалуйста, выберите ваш"
+  },
+  "upperSubtitles": {
+    "message": "Верхние субтитры"
+  },
+  "targetLanguage": {
+    "message": "Целевой язык"
+  },
+  "lowerSubtitles": {
+    "message": "Нижние субтитры"
+  },
+  "motherLanguage": {
+    "message": "Родной язык"
+  },
+  "translationLanguage": {
+    "message": "Язык перевода"
+  },
+  "anyProblemInFunctionality": {
+    "message": "Любая проблема в функциональности этого расширения может быть решена простым обновлением"
+  },
+  "signInForFree": {
+    "message": "Войти бесплатно"
+  },
+  "speedUpLanguageLearning": {
+    "message": "Ускорить изучение языка"
+  },
+  "subtitles": {
+    "message": "Субтитры"
+  },
+  "words": {
+    "message": "Слова"
+  },
+  "help": {
+    "message": "Помощь"
+  },
+  "saveWordMeaning": {
+    "message": "Вы можете сохранить значение любого слова, щелкнув по нему правой кнопкой мыши"
+  },
+  "always": {
+    "message": "Всегда"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "Только слова этого видео?"
+  },
+  "exportAs": {
+    "message": "Скачать как"
+  },
+  "file": {
+    "message": "файл"
+  },
+  "howToChangeSubtitles": {
+    "message": "Как изменить язык субтитров"
+  },
+  "howToTranslateWord": {
+    "message": "Как перевести слово"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "Наведите курсор мыши на оригинальные субтитры"
+  },
+  "howToSaveWords": {
+    "message": "Как сохранить слова"
+  },
+  "clickAnyWordOnThe": {
+    "message": "Просто щелкните на любом слове оригинальных субтитров, затем щелкните на"
+  },
+  "sign": {
+    "message": "подписать"
+  },
+  "howToSaveSentence": {
+    "message": "Как сохранить предложения"
+  },
+  "clickOnThe": {
+    "message": "Нажмите на"
+  },
+  "clickOnLanguageTab": {
+    "message": "Нажмите на значок настройки, затем перейдите на вкладку Язык, чтобы найти соответствующий селектор"
+  },
+  "signAtTheEndOfSentence": {
+    "message": "знак в конце любого предложения, которое вам нравится"
+  },
+  "howToExportWords": {
+    "message": "Как скачать слова"
+  },
+  "clickOnSettingButton": {
+    "message": "Нажмите на кнопку настройки"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "в нижней части проигрывателя, затем нажмите на кнопку скачать файл, чтобы загрузить текстовый файл"
+  },
+  "howToPronounceWords": {
+    "message": "Как произносить слова"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "Просто нажмите на любое слово оригинальных субтитров"
+  },
+  "uploadSubtitle": {
+    "message": "Загрузка субтитров"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "Язык загружаемых субтитров:"
+  },
+  "delaySubtitles": {
+    "message": "Задержка субтитров"
+  },
+  "decrease": {
+    "message": "Уменьшить"
+  },
+  "increase": {
+    "message": "Увеличить"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "Нажмите, чтобы выбрать верхние субтитры"
+  },
+  "mainSubtitles": {
+    "message": "Основные субтитры"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "Нажмите, чтобы выбрать нижние субтитры"
+  },
+  "translateSubtitles": {
+    "message": "Перевести субтитры"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "Верхние субтитры Язык:"
+  },
+  "settngsMenuHeader": {
+    "message": "Меню настроек LLNY"
+  },
+  "appearance": {
+    "message": "Внешний вид"
+  },
+  "tools": {
+    "message": "Инструменты"
+  },
+  "shortcuts": {
+    "message": "Ярлыки"
+  },
+  "rateUs": {
+    "message": "Оцените нас"
+  },
+  "account": {
+    "message": "Счет"
+  },
+  "languages": {
+    "message": "Языки"
+  },
+  "showHide": {
+    "message": "Показать/Скрыть"
+  },
+  "fontSize": {
+    "message": "Размер шрифта"
+  },
+  "color": {
+    "message": "Цвет"
+  },
+  "download": {
+    "message": "Скачать"
+  },
+  "thirdSubtitle": {
+    "message": "Третьи субтитры"
+  },
+  "machineTranslate": {
+    "message": "Машинный перевод"
+  },
+  "hoverDictionary": {
+    "message": "Мышиный словарь"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "Цвет фона субтитров"
+  },
+  "choose": {
+    "message": "Выберите"
+  },
+  "blur": {
+    "message": "Пятно"
+  },
+  "show": {
+    "message": "Показать"
+  },
+  "hide": {
+    "message": "Скрыть"
+  },
+  "bothLanguages": {
+    "message": "Оба языка"
+  },
+  "sidebarSubtitles": {
+    "message": "Субтитры боковой панели"
+  },
+  "phonetics": {
+    "message": "Фонетика"
+  },
+  "no": {
+    "message": "Нет"
+  },
+  "and": {
+    "message": "и"
+  },
+  "original": {
+    "message": "Оригинал"
+  },
+  "romanji": {
+    "message": "Романжи"
+  },
+  "hirgana": {
+    "message": "Хиргана"
+  },
+  "wordPronunciation": {
+    "message": "Произношение слов"
+  },
+  "speed": {
+    "message": "Скорость"
+  },
+  "stop": {
+    "message": "Остановить"
+  },
+  "automaticStopAfterSentence": {
+    "message": "Автоматическая остановка после каждого предложения"
+  },
+  "theButton": {
+    "message": "кнопка"
+  },
+  "autoStopAfterTime": {
+    "message": "Автоматическая остановка и запуск по истечении времени"
+  },
+  "autoStopWithSpace": {
+    "message": "Автоматическая остановка и запуск с пробелом"
+  },
+  "videoPause": {
+    "message": "Видеопауза"
+  },
+  "time": {
+    "message": "Время"
+  },
+  "downloadWords": {
+    "message": "Скачать слова"
+  },
+  "enableDisable": {
+    "message": "Включение/выключение"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "Замедление скорости воспроизведения"
+  },
+  "normalPlaybackSpeed": {
+    "message": "Нормальная скорость воспроизведения"
+  },
+  "speedUpPlayBack": {
+    "message": "Ускорить воспроизведение"
+  },
+  "saveCurrentSubtitles": {
+    "message": "Сохранить текущие субтитры"
+  },
+  "backward": {
+    "message": "Назад"
+  },
+  "forward": {
+    "message": "Вперед"
+  },
+  "previousSentence": {
+    "message": "Предыдущее предложение"
+  },
+  "repeatSentence": {
+    "message": "Повторить предложение"
+  },
+  "nextSentence": {
+    "message": "Следующее предложение"
+  },
+  "unlimitedRepeat": {
+    "message": "Неограниченное повторение"
+  },
+  "playPause": {
+    "message": "Воспроизведение / Пауза"
+  },
+  "beGenerousUser": {
+    "message": "Вы можете стать щедрым пользователем, написав отзыв здесь. Спасибо!"
+  },
+  "writeReview": {
+    "message": "Написать отзыв"
+  },
+  "tweetAboutUs": {
+    "message": "Расскажите о нас в Твиттере"
+  },
+  "reportBug": {
+    "message": "Report Bugs"
+  },
+  "askForNew": {
+    "message": "Спросите о новых"
+  },
+  "signOut": {
+    "message": "Выписаться"
+  },
+  "version": {
+    "message": "Версия"
+  },
+  "translations": {
+    "message": "Переводы"
+  },
+  "saved": {
+    "message": "Сохранено"
+  },
+  "export": {
+    "message": "Скачать"
+  },
+  "bothSubtitles": {
+    "message": "Оба субтитра"
+  },
+  "exportSaveWords": {
+    "message": "Скачать сохраненные слова"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "Вы можете изменить этот язык в настройках видео"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "Вы можете изменить этот язык в настройках расширения"
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "Поиск видео с субтитрами"
+  },
+  "andTranslationOfItIs": {
+    "message": "И перевод его"
+  },
+  "note": {
+    "message": "Примечание"
+  },
+  "edit": {
+    "message": "РЕДАКТИРОВАТЬ"
+  },
+  "toChangeShareContent": {
+    "message": "чтобы изменить содержимое Share"
+  },
+  "discardChanges": {
+    "message": "Отказ от изменений"
+  },
+  "primarySubtitle": {
+    "message": "Основной подзаголовок"
+  },
+  "translation": {
+    "message": "Перевод"
+  },
+  "saveChanges": {
+    "message": "Сохранить изменения"
+  },
+  "share": {
+    "message": "Поделиться"
+  },
+  "loadingMainSubtitles": {
+    "message": "Загрузка Основные субтитры"
+  },
+  "youtubeMenu": {
+    "message": "Меню YouTube"
+  },
+  "off": {
+    "message": "На сайте"
+  },
+  "mouseDictionary": {
+    "message": "Мышиный словарь"
+  },
+  "premmium": {
+    "message": "Премиум"
+  },
+  "highSpeedLearning": {
+    "message": "Высокоскоростное обучение"
+  },
+  "pronunciation": {
+    "message": "Произношение"
+  },
+  "sidebarTranslations": {
+    "message": "Переводы боковых панелей"
+  },
+  "keyboardShortcuts": {
+    "message": "Ярлыки клавиатуры"
+  },
+  "toUseShortcuts": {
+    "message": "Для использования сначала активируйте ярлыки в настройках"
+  },
+  "upgradeYourAccount": {
+    "message": "Обновите свой аккаунт, чтобы использовать машинный перевод!"
+  },
+  "startYourFreeTrial": {
+    "message": "Начните свою БЕСПЛАТНУЮ пробную версию"
+  },
+  "toAccessMachineTranslations": {
+    "message": "чтобы получить доступ к машинному переводу всех фильмов"
+  },
+  "freeTrial": {
+    "message": "Бесплатная пробная версия"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "Чтобы включить/выключить фонетику для корейского, японского, упрощенного китайского и традиционного китайского языков, перейдите в настройки или нажмите кнопку ниже!"
+  },
+  "openMenu": {
+    "message": "Открытое меню"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "Войдите, чтобы скачать файл субтитров!"
+  },
+  "loginForFree": {
+    "message": "Войти бесплатно"
+  },
+  "subscribe": {
+    "message": "Подписаться"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "Вы достигли ежедневного лимита загрузки субтитров. Получите БЕСПЛАТНУЮ пробную версию для загрузки большего количества субтитров!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "Упс! В этом видео нет субтитров!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "Пожалуйста, войдите в систему, чтобы сохранить слова в своем аккаунте"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "Начните БЕСПЛАТНУЮ пробную версию для использования этой функции!"
+  },
+  "getYourTrialToUpload": {
+    "message": "Получите БЕСПЛАТНУЮ пробную версию Upload Subtitle"
+  },
+  "loginToLearnPronunciation": {
+    "message": "Log in to learn the exact pronunciation of each word"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "Вы достигли своего ежедневного лимита произношения. Получите БЕСПЛАТНУЮ пробную версию, чтобы услышать неограниченное количество слов"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "Вы достигли ежедневного лимита сохранения слов. Получите БЕСПЛАТНУЮ пробную версию для изучения неограниченного количества слов"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "Вы достигли ежедневного лимита на редактирование. Получите БЕСПЛАТНУЮ пробную версию на неограниченное количество правок"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "Более точные значения вы можете увидеть в подписке!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "Получите БЕСПЛАТНУЮ пробную версию, чтобы показать/скрыть целевой субтитр"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "Получите БЕСПЛАТНУЮ пробную версию, чтобы показать/скрыть Вторичные субтитры"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "Получите БЕСПЛАТНУЮ пробную версию, чтобы показать/скрыть Вторичные субтитры"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "Войдите в систему, чтобы отфильтровать сохраненные слова на основе"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "Получите БЕСПЛАТНУЮ пробную версию, чтобы фильтровать сохраненные слова на основе"
+  },
+  "haveProblem": {
+    "message": "Если у вас возникли проблемы, пожалуйста, выйдите и войдите снова"
+  },
+  "date": {
+    "message": "дата"
+  },
+  "video": {
+    "message": "видео"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "Войдите в систему, чтобы сохранить цвет субтитров!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "Войдите в систему, чтобы сохранить непрозрачность субтитров!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "Войдите в систему, чтобы сохранить размер шрифта субтитров!"
+  },
+  "loginToExportSubtitles": {
+    "message": "Пожалуйста, войдите в систему, чтобы скачать субтитры!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "Войдите в систему, чтобы загрузить сохраненные слова как"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "Получите БЕСПЛАТНУЮ пробную версию, чтобы загрузить сохраненные слова в виде"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "Получите БЕСПЛАТНУЮ пробную версию для сохранения приговора на основе видео"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "Получите БЕСПЛАТНУЮ пробную версию, чтобы получить доступ к машинному переводу в качестве третьего субтитра."
+  },
+  "synchronize": {
+    "message": "Синхронизировать"
+  },
+  "settings": {
+    "message": "Настройки"
+  },
+  "moreActions": {
+    "message": "Ещё"
+  },
+  "openSidebar": {
+    "message": "Открыть боковую панель"
+  },
+  "moreSettingsButton": {
+    "message": "Расширенные настройки"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "Субтитры/CC"
+  }
+}

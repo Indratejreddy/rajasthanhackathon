@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "የቋንቋ ትምህርት ከ Netflix እና YouTube™ ጋር"
+  },
+  "manifestAppDesc": {
+    "message": "የቋንቋ ትምህርት በ Netflix ቅጥያ (LLN) እና የቋንቋ ትምህርት በ YouTube (LLY)"
+  },
+  "appName": {
+    "message": "ቋንቋ መማር በ LLNY!"
+  },
+  "appDesc": {
+    "message": "በ Netflix ቅጥያ የቋንቋ ትምህርት ሕይወትዎን በጣም ቀላል እና የበለጠ አስደሳች ያደርገዋል"
+  },
+  "upper": {
+    "message": "በላይ"
+  },
+  "lower": {
+    "message": "ዝቅ"
+  },
+  "disableTestModeTitle": {
+    "message": "የሙከራ ሁነታን አሰናክል"
+  },
+  "disableTestModeDescription": {
+    "message": "Netflix አንዳንድ ጊዜ የቋንቋ ትምህርትን ከ Netflix ጋር በትክክል እንዳይሰራ የሚያደርጉ ፈተናዎችን ያካሂዳል። ችግሮችን ለማስወገድ፣ Netflix የፈተና ተሳትፎን እንዲያጠፉ\nእንመክራለን። ቀላል ነው:"
+  },
+  "disableTestModeButton": {
+    "message": "ሙከራን አሰናክል"
+  },
+  "lowerSelectBox": {
+    "message": "የበታች የትርጉም ጽሑፎች ቋንቋ፡"
+  },
+  "okayButton": {
+    "message": "እሺ"
+  },
+  "closeButton": {
+    "message": "ገጠመ"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY አውርድ የትርጉም ጽሑፎች"
+  },
+  "chooseOneFormat": {
+    "message": "አንድ ቅርጸት ይምረጡ:"
+  },
+  "onePerDayForFree": {
+    "message": "በቀን አንድ ጊዜ በነጻ"
+  },
+  "loading": {
+    "message": "በመጫን ላይ"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - የአፍ መፍቻ ቋንቋ"
+  },
+  "hello": {
+    "message": "ሰላም"
+  },
+  "pleaseSelectYour": {
+    "message": "እባክዎ የእርስዎን ይምረጡ"
+  },
+  "upperSubtitles": {
+    "message": "የላይኛው የትርጉም ጽሑፎች"
+  },
+  "targetLanguage": {
+    "message": "የዒላማ ቋንቋ"
+  },
+  "lowerSubtitles": {
+    "message": "የታችኛው የትርጉም ጽሑፎች"
+  },
+  "motherLanguage": {
+    "message": "እናት ቋንቋ"
+  },
+  "translationLanguage": {
+    "message": "የትርጉም ቋንቋ"
+  },
+  "anyProblemInFunctionality": {
+    "message": "በዚህ ቅጥያ ተግባር ውስጥ ያለ ማንኛውም ችግር በቀላል ማደስ ሊፈታ ይችላል።"
+  },
+  "signInForFree": {
+    "message": "በነጻ ይግቡ"
+  },
+  "speedUpLanguageLearning": {
+    "message": "የቋንቋ ትምህርትን ማፋጠን"
+  },
+  "subtitles": {
+    "message": "የትርጉም ጽሑፎች"
+  },
+  "words": {
+    "message": "ቃላት"
+  },
+  "help": {
+    "message": "እገዛ"
+  },
+  "saveWordMeaning": {
+    "message": "በቀኝ ጠቅ በማድረግ የማንኛውንም ቃል ትርጉም ማስቀመጥ ትችላለህ"
+  },
+  "always": {
+    "message": "ሁሌም"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "የዚህ ቪዲዮ ቃላት ብቻ?"
+  },
+  "exportAs": {
+    "message": "አውርድ እንደ"
+  },
+  "file": {
+    "message": "ፋይል"
+  },
+  "howToChangeSubtitles": {
+    "message": "የትርጉም ጽሑፎችን ቋንቋ እንዴት መለወጥ እንደሚቻል"
+  },
+  "howToTranslateWord": {
+    "message": "ቃል እንዴት እንደሚተረጎም"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "አይጤውን በመጀመሪያዎቹ የትርጉም ጽሑፎች ላይ አንዣብበው"
+  },
+  "howToSaveWords": {
+    "message": "ቃላትን እንዴት ማስቀመጥ እንደሚቻል"
+  },
+  "clickAnyWordOnThe": {
+    "message": "ከመጀመሪያዎቹ የትርጉም ጽሑፎች ውስጥ ማንኛውንም ቃል ብቻ ጠቅ ያድርጉ እና ከዚያ ጠቅ ያድርጉ"
+  },
+  "sign": {
+    "message": "ምልክት"
+  },
+  "howToSaveSentence": {
+    "message": "ዓረፍተ ነገሮችን እንዴት ማስቀመጥ እንደሚቻል"
+  },
+  "clickOnThe": {
+    "message": "ላይ ጠቅ ያድርጉ"
+  },
+  "clickOnLanguageTab": {
+    "message": "የቅንብር አዶውን ጠቅ ያድርጉ እና ተገቢውን መራጭ ለማግኘት የቋንቋ ትርን ጠቅ ያድርጉ"
+  },
+  "signAtTheEndOfSentence": {
+    "message": "በማንኛውም የሚወዱት ዓረፍተ ነገር መጨረሻ ላይ ይፈርሙ"
+  },
+  "howToExportWords": {
+    "message": "ቃላቶችን እንዴት ማውረድ እንደሚቻል"
+  },
+  "clickOnSettingButton": {
+    "message": "የቅንብር አዝራሩን ጠቅ ያድርጉ"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "በማጫወቻው ግርጌ, ከዚያም የጽሑፍ ፋይሉን ለማውረድ የማውረጃ ፋይል አዝራሩን ጠቅ ያድርጉ"
+  },
+  "howToPronounceWords": {
+    "message": "ቃላትን እንዴት መጥራት እንደሚቻል"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "ከመጀመሪያዎቹ የትርጉም ጽሑፎች ውስጥ ማንኛውንም ቃል ብቻ ጠቅ ያድርጉ"
+  },
+  "uploadSubtitle": {
+    "message": "የትርጉም ጽሑፎችን ስቀል"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "የተሰቀሉ የትርጉም ጽሑፎች ቋንቋ፡"
+  },
+  "delaySubtitles": {
+    "message": "የትርጉም ጽሑፎችን መዘግየት"
+  },
+  "decrease": {
+    "message": "ቀንስ"
+  },
+  "increase": {
+    "message": "ጨምር"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "ከፍተኛ የትርጉም ጽሑፎችን ለመምረጥ ጠቅ ያድርጉ"
+  },
+  "mainSubtitles": {
+    "message": "ዋና የትርጉም ጽሑፎች"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "ዝቅተኛ የትርጉም ጽሑፎችን ለመምረጥ ጠቅ ያድርጉ"
+  },
+  "translateSubtitles": {
+    "message": "የትርጉም ጽሑፎችን ተርጉም።"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "የላይኛው የትርጉም ጽሑፎች ቋንቋ፡-"
+  },
+  "settngsMenuHeader": {
+    "message": "LLNY ቅንብሮች ምናሌ"
+  },
+  "appearance": {
+    "message": "መልክ"
+  },
+  "tools": {
+    "message": "መሳሪያዎች"
+  },
+  "shortcuts": {
+    "message": "አቋራጮች"
+  },
+  "rateUs": {
+    "message": "ደረጃ ይስጡን"
+  },
+  "account": {
+    "message": "መለያ"
+  },
+  "languages": {
+    "message": "ቋንቋዎች"
+  },
+  "showHide": {
+    "message": "አሳይ/ደብቅ"
+  },
+  "fontSize": {
+    "message": "የፊደል መጠን"
+  },
+  "color": {
+    "message": "ቀለም"
+  },
+  "download": {
+    "message": "አውርድ"
+  },
+  "thirdSubtitle": {
+    "message": "ሶስተኛ የትርጉም ጽሑፎች"
+  },
+  "machineTranslate": {
+    "message": "የማሽን ትርጉም"
+  },
+  "hoverDictionary": {
+    "message": "የመዳፊት መዝገበ ቃላት"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "የትርጉም ጽሑፎች ዳራ ቀለም"
+  },
+  "choose": {
+    "message": "ይምረጡ"
+  },
+  "blur": {
+    "message": "ብዥታ"
+  },
+  "show": {
+    "message": "አሳይ"
+  },
+  "hide": {
+    "message": "ደብቅ"
+  },
+  "bothLanguages": {
+    "message": "ሁለቱም ቋንቋዎች"
+  },
+  "sidebarSubtitles": {
+    "message": "የጎን አሞሌ የትርጉም ጽሑፎች"
+  },
+  "phonetics": {
+    "message": "ፎነቲክስ"
+  },
+  "no": {
+    "message": "አይ"
+  },
+  "and": {
+    "message": "እና"
+  },
+  "original": {
+    "message": "ኦሪጅናል"
+  },
+  "romanji": {
+    "message": "Romanji"
+  },
+  "hirgana": {
+    "message": "ሂርጋና"
+  },
+  "wordPronunciation": {
+    "message": "የቃላት አጠራር"
+  },
+  "speed": {
+    "message": "ፍጥነት"
+  },
+  "stop": {
+    "message": "ተወ"
+  },
+  "automaticStopAfterSentence": {
+    "message": "ከእያንዳንዱ ዓረፍተ ነገር በኋላ ራስ-ሰር ማቆሚያ"
+  },
+  "theButton": {
+    "message": "አዝራሩ"
+  },
+  "autoStopAfterTime": {
+    "message": "በራስ-ሰር ያቁሙ እና ከጊዜ በኋላ ይጀምሩ"
+  },
+  "autoStopWithSpace": {
+    "message": "ራስ-ሰር አቁም እና በቦታ ይጀምሩ"
+  },
+  "videoPause": {
+    "message": "ቪዲዮ ለአፍታ አቁም"
+  },
+  "time": {
+    "message": "ጊዜ"
+  },
+  "downloadWords": {
+    "message": "ቃላትን አውርድ"
+  },
+  "enableDisable": {
+    "message": "ማስቻል/አለማስቻል"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "የመልሶ ማጫወት ፍጥነትን ይቀንሱ"
+  },
+  "normalPlaybackSpeed": {
+    "message": "መደበኛ የመልሶ ማጫወት ፍጥነት"
+  },
+  "speedUpPlayBack": {
+    "message": "መልሶ ማጫወትን ያፋጥኑ"
+  },
+  "saveCurrentSubtitles": {
+    "message": "የአሁኑን የትርጉም ጽሑፎችን አስቀምጥ"
+  },
+  "backward": {
+    "message": "ወደ ኋላ"
+  },
+  "forward": {
+    "message": "ወደፊት"
+  },
+  "previousSentence": {
+    "message": "የቀድሞ ዓረፍተ ነገር"
+  },
+  "repeatSentence": {
+    "message": "ዓረፍተ ነገር ድገም"
+  },
+  "nextSentence": {
+    "message": "ቀጣይ ዓረፍተ ነገር"
+  },
+  "unlimitedRepeat": {
+    "message": "ያልተገደበ ድገም"
+  },
+  "playPause": {
+    "message": "አጫውት/ ለአፍታ አቁም"
+  },
+  "beGenerousUser": {
+    "message": "እዚህ ግምገማ በመጻፍ ለጋስ ተጠቃሚ መሆን ይችላሉ። አመሰግናለሁ!"
+  },
+  "writeReview": {
+    "message": "አንድ ግምገማ ጻፍ"
+  },
+  "tweetAboutUs": {
+    "message": "ስለ እኛ ትዊት ያድርጉ"
+  },
+  "reportBug": {
+    "message": "ሳንካዎችን ሪፖርት ያድርጉ"
+  },
+  "askForNew": {
+    "message": "አዲስ ይጠይቁ"
+  },
+  "signOut": {
+    "message": "ዛግተ ውጣ"
+  },
+  "version": {
+    "message": "ሥሪት"
+  },
+  "translations": {
+    "message": "ትርጉሞች"
+  },
+  "saved": {
+    "message": "ተቀምጧል"
+  },
+  "export": {
+    "message": "አውርድ"
+  },
+  "bothSubtitles": {
+    "message": "ሁለቱም የትርጉም ጽሑፎች"
+  },
+  "exportSaveWords": {
+    "message": "የተቀመጡ ቃላትን ያውርዱ"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "ይህን ቋንቋ በቪዲዮ ቅንጅቶች ላይ መቀየር ትችላለህ"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "ይህን ቋንቋ በቅጥያው ቅንብሮች ላይ መቀየር ይችላሉ።"
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "የትርጉም ጽሑፎች ያላቸውን ቪዲዮዎች ይፈልጉ"
+  },
+  "andTranslationOfItIs": {
+    "message": "እና ትርጉሙ"
+  },
+  "note": {
+    "message": "ማስታወሻ"
+  },
+  "edit": {
+    "message": "አርትዕ"
+  },
+  "toChangeShareContent": {
+    "message": "ይዘትን አጋራ ለመለወጥ"
+  },
+  "discardChanges": {
+    "message": "ለውጦችን አስወግድ"
+  },
+  "primarySubtitle": {
+    "message": "ዋና ንዑስ ርዕስ"
+  },
+  "translation": {
+    "message": "ትርጉም"
+  },
+  "saveChanges": {
+    "message": "ለውጦችን አስቀምጥ"
+  },
+  "share": {
+    "message": "አጋራ"
+  },
+  "loadingMainSubtitles": {
+    "message": "ዋና የትርጉም ጽሑፎችን በመጫን ላይ"
+  },
+  "youtubeMenu": {
+    "message": "YouTube ምናሌ"
+  },
+  "off": {
+    "message": "ጠፍቷል"
+  },
+  "mouseDictionary": {
+    "message": "የመዳፊት መዝገበ ቃላት"
+  },
+  "premmium": {
+    "message": "ፕሪሚየም"
+  },
+  "highSpeedLearning": {
+    "message": "ከፍተኛ-ፍጥነት ትምህርት"
+  },
+  "pronunciation": {
+    "message": "አጠራር"
+  },
+  "sidebarTranslations": {
+    "message": "የጎን አሞሌ ትርጉሞች"
+  },
+  "keyboardShortcuts": {
+    "message": "የቁልፍ ሰሌዳ አቋራጮች"
+  },
+  "toUseShortcuts": {
+    "message": "ለመጠቀም መጀመሪያ አቋራጮቹን ከቅንብሮች ውስጥ ያግብሩ"
+  },
+  "upgradeYourAccount": {
+    "message": "የማሽን ትርጉም ለመጠቀም መለያዎን ያሻሽሉ!"
+  },
+  "startYourFreeTrial": {
+    "message": "ነፃ ሙከራዎን ይጀምሩ"
+  },
+  "toAccessMachineTranslations": {
+    "message": "ለሁሉም ፊልሞች የማሽን ትርጉሞችን ለመድረስ"
+  },
+  "freeTrial": {
+    "message": "የነጳ ሙከራ"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "ለኮሪያ፣ ጃፓንኛ፣ ቀላል ቻይንኛ እና ባህላዊ ቻይንኛ ቋንቋዎች ፎነቲክን ለማንቃት/ለማሰናከል ወደ ቅንብር ይሂዱ ወይም ከታች ያለውን ቁልፍ ይጫኑ!"
+  },
+  "openMenu": {
+    "message": "ምናሌን ክፈት"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "የትርጉም ጽሑፍ ፋይል ለማውረድ ይግቡ!"
+  },
+  "loginForFree": {
+    "message": "በነጻ ይግቡ"
+  },
+  "subscribe": {
+    "message": "ሰብስክራይብ ያድርጉ"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "የትርጉም ጽሑፎችን ለማውረድ ዕለታዊ ገደቦችዎ ላይ ደርሰዋል። ተጨማሪ የትርጉም ጽሑፎችን ለማውረድ ነፃ ሙከራዎን ያግኙ!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "ውይ! ይህ ቪዲዮ የትርጉም ጽሑፎች የሉትም።!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "እባክዎ በመለያዎ ውስጥ ቃላትን ለማስቀመጥ ይግቡ"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "ይህንን ባህሪ ለመጠቀም ነፃ ሙከራዎን ይጀምሩ!"
+  },
+  "getYourTrialToUpload": {
+    "message": "የትርጉም ጽሑፍን ለመስቀል ነፃ ሙከራዎን ያግኙ"
+  },
+  "loginToLearnPronunciation": {
+    "message": "የእያንዳንዱን ቃል ትክክለኛ አነባበብ ለማወቅ ይግቡ"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "ለድምጽ አጠራር ዕለታዊ ገደብዎ ላይ ደርሰዋል። ያልተገደበ የቃላት ብዛት ለመስማት ነፃ ሙከራዎን ያግኙ"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "ቃላትን ለማስቀመጥ ዕለታዊ ገደቦችዎ ላይ ደርሰዋል። ያልተገደበ የቃላት ብዛት ለመማር ነፃ ሙከራዎን ያግኙ"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "ለማርትዕ ዕለታዊ ገደቦችዎ ላይ ደርሰዋል። የእርስዎን ነጻ ሙከራ ወደ ያልተገደበ የአርትዖት ብዛት ያግኙ"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "በምዝገባዎ ውስጥ የበለጠ ትክክለኛ ትርጉሞችን ማየት ይችላሉ!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "የታለመውን የትርጉም ጽሑፍ ለማሳየት/ለመደበቅ ነፃ ሙከራዎን ያግኙ"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "ሁለተኛ የትርጉም ጽሑፍን ለማሳየት/ለመደበቅ ነፃ ሙከራዎን ያግኙ"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "ሁለተኛ የትርጉም ጽሑፍን ለማሳየት/ለመደበቅ ነፃ ሙከራዎን ያግኙ"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "ላይ ተመስርተው የተቀመጡ ቃላትን ለማጣራት ይግቡ"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "የተቀመጡ ቃላትን በዚህ መሰረት ለማጣራት ነፃ ሙከራዎን ያግኙ"
+  },
+  "haveProblem": {
+    "message": "ችግር ካጋጠመዎት እባክዎ ይውጡ እና እንደገና ይግቡ"
+  },
+  "date": {
+    "message": "ቀን"
+  },
+  "video": {
+    "message": "ቪዲዮ"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "የትርጉም ጽሑፎችን ቀለም ለማቆየት ይግቡ!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "የትርጉም ጽሑፎችን ግልጽነት ለመቆጠብ ይግቡ!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "የትርጉም ጽሑፎችን ቅርጸ-ቁምፊ መጠን ለማስቀመጥ ይግቡ!"
+  },
+  "loginToExportSubtitles": {
+    "message": "የትርጉም ጽሑፎችን ለማውረድ እባክዎ ይግቡ!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "እንደ የተቀመጡ ቃላት ለማውረድ ይግቡ"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "የተቀመጡ ቃላትን እንደ ለማውረድ ነፃ ሙከራዎን ያግኙ"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "በቪዲዮ ላይ ተመስርተው ለተቀመጠው ዓረፍተ ነገር ነፃ ሙከራዎን ያግኙ"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "የማሽን ትርጉሞችን እንደ ሶስተኛው የትርጉም ጽሑፍ ለመድረስ የእርስዎን ነፃ ሙከራ ያግኙ።"
+  },
+  "synchronize": {
+    "message": "አስምር"
+  },
+  "settings": {
+    "message": "ቅንብሮች"
+  },
+  "moreActions": {
+    "message": "ተጨማሪ እርምጃዎች"
+  },
+  "openSidebar": {
+    "message": "የጎን አሞሌን ይክፈቱ"
+  },
+  "moreSettingsButton": {
+    "message": "የላቁ ቅንብሮች"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "የትርጉም ጽሑፎች/CC"
+  }
+}

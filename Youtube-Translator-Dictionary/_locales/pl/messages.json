@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Nauka języków obcych z Netflix i YouTube™"
+  },
+  "manifestAppDesc": {
+    "message": "Nauka języka z rozszerzeniem Netflix (LLN) i Nauka języka z YouTube (LLY)"
+  },
+  "appName": {
+    "message": "Nauka języka z LLNY!"
+  },
+  "appDesc": {
+    "message": "Nauka języków obcych z rozszerzeniem Netflix sprawi, że Twoje życie stanie się łatwiejsze i przyjemniejsze"
+  },
+  "upper": {
+    "message": "Górna"
+  },
+  "lower": {
+    "message": "Niżej"
+  },
+  "disableTestModeTitle": {
+    "message": "Wyłącz tryb testowy"
+  },
+  "disableTestModeDescription": {
+    "message": "Netflix czasami przeprowadza testy, które mogą spowodować, że aplikacja Nauka języków obcych przez Netflix nie będzie działać prawidłowo. Aby uniknąć problemów,\nzalecamy wyłączenie udziału w testach Netflix. To proste:"
+  },
+  "disableTestModeButton": {
+    "message": "Wyłącz testowanie"
+  },
+  "lowerSelectBox": {
+    "message": "Napisy dolne Język:"
+  },
+  "okayButton": {
+    "message": "Ok"
+  },
+  "closeButton": {
+    "message": "Zamknij"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY Pobierz napisy"
+  },
+  "chooseOneFormat": {
+    "message": "Wybierz jeden Format:"
+  },
+  "onePerDayForFree": {
+    "message": "Jeden dziennie za darmo"
+  },
+  "loading": {
+    "message": "Ładowanie"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - Język ojczysty"
+  },
+  "hello": {
+    "message": "Witaj"
+  },
+  "pleaseSelectYour": {
+    "message": "Wybierz swoją"
+  },
+  "upperSubtitles": {
+    "message": "Napisy górne"
+  },
+  "targetLanguage": {
+    "message": "Język docelowy"
+  },
+  "lowerSubtitles": {
+    "message": "Napisy dolne"
+  },
+  "motherLanguage": {
+    "message": "Język ojczysty"
+  },
+  "translationLanguage": {
+    "message": "Język przekładu"
+  },
+  "anyProblemInFunctionality": {
+    "message": "Każdy problem z funkcjonalnością tego rozszerzenia można rozwiązać za pomocą prostego odświeżenia"
+  },
+  "signInForFree": {
+    "message": "Zaloguj się za darmo"
+  },
+  "speedUpLanguageLearning": {
+    "message": "Przyspiesz naukę języków obcych"
+  },
+  "subtitles": {
+    "message": "Napisy"
+  },
+  "words": {
+    "message": "Słowa"
+  },
+  "help": {
+    "message": "Pomoc"
+  },
+  "saveWordMeaning": {
+    "message": "Znaczenie każdego słowa można zapisać, klikając je prawym przyciskiem myszy"
+  },
+  "always": {
+    "message": "Zawsze"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "Tylko słowa z tego filmu?"
+  },
+  "exportAs": {
+    "message": "Pobierz jako"
+  },
+  "file": {
+    "message": "plik"
+  },
+  "howToChangeSubtitles": {
+    "message": "Jak zmienić język napisów"
+  },
+  "howToTranslateWord": {
+    "message": "Jak przetłumaczyć słowo"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "Najedź kursorem myszy na napisy oryginalne"
+  },
+  "howToSaveWords": {
+    "message": "Jak zapisywać słowa"
+  },
+  "clickAnyWordOnThe": {
+    "message": "Wystarczy kliknąć dowolne słowo z napisów oryginalnych, a następnie kliknąć na"
+  },
+  "sign": {
+    "message": "podpisać"
+  },
+  "howToSaveSentence": {
+    "message": "Jak zapisać zdania"
+  },
+  "clickOnThe": {
+    "message": "Kliknij przycisk"
+  },
+  "clickOnLanguageTab": {
+    "message": "Kliknij ikonę ustawień, a następnie kliknij kartę Język, aby znaleźć odpowiedni selektor"
+  },
+  "signAtTheEndOfSentence": {
+    "message": "znak na końcu dowolnego zdania, które chcesz"
+  },
+  "howToExportWords": {
+    "message": "Jak pobrać słowa"
+  },
+  "clickOnSettingButton": {
+    "message": "Kliknij przycisk ustawień"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "w dolnej części odtwarzacza, a następnie kliknij przycisk Pobierz plik, aby pobrać plik tekstowy"
+  },
+  "howToPronounceWords": {
+    "message": "Jak wymawiać słowa"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "Wystarczy kliknąć na dowolne słowo napisów oryginalnych"
+  },
+  "uploadSubtitle": {
+    "message": "Prześlij napisy"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "Język wgrywanych napisów:"
+  },
+  "delaySubtitles": {
+    "message": "Opóźnij napisy"
+  },
+  "decrease": {
+    "message": "Zmniejszenie"
+  },
+  "increase": {
+    "message": "Zwiększenie"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "Kliknij, aby wybrać napisy GÓRNE"
+  },
+  "mainSubtitles": {
+    "message": "Napisy główne"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "Kliknij, aby wybrać DUŻE napisy"
+  },
+  "translateSubtitles": {
+    "message": "Tłumacz napisy"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "Upper Subtitles Język:"
+  },
+  "settngsMenuHeader": {
+    "message": "Menu ustawień LLNY"
+  },
+  "appearance": {
+    "message": "Wygląd"
+  },
+  "tools": {
+    "message": "Narzędzia"
+  },
+  "shortcuts": {
+    "message": "Skróty"
+  },
+  "rateUs": {
+    "message": "Oceń nas"
+  },
+  "account": {
+    "message": "Konto"
+  },
+  "languages": {
+    "message": "Języki"
+  },
+  "showHide": {
+    "message": "Pokaż/Ukryj"
+  },
+  "fontSize": {
+    "message": "Rozmiar czcionki"
+  },
+  "color": {
+    "message": "Kolor"
+  },
+  "download": {
+    "message": "Pobierz"
+  },
+  "thirdSubtitle": {
+    "message": "Trzecie napisy"
+  },
+  "machineTranslate": {
+    "message": "Tłumaczenie maszynowe"
+  },
+  "hoverDictionary": {
+    "message": "Słownik myszy"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "Kolor tła napisów"
+  },
+  "choose": {
+    "message": "Wybierz stronę"
+  },
+  "blur": {
+    "message": "Rozmycie"
+  },
+  "show": {
+    "message": "Pokaż"
+  },
+  "hide": {
+    "message": "Ukryj stronę"
+  },
+  "bothLanguages": {
+    "message": "Oba języki"
+  },
+  "sidebarSubtitles": {
+    "message": "Pasek boczny Napisy"
+  },
+  "phonetics": {
+    "message": "Fonetyka"
+  },
+  "no": {
+    "message": "Nr"
+  },
+  "and": {
+    "message": "oraz"
+  },
+  "original": {
+    "message": "oryginał"
+  },
+  "romanji": {
+    "message": "Romanji"
+  },
+  "hirgana": {
+    "message": "Hirgana"
+  },
+  "wordPronunciation": {
+    "message": "Wymowa wyrazów"
+  },
+  "speed": {
+    "message": "Prędkość"
+  },
+  "stop": {
+    "message": "Przestań"
+  },
+  "automaticStopAfterSentence": {
+    "message": "Automatyczne zatrzymywanie po każdym zdaniu"
+  },
+  "theButton": {
+    "message": "Przycisk"
+  },
+  "autoStopAfterTime": {
+    "message": "Automatyczne zatrzymanie i uruchomienie po upływie czasu"
+  },
+  "autoStopWithSpace": {
+    "message": "Automatyczne zatrzymywanie i ruszanie z miejsca"
+  },
+  "videoPause": {
+    "message": "Pauza wideo"
+  },
+  "time": {
+    "message": "Czas"
+  },
+  "downloadWords": {
+    "message": "Pobierz Słowa"
+  },
+  "enableDisable": {
+    "message": "Włączanie/wyłączanie"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "Zwolnij prędkość odtwarzania"
+  },
+  "normalPlaybackSpeed": {
+    "message": "Normalna prędkość odtwarzania"
+  },
+  "speedUpPlayBack": {
+    "message": "Przyspieszenie odtwarzania"
+  },
+  "saveCurrentSubtitles": {
+    "message": "Zapisz bieżące napisy"
+  },
+  "backward": {
+    "message": "Wstecz"
+  },
+  "forward": {
+    "message": "Do przodu"
+  },
+  "previousSentence": {
+    "message": "Poprzednie zdanie"
+  },
+  "repeatSentence": {
+    "message": "Powtórzenie zdania"
+  },
+  "nextSentence": {
+    "message": "Następne zdanie"
+  },
+  "unlimitedRepeat": {
+    "message": "Powtarzanie bez ograniczeń"
+  },
+  "playPause": {
+    "message": "Odtwarzanie / Pauza"
+  },
+  "beGenerousUser": {
+    "message": "Możesz być hojnym użytkownikiem, pisząc recenzję tutaj. Dzięki!"
+  },
+  "writeReview": {
+    "message": "Napisz recenzję"
+  },
+  "tweetAboutUs": {
+    "message": "Tweetnij o nas"
+  },
+  "reportBug": {
+    "message": "Zgłoś błędy"
+  },
+  "askForNew": {
+    "message": "Zapytaj o nowe"
+  },
+  "signOut": {
+    "message": "Wyloguj się"
+  },
+  "version": {
+    "message": "Wersja"
+  },
+  "translations": {
+    "message": "Tłumaczenia"
+  },
+  "saved": {
+    "message": "Zapisane"
+  },
+  "export": {
+    "message": "Pobierz"
+  },
+  "bothSubtitles": {
+    "message": "Oba napisy"
+  },
+  "exportSaveWords": {
+    "message": "Pobierz zapisane słowa"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "Język ten można zmienić w ustawieniach wideo"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "Język ten można zmienić w ustawieniach rozszerzenia"
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "Wyszukiwanie filmów z napisami"
+  },
+  "andTranslationOfItIs": {
+    "message": "I jego tłumaczenie"
+  },
+  "note": {
+    "message": "Notatka"
+  },
+  "edit": {
+    "message": "EDYTOWAĆ"
+  },
+  "toChangeShareContent": {
+    "message": "aby zmienić Zawartość akcji"
+  },
+  "discardChanges": {
+    "message": "Odrzuć zmiany"
+  },
+  "primarySubtitle": {
+    "message": "Podtytuł główny"
+  },
+  "translation": {
+    "message": "Tłumaczenie"
+  },
+  "saveChanges": {
+    "message": "Zapisz zmiany"
+  },
+  "share": {
+    "message": "Udostępnij"
+  },
+  "loadingMainSubtitles": {
+    "message": "Ładowanie napisów głównych"
+  },
+  "youtubeMenu": {
+    "message": "Menu YouTube"
+  },
+  "off": {
+    "message": "Poza stroną"
+  },
+  "mouseDictionary": {
+    "message": "Słownik myszy"
+  },
+  "premmium": {
+    "message": "Premium"
+  },
+  "highSpeedLearning": {
+    "message": "Szybka nauka"
+  },
+  "pronunciation": {
+    "message": "Wymowa"
+  },
+  "sidebarTranslations": {
+    "message": "Pasek boczny Tłumaczenia"
+  },
+  "keyboardShortcuts": {
+    "message": "Skróty klawiaturowe"
+  },
+  "toUseShortcuts": {
+    "message": "Aby z nich korzystać, należy najpierw aktywować skróty w ustawieniach"
+  },
+  "upgradeYourAccount": {
+    "message": "Uaktualnij swoje konto, aby korzystać z tłumaczenia maszynowego!"
+  },
+  "startYourFreeTrial": {
+    "message": "Rozpocznij BEZPŁATNY okres próbny"
+  },
+  "toAccessMachineTranslations": {
+    "message": "aby uzyskać dostęp do tłumaczeń maszynowych dla wszystkich filmów"
+  },
+  "freeTrial": {
+    "message": "BEZPŁATNY proces"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "Aby włączyć/wyłączyć fonetykę dla języków koreańskiego, japońskiego, chińskiego uproszczonego i chińskiego tradycyjnego, przejdź do ustawień lub kliknij poniższy przycisk!"
+  },
+  "openMenu": {
+    "message": "Otwórz menu"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "Zaloguj się, aby pobrać plik z napisami!"
+  },
+  "loginForFree": {
+    "message": "Zaloguj się za darmo"
+  },
+  "subscribe": {
+    "message": "Subskrybuj"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "Osiągnąłeś swój dzienny limit pobierania napisów. Pobierz DARMOWĄ wersję próbną, aby pobierać więcej napisów!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "Ups! Ten film nie ma napisów!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "Zaloguj się, aby zapisać słowa na swoim koncie"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "Rozpocznij BEZPŁATNY okres próbny, aby korzystać z tej funkcji!"
+  },
+  "getYourTrialToUpload": {
+    "message": "Pobierz BEZPŁATNĄ wersję próbną programu Upload Subtitle"
+  },
+  "loginToLearnPronunciation": {
+    "message": "Zaloguj się, aby poznać dokładną wymowę każdego słowa"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "Osiągnąłeś swój dzienny limit wymowy. Pobierz BEZPŁATNĄ wersję próbną, aby usłyszeć nieograniczoną liczbę słów"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "Osiągnąłeś swój dzienny limit zapisywania słówek. Pobierz DARMOWĄ wersję próbną, aby uczyć się nieograniczonej liczby słów"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "Osiągnąłeś dzienny limit edycji. Odbierz BEZPŁATNY dostęp do nieograniczonej liczby edycji"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "Dokładniejsze znaczenia można zobaczyć w subskrypcji!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "Pobierz BEZPŁATNĄ wersję próbną, aby pokazać/ukryć napisy docelowe"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "Pobierz BEZPŁATNĄ wersję próbną, aby pokazać/ukryć napisy dodatkowe"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "Pobierz BEZPŁATNĄ wersję próbną, aby pokazać/ukryć napisy dodatkowe"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "Zaloguj się, aby filtrować zapisane słowa na podstawie"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "Pobierz BEZPŁATNĄ wersję próbną, aby filtrować zapisane słowa na podstawie"
+  },
+  "haveProblem": {
+    "message": "Jeśli wystąpił problem, wyloguj się i zaloguj ponownie"
+  },
+  "date": {
+    "message": "data"
+  },
+  "video": {
+    "message": "wideo"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "Zaloguj się, aby zachować kolor napisów!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "Zaloguj się, aby zapisać krycie napisów!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "Zaloguj się, aby zapisać rozmiar czcionki napisów!"
+  },
+  "loginToExportSubtitles": {
+    "message": "Zaloguj się, aby pobrać napisy!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "Zaloguj się, aby pobrać zapisane słowa jako"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "Pobierz DARMOWĄ wersję próbną, aby pobrać zapisane słowa jako"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "Pobierz BEZPŁATNY okres próbny, aby zapisywać zdania na podstawie wideo"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "Pobierz BEZPŁATNĄ wersję próbną, aby uzyskać dostęp do tłumaczeń maszynowych jako trzeciego napisu."
+  },
+  "synchronize": {
+    "message": "Synchronizuj stronę"
+  },
+  "settings": {
+    "message": "Ustawienia"
+  },
+  "moreActions": {
+    "message": "Więcej działań"
+  },
+  "openSidebar": {
+    "message": "Otwórz pasek boczny"
+  },
+  "moreSettingsButton": {
+    "message": "Ustawienia zaawansowane"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "Napisy/CC"
+  }
+}

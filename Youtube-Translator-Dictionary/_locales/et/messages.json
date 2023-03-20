@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Keeleõpe Netflixi ja YouTube'iga™"
+  },
+  "manifestAppDesc": {
+    "message": "Keeleõpe Netflixi laiendusega (LLN) ja keeleõpe YouTube'iga (LLY)"
+  },
+  "appName": {
+    "message": "Keeleõpe LLNYga!"
+  },
+  "appDesc": {
+    "message": "Keeleõpe Netflixi laiendusega muudab teie elu palju lihtsamaks ja lõbusamaks"
+  },
+  "upper": {
+    "message": "Ülemine"
+  },
+  "lower": {
+    "message": "Alumine"
+  },
+  "disableTestModeTitle": {
+    "message": "Testrežiimi väljalülitamine"
+  },
+  "disableTestModeDescription": {
+    "message": "Netflix korraldab mõnikord teste, mis võivad põhjustada, et keeleõpe Netflixiga ei toimi korralikult. Probleemide vältimiseks\nsoovitame lülitada Netflixi testides osalemise välja. See on lihtne:"
+  },
+  "disableTestModeButton": {
+    "message": "Testimine välja lülitada"
+  },
+  "lowerSelectBox": {
+    "message": "Alumine subtiitrite keel:"
+  },
+  "okayButton": {
+    "message": "Okei"
+  },
+  "closeButton": {
+    "message": "Sulge"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY Lae alla subtiitrid"
+  },
+  "chooseOneFormat": {
+    "message": "Vali üks formaat:"
+  },
+  "onePerDayForFree": {
+    "message": "Üks päevas tasuta"
+  },
+  "loading": {
+    "message": "Laadimine"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - emakeel"
+  },
+  "hello": {
+    "message": "Tere"
+  },
+  "pleaseSelectYour": {
+    "message": "Palun valige oma"
+  },
+  "upperSubtitles": {
+    "message": "Ülemised subtiitrid"
+  },
+  "targetLanguage": {
+    "message": "Sihtkeel"
+  },
+  "lowerSubtitles": {
+    "message": "Madalamad alapealkirjad"
+  },
+  "motherLanguage": {
+    "message": "Emakeel"
+  },
+  "translationLanguage": {
+    "message": "Tõlkekeel"
+  },
+  "anyProblemInFunctionality": {
+    "message": "Mis tahes probleemi selle laienduse funktsionaalsuses saab lahendada lihtsa värskendusega"
+  },
+  "signInForFree": {
+    "message": "Logi sisse tasuta"
+  },
+  "speedUpLanguageLearning": {
+    "message": "Kiirendada keeleõpet"
+  },
+  "subtitles": {
+    "message": "Subtiitrid"
+  },
+  "words": {
+    "message": "Sõnad"
+  },
+  "help": {
+    "message": "Abi"
+  },
+  "saveWordMeaning": {
+    "message": "Iga sõna tähenduse saate salvestada, tehes sellel paremklõpsu"
+  },
+  "always": {
+    "message": "Alati"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "Ainult sõnad sellest videost?"
+  },
+  "exportAs": {
+    "message": "Lae alla kui"
+  },
+  "file": {
+    "message": "faili"
+  },
+  "howToChangeSubtitles": {
+    "message": "Kuidas muuta subtiitrite keelt"
+  },
+  "howToTranslateWord": {
+    "message": "Kuidas tõlkida sõna"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "Liigutage hiirega originaalsetele subtiitritele"
+  },
+  "howToSaveWords": {
+    "message": "Kuidas päästa sõnu"
+  },
+  "clickAnyWordOnThe": {
+    "message": "Lihtsalt klõpsake originaalsubtiitrite mis tahes sõnal, seejärel klõpsake"
+  },
+  "sign": {
+    "message": "märk"
+  },
+  "howToSaveSentence": {
+    "message": "Kuidas päästa lauseid"
+  },
+  "clickOnThe": {
+    "message": "Klõpsake"
+  },
+  "clickOnLanguageTab": {
+    "message": "Klõpsake seadete ikoonil, seejärel klõpsake keele vahekaardil, et leida sobiv valija"
+  },
+  "signAtTheEndOfSentence": {
+    "message": "märk suvalise lause lõpus, mis sulle meeldib"
+  },
+  "howToExportWords": {
+    "message": "Kuidas sõnu alla laadida"
+  },
+  "clickOnSettingButton": {
+    "message": "Klõpsake seadistusnuppu"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "mängija allosas, seejärel klõpsa faili allalaadimise nupule, et laadida alla tekstifail"
+  },
+  "howToPronounceWords": {
+    "message": "Kuidas hääldada sõnu"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "Lihtsalt klõpsake ükskõik millisel sõnal originaalsubtiitrites"
+  },
+  "uploadSubtitle": {
+    "message": "Subtiitrite üleslaadimine"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "Üleslaetud subtiitrite keel:"
+  },
+  "delaySubtitles": {
+    "message": "Viivitus subtiitrid"
+  },
+  "decrease": {
+    "message": "Vähendada"
+  },
+  "increase": {
+    "message": "Suurendada"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "Klõpsake UPPER subtiitrite valimiseks"
+  },
+  "mainSubtitles": {
+    "message": "Peamised alapealkirjad"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "Klõpsake, et valida LOWER subtiitrid"
+  },
+  "translateSubtitles": {
+    "message": "Subtiitrite tõlkimine"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "Ülemiste subtiitrite keel:"
+  },
+  "settngsMenuHeader": {
+    "message": "LLNY seadete menüü"
+  },
+  "appearance": {
+    "message": "Välimus"
+  },
+  "tools": {
+    "message": "Tööriistad"
+  },
+  "shortcuts": {
+    "message": "Otseteed"
+  },
+  "rateUs": {
+    "message": "Hinda meid"
+  },
+  "account": {
+    "message": "Konto"
+  },
+  "languages": {
+    "message": "Keeled"
+  },
+  "showHide": {
+    "message": "Näita/peita"
+  },
+  "fontSize": {
+    "message": "Kirjasuurus"
+  },
+  "color": {
+    "message": "Värv"
+  },
+  "download": {
+    "message": "Lae alla"
+  },
+  "thirdSubtitle": {
+    "message": "Kolmandad alappealkirjad"
+  },
+  "machineTranslate": {
+    "message": "Masinatõlge"
+  },
+  "hoverDictionary": {
+    "message": "Hiire sõnaraamat"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "Alapealkirjade taustavärv"
+  },
+  "choose": {
+    "message": "Valige"
+  },
+  "blur": {
+    "message": "Hägusus"
+  },
+  "show": {
+    "message": "Näita"
+  },
+  "hide": {
+    "message": "Peida"
+  },
+  "bothLanguages": {
+    "message": "Mõlemad keeled"
+  },
+  "sidebarSubtitles": {
+    "message": "Külgriba alappealkirjad"
+  },
+  "phonetics": {
+    "message": "Foneetika"
+  },
+  "no": {
+    "message": "Ei"
+  },
+  "and": {
+    "message": "ja"
+  },
+  "original": {
+    "message": "Originaal"
+  },
+  "romanji": {
+    "message": "Romanji"
+  },
+  "hirgana": {
+    "message": "Hirgana"
+  },
+  "wordPronunciation": {
+    "message": "Sõna hääldus"
+  },
+  "speed": {
+    "message": "Kiirus"
+  },
+  "stop": {
+    "message": "Peatus"
+  },
+  "automaticStopAfterSentence": {
+    "message": "Automaatne peatumine pärast iga lauset"
+  },
+  "theButton": {
+    "message": "nupp"
+  },
+  "autoStopAfterTime": {
+    "message": "Automaatne seiskamine ja käivitamine pärast aja möödumist"
+  },
+  "autoStopWithSpace": {
+    "message": "Automaatne seiskamine ja käivitamine koos tühikuga"
+  },
+  "videoPause": {
+    "message": "Video paus"
+  },
+  "time": {
+    "message": "Aeg"
+  },
+  "downloadWords": {
+    "message": "Lae alla sõnad"
+  },
+  "enableDisable": {
+    "message": "Lubamine/väljalülitamine"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "Taasesituskiiruse aeglustamine"
+  },
+  "normalPlaybackSpeed": {
+    "message": "Tavaline taasesituskiirus"
+  },
+  "speedUpPlayBack": {
+    "message": "Kiirenda taasesitust"
+  },
+  "saveCurrentSubtitles": {
+    "message": "Salvesta praegused subtiitrid"
+  },
+  "backward": {
+    "message": "Tagasi"
+  },
+  "forward": {
+    "message": "Edasi"
+  },
+  "previousSentence": {
+    "message": "Eelmine lause"
+  },
+  "repeatSentence": {
+    "message": "Korda lauset"
+  },
+  "nextSentence": {
+    "message": "Järgmine lause"
+  },
+  "unlimitedRepeat": {
+    "message": "Piiramatu kordus"
+  },
+  "playPause": {
+    "message": "Mängi / Paus"
+  },
+  "beGenerousUser": {
+    "message": "Saate olla helde kasutaja, kirjutades ülevaate siin. Täname!"
+  },
+  "writeReview": {
+    "message": "Kirjuta arvustus"
+  },
+  "tweetAboutUs": {
+    "message": "Säutsu meist"
+  },
+  "reportBug": {
+    "message": "Vigadest teatamine"
+  },
+  "askForNew": {
+    "message": "Küsi uut"
+  },
+  "signOut": {
+    "message": "Allkiri välja"
+  },
+  "version": {
+    "message": "Versioon"
+  },
+  "translations": {
+    "message": "Tõlked"
+  },
+  "saved": {
+    "message": "Salvestatud"
+  },
+  "export": {
+    "message": "Lae alla"
+  },
+  "bothSubtitles": {
+    "message": "Mõlemad subtiitrid"
+  },
+  "exportSaveWords": {
+    "message": "Salvestatud sõnade allalaadimine"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "Seda keelt saab muuta video seadetes"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "Seda keelt saab muuta laienduse seadetes"
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "Subtiitritega videote otsimine"
+  },
+  "andTranslationOfItIs": {
+    "message": "Ja selle tõlge"
+  },
+  "note": {
+    "message": "Märkus"
+  },
+  "edit": {
+    "message": "EDIT"
+  },
+  "toChangeShareContent": {
+    "message": "muuta Jaga sisu"
+  },
+  "discardChanges": {
+    "message": "Viska muudatused"
+  },
+  "primarySubtitle": {
+    "message": "Esmane alappealkiri"
+  },
+  "translation": {
+    "message": "Tõlge"
+  },
+  "saveChanges": {
+    "message": "Salvesta muudatused"
+  },
+  "share": {
+    "message": "Jaga"
+  },
+  "loadingMainSubtitles": {
+    "message": "Peamiste subtiitrite laadimine"
+  },
+  "youtubeMenu": {
+    "message": "YouTube'i menüü"
+  },
+  "off": {
+    "message": "Väljaspool"
+  },
+  "mouseDictionary": {
+    "message": "Hiire sõnaraamat"
+  },
+  "premmium": {
+    "message": "Premium"
+  },
+  "highSpeedLearning": {
+    "message": "Kiire õppimine"
+  },
+  "pronunciation": {
+    "message": "Hääldus"
+  },
+  "sidebarTranslations": {
+    "message": "Külgmised tõlked"
+  },
+  "keyboardShortcuts": {
+    "message": "Klaviatuurikombinatsioonid"
+  },
+  "toUseShortcuts": {
+    "message": "Kasutamiseks aktiveerige esmalt otseteed seadetest"
+  },
+  "upgradeYourAccount": {
+    "message": "Uuenda oma kontot, et kasutada masintõlget!"
+  },
+  "startYourFreeTrial": {
+    "message": "Alusta oma TASUTA prooviperioodi"
+  },
+  "toAccessMachineTranslations": {
+    "message": "pääseda ligi kõigi filmide masintõlgetele"
+  },
+  "freeTrial": {
+    "message": "TASUTA prooviperiood"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "Korea, jaapani, lihtsustatud hiina ja traditsioonilise hiina keele foneetika lubamiseks/välja lülitamiseks mine seadistusse või klõpsa alloleval nupul!"
+  },
+  "openMenu": {
+    "message": "Avatud menüü"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "Subtiitrifaili allalaadimiseks logi sisse!"
+  },
+  "loginForFree": {
+    "message": "Logi sisse tasuta"
+  },
+  "subscribe": {
+    "message": "Telli"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "Te olete jõudnud subtiitrite allalaadimise päevapiiranguni. Hangi endale TASUTA prooviperiood, et laadida alla rohkem subtiitreid!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "Ups! Sellel videol ei ole subtiitreid!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "Palun logige sisse, et salvestada sõnu oma kontole"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "Alusta selle funktsiooni kasutamise TASUTA prooviperioodi!"
+  },
+  "getYourTrialToUpload": {
+    "message": "Hangi oma TASUTA prooviperioodi üleslaadimiseks Subtitle"
+  },
+  "loginToLearnPronunciation": {
+    "message": "Logi sisse, et õppida iga sõna täpset hääldust"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "Te olete jõudnud oma päevase häälduse piirini. Hangi endale TASUTA prooviperiood, et kuulata piiramatu arv sõnu"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "Te olete jõudnud oma igapäevase sõnade säästmise piirmäärani. Hangi endale TASUTA prooviperiood, et õppida piiramatul hulgal sõnu"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "Olete jõudnud oma päevase toimetamise piirini. Saate TASUTA prooviperioodi piiramatu arvu redigeerimiste jaoks"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "Saate oma tellimusest näha täpsemaid tähendusi!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "Hangi endale TASUTA prooviperiood, et näidata/varjata sihtmärki Subtitle"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "Hangi endale TASUTA prooviperiood, et näidata/varjata sekundaarseid alapealkirju"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "Hangi endale TASUTA prooviperiood, et näidata/varjata sekundaarseid alapealkirju"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "Logi sisse, et filtreerida salvestatud sõnade alusel"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "Hangi endale TASUTA prooviperiood, et filtreerida salvestatud sõnu, mis põhinevad"
+  },
+  "haveProblem": {
+    "message": "Kui teil on probleem, palun logige välja ja logige uuesti sisse"
+  },
+  "date": {
+    "message": "kuupäev"
+  },
+  "video": {
+    "message": "video"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "Logi sisse, et säilitada subtiitrite värvi!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "Logi sisse, et salvestada subtiitrite läbipaistmatus!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "Logi sisse, et salvestada subtiitrite kirjasuurus!"
+  },
+  "loginToExportSubtitles": {
+    "message": "Subtiitrite allalaadimiseks logi sisse!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "Logi sisse salvestatud sõnade allalaadimiseks kui"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "Hangi oma TASUTA prooviperioodi, et laadida alla salvestatud sõnu kui"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "Saa oma TASUTA prooviperioodi salvestatud lause põhineb video"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "Hangi endale TASUTA prooviperiood, et pääseda ligi masintõlgetele kolmanda alapealkirjana."
+  },
+  "synchronize": {
+    "message": "Synchronize"
+  },
+  "settings": {
+    "message": "Seaded"
+  },
+  "moreActions": {
+    "message": "Veel toiminguid"
+  },
+  "openSidebar": {
+    "message": "Avatud külgriba"
+  },
+  "moreSettingsButton": {
+    "message": "Täiustatud seaded"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "Subtiitrid/CC"
+  }
+}

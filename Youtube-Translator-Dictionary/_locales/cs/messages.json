@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Výuka jazyků s Netflix a YouTube™"
+  },
+  "manifestAppDesc": {
+    "message": "Jazykové vzdělávání s rozšířením Netflix (LLN) a jazykové vzdělávání s YouTube (LLY)"
+  },
+  "appName": {
+    "message": "Učení jazyka s LLNY!"
+  },
+  "appDesc": {
+    "message": "Učení jazyků s rozšířením Netflix vám usnadní život a udělá ho zábavnějším."
+  },
+  "upper": {
+    "message": "Horní"
+  },
+  "lower": {
+    "message": "Dolní"
+  },
+  "disableTestModeTitle": {
+    "message": "Zakázat testovací režim"
+  },
+  "disableTestModeDescription": {
+    "message": "Společnost Netflix někdy provádí testy, které mohou způsobit, že služba Language Learning with Netflix nebude fungovat správně. Abyste se vyhnuli problémům,\ndoporučujeme vypnout účast na testech Netflixu. Je to snadné:"
+  },
+  "disableTestModeButton": {
+    "message": "Zakázat testování"
+  },
+  "lowerSelectBox": {
+    "message": "Dolní jazyk titulků:"
+  },
+  "okayButton": {
+    "message": "Dobře"
+  },
+  "closeButton": {
+    "message": "Zavřít"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY Stáhnout titulky"
+  },
+  "chooseOneFormat": {
+    "message": "Vyberte jeden formát:"
+  },
+  "onePerDayForFree": {
+    "message": "Jeden denně zdarma"
+  },
+  "loading": {
+    "message": "Načítání"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - Rodný jazyk"
+  },
+  "hello": {
+    "message": "Dobrý den,"
+  },
+  "pleaseSelectYour": {
+    "message": "Vyberte prosím svůj"
+  },
+  "upperSubtitles": {
+    "message": "Horní titulky"
+  },
+  "targetLanguage": {
+    "message": "Cílový jazyk"
+  },
+  "lowerSubtitles": {
+    "message": "Dolní titulky"
+  },
+  "motherLanguage": {
+    "message": "Mateřský jazyk"
+  },
+  "translationLanguage": {
+    "message": "Jazyk překladu"
+  },
+  "anyProblemInFunctionality": {
+    "message": "Jakýkoli problém ve funkčnosti tohoto rozšíření lze vyřešit jednoduchým obnovením."
+  },
+  "signInForFree": {
+    "message": "Přihlaste se zdarma"
+  },
+  "speedUpLanguageLearning": {
+    "message": "Urychlení výuky jazyků"
+  },
+  "subtitles": {
+    "message": "Titulky"
+  },
+  "words": {
+    "message": "Slova"
+  },
+  "help": {
+    "message": "Nápověda"
+  },
+  "saveWordMeaning": {
+    "message": "Význam jakéhokoli slova můžete uložit kliknutím pravým tlačítkem myši."
+  },
+  "always": {
+    "message": "Vždy"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "Pouze slova tohoto videa?"
+  },
+  "exportAs": {
+    "message": "Stáhnout jako"
+  },
+  "file": {
+    "message": "soubor"
+  },
+  "howToChangeSubtitles": {
+    "message": "Jak změnit jazyk titulků"
+  },
+  "howToTranslateWord": {
+    "message": "Jak přeložit slovo"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "Najeďte myší na originální titulky"
+  },
+  "howToSaveWords": {
+    "message": "Jak zachránit slova"
+  },
+  "clickAnyWordOnThe": {
+    "message": "Stačí kliknout na libovolné slovo v původních titulcích a poté kliknout na"
+  },
+  "sign": {
+    "message": "znamení"
+  },
+  "howToSaveSentence": {
+    "message": "Jak zachránit věty"
+  },
+  "clickOnThe": {
+    "message": "Klikněte na"
+  },
+  "clickOnLanguageTab": {
+    "message": "Klikněte na ikonu nastavení, poté klikněte na kartu jazyka a vyhledejte příslušný volič."
+  },
+  "signAtTheEndOfSentence": {
+    "message": "znak na konci libovolné věty, která se vám líbí."
+  },
+  "howToExportWords": {
+    "message": "Jak stáhnout slova"
+  },
+  "clickOnSettingButton": {
+    "message": "Klikněte na tlačítko nastavení"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "v dolní části přehrávače, poté klikněte na tlačítko Stáhnout soubor a stáhněte textový soubor."
+  },
+  "howToPronounceWords": {
+    "message": "Jak vyslovovat slova"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "Stačí kliknout na libovolné slovo v originálních titulcích."
+  },
+  "uploadSubtitle": {
+    "message": "Nahrát titulky"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "Jazyk nahraných titulků:"
+  },
+  "delaySubtitles": {
+    "message": "Zpoždění titulků"
+  },
+  "decrease": {
+    "message": "Snížení"
+  },
+  "increase": {
+    "message": "Zvýšení"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "Klikněte pro výběr horních titulků"
+  },
+  "mainSubtitles": {
+    "message": "Hlavní titulky"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "Klikněte pro výběr DOLNÍCH titulků"
+  },
+  "translateSubtitles": {
+    "message": "Přeložit titulky"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "Horní jazyk titulků:"
+  },
+  "settngsMenuHeader": {
+    "message": "Nabídka nastavení LLNY"
+  },
+  "appearance": {
+    "message": "Vzhled"
+  },
+  "tools": {
+    "message": "Nástroje"
+  },
+  "shortcuts": {
+    "message": "Zkratky"
+  },
+  "rateUs": {
+    "message": "Ohodnoťte nás"
+  },
+  "account": {
+    "message": "Účet"
+  },
+  "languages": {
+    "message": "Jazyky"
+  },
+  "showHide": {
+    "message": "Zobrazit/skrýt"
+  },
+  "fontSize": {
+    "message": "Velikost písma"
+  },
+  "color": {
+    "message": "Barva"
+  },
+  "download": {
+    "message": "Stáhnout"
+  },
+  "thirdSubtitle": {
+    "message": "Třetí titulky"
+  },
+  "machineTranslate": {
+    "message": "Strojový překladač"
+  },
+  "hoverDictionary": {
+    "message": "Myší slovník"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "Barva pozadí titulků"
+  },
+  "choose": {
+    "message": "Vyberte si"
+  },
+  "blur": {
+    "message": "Rozmazání"
+  },
+  "show": {
+    "message": "Zobrazit"
+  },
+  "hide": {
+    "message": "Skrýt"
+  },
+  "bothLanguages": {
+    "message": "Oba jazyky"
+  },
+  "sidebarSubtitles": {
+    "message": "Titulky na postranním panelu"
+  },
+  "phonetics": {
+    "message": "Fonetika"
+  },
+  "no": {
+    "message": "Ne"
+  },
+  "and": {
+    "message": "a"
+  },
+  "original": {
+    "message": "Originál"
+  },
+  "romanji": {
+    "message": "Romanji"
+  },
+  "hirgana": {
+    "message": "Hirgana"
+  },
+  "wordPronunciation": {
+    "message": "Výslovnost slov"
+  },
+  "speed": {
+    "message": "Rychlost"
+  },
+  "stop": {
+    "message": "Zastavte"
+  },
+  "automaticStopAfterSentence": {
+    "message": "Automatické zastavení po každé větě"
+  },
+  "theButton": {
+    "message": "Tlačítko"
+  },
+  "autoStopAfterTime": {
+    "message": "Automatické zastavení a spuštění po uplynutí času"
+  },
+  "autoStopWithSpace": {
+    "message": "Automatické zastavení a spuštění s mezerníkem"
+  },
+  "videoPause": {
+    "message": "Video pauza"
+  },
+  "time": {
+    "message": "Čas"
+  },
+  "downloadWords": {
+    "message": "Slova ke stažení"
+  },
+  "enableDisable": {
+    "message": "Povolit/zakázat"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "Zpomalení rychlosti přehrávání"
+  },
+  "normalPlaybackSpeed": {
+    "message": "Normální rychlost přehrávání"
+  },
+  "speedUpPlayBack": {
+    "message": "Zrychlení přehrávání"
+  },
+  "saveCurrentSubtitles": {
+    "message": "Uložit aktuální titulky"
+  },
+  "backward": {
+    "message": "Zpětně"
+  },
+  "forward": {
+    "message": "Vpřed"
+  },
+  "previousSentence": {
+    "message": "Předchozí věta"
+  },
+  "repeatSentence": {
+    "message": "Opakujte větu"
+  },
+  "nextSentence": {
+    "message": "Další věta"
+  },
+  "unlimitedRepeat": {
+    "message": "Neomezené opakování"
+  },
+  "playPause": {
+    "message": "Přehrát / pozastavit"
+  },
+  "beGenerousUser": {
+    "message": "Můžete být štědrým uživatelem a napsat recenzi zde. Díky!"
+  },
+  "writeReview": {
+    "message": "Napište recenzi"
+  },
+  "tweetAboutUs": {
+    "message": "Tweetujte o nás"
+  },
+  "reportBug": {
+    "message": "Nahlásit chyby"
+  },
+  "askForNew": {
+    "message": "Požádejte o nové"
+  },
+  "signOut": {
+    "message": "Odhlásit se"
+  },
+  "version": {
+    "message": "Verze"
+  },
+  "translations": {
+    "message": "Překlady"
+  },
+  "saved": {
+    "message": "Uloženo"
+  },
+  "export": {
+    "message": "Stáhnout"
+  },
+  "bothSubtitles": {
+    "message": "Oba titulky"
+  },
+  "exportSaveWords": {
+    "message": "Stáhnout uložená slova"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "Tento jazyk můžete změnit v nastavení videa."
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "Tento jazyk můžete změnit v nastavení rozšíření."
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "Vyhledávání videí s titulky"
+  },
+  "andTranslationOfItIs": {
+    "message": "A jeho překlad"
+  },
+  "note": {
+    "message": "Poznámka"
+  },
+  "edit": {
+    "message": "UPRAVIT"
+  },
+  "toChangeShareContent": {
+    "message": "změnit Obsah sdílet"
+  },
+  "discardChanges": {
+    "message": "Vyřazení změn"
+  },
+  "primarySubtitle": {
+    "message": "Primární podnázev"
+  },
+  "translation": {
+    "message": "Překlad"
+  },
+  "saveChanges": {
+    "message": "Uložit změny"
+  },
+  "share": {
+    "message": "Sdílet"
+  },
+  "loadingMainSubtitles": {
+    "message": "Načítání hlavních titulků"
+  },
+  "youtubeMenu": {
+    "message": "Nabídka YouTube"
+  },
+  "off": {
+    "message": "Vypnuto"
+  },
+  "mouseDictionary": {
+    "message": "Myší slovník"
+  },
+  "premmium": {
+    "message": "Pojistné"
+  },
+  "highSpeedLearning": {
+    "message": "Vysokorychlostní učení"
+  },
+  "pronunciation": {
+    "message": "Výslovnost"
+  },
+  "sidebarTranslations": {
+    "message": "Překlady na postranním panelu"
+  },
+  "keyboardShortcuts": {
+    "message": "Klávesové zkratky"
+  },
+  "toUseShortcuts": {
+    "message": "Chcete-li klávesové zkratky používat, nejprve je aktivujte v nastavení."
+  },
+  "upgradeYourAccount": {
+    "message": "Upgradujte svůj účet a používejte strojový překlad!"
+  },
+  "startYourFreeTrial": {
+    "message": "Spusťte zkušební verzi ZDARMA"
+  },
+  "toAccessMachineTranslations": {
+    "message": "pro přístup ke strojovým překladům všech filmů"
+  },
+  "freeTrial": {
+    "message": "Zkušební verze ZDARMA"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "Chcete-li povolit/zakázat fonetiku pro korejštinu, japonštinu, zjednodušenou čínštinu a tradiční čínštinu, přejděte do nastavení nebo klikněte na tlačítko níže!"
+  },
+  "openMenu": {
+    "message": "Otevřít nabídku"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "Pro stažení souboru s titulky se přihlaste!"
+  },
+  "loginForFree": {
+    "message": "Přihlášení zdarma"
+  },
+  "subscribe": {
+    "message": "Přihlaste se k odběru na"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "Dosáhli jste denního limitu pro stahování titulků. Získejte zkušební verzi ZDARMA a stahujte další titulky!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "Ups! Toto video nemá titulky!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "Pro uložení slov do svého účtu se prosím přihlaste."
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "Spusťte zkušební verzi ZDARMA pro používání této funkce!"
+  },
+  "getYourTrialToUpload": {
+    "message": "Získejte ZDARMA zkušební verzi aplikace Nahrát titulky"
+  },
+  "loginToLearnPronunciation": {
+    "message": "Přihlaste se a naučte se přesnou výslovnost každého slova"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "Dosáhli jste svého denního limitu pro výslovnost. Získejte zkušební verzi ZDARMA a poslouchejte neomezený počet slov."
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "Dosáhli jste denního limitu pro ukládání slov. Získejte zkušební verzi ZDARMA a naučte se neomezený počet slovíček."
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "Dosáhli jste denního limitu pro úpravy. Získejte zkušební verzi ZDARMA pro neomezený počet úprav"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "Ve svém předplatném můžete vidět přesnější významy!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "Získejte zkušební verzi ZDARMA a zobrazte/skryjte cíl Titulky"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "Získejte zkušební verzi ZDARMA a zobrazte/skryjte sekundární titulky"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "Získejte zkušební verzi ZDARMA a zobrazte/skryjte sekundární titulky"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "Přihlaste se a filtrujte uložená slova na základě"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "Získejte zkušební verzi ZDARMA a filtrujte uložená slova na základě"
+  },
+  "haveProblem": {
+    "message": "Pokud máte problém, odhlaste se a znovu se přihlaste."
+  },
+  "date": {
+    "message": "datum"
+  },
+  "video": {
+    "message": "video"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "Přihlaste se a zachovejte barvu titulků!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "Přihlaste se a uložte neprůhlednost titulků!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "Přihlaste se a uložte velikost písma titulků!"
+  },
+  "loginToExportSubtitles": {
+    "message": "Pro stažení titulků se prosím přihlaste!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "Přihlaste se a stáhněte si uložená slova jako"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "Získejte zkušební verzi ZDARMA a stáhněte si uložená slova jako"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "Získejte zkušební verzi ZDARMA a uložte si větu na základě videa"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "Získejte zkušební verzi ZDARMA a získejte přístup ke strojovým překladům jako třetímu titulku."
+  },
+  "synchronize": {
+    "message": "Synchronizace"
+  },
+  "settings": {
+    "message": "Nastavení"
+  },
+  "moreActions": {
+    "message": "Další akce"
+  },
+  "openSidebar": {
+    "message": "Otevřít postranní panel"
+  },
+  "moreSettingsButton": {
+    "message": "Rozšířená nastavení"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "Titulky/CC"
+  }
+}

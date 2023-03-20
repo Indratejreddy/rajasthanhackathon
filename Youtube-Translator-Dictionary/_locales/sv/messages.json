@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Språkinlärning med Netflix och YouTube™"
+  },
+  "manifestAppDesc": {
+    "message": "Språkinlärning med Netflix tillägg (LLN) & Språkinlärning med YouTube (LLY)"
+  },
+  "appName": {
+    "message": "Lär dig språk med LLNY!"
+  },
+  "appDesc": {
+    "message": "Språkinlärning med Netflix förlängning gör ditt liv mycket enklare och roligare"
+  },
+  "upper": {
+    "message": "Övre"
+  },
+  "lower": {
+    "message": "Lägre"
+  },
+  "disableTestModeTitle": {
+    "message": "Inaktivera testläget"
+  },
+  "disableTestModeDescription": {
+    "message": "Netflix kör ibland tester som kan leda till att Språkinlärning med Netflix inte fungerar korrekt. För att undvika problem,\nrekommenderar vi att du stänger av Netflix testdeltagande. Det är enkelt:"
+  },
+  "disableTestModeButton": {
+    "message": "Inaktivera testning"
+  },
+  "lowerSelectBox": {
+    "message": "Låg textning Språk:"
+  },
+  "okayButton": {
+    "message": "Okej"
+  },
+  "closeButton": {
+    "message": "Stäng"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY Ladda ner undertexter"
+  },
+  "chooseOneFormat": {
+    "message": "Välj ett Format:"
+  },
+  "onePerDayForFree": {
+    "message": "En gratis per dag"
+  },
+  "loading": {
+    "message": "Laddar"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - Modersmål"
+  },
+  "hello": {
+    "message": "Hej"
+  },
+  "pleaseSelectYour": {
+    "message": "Välj din"
+  },
+  "upperSubtitles": {
+    "message": "Övre undertexter"
+  },
+  "targetLanguage": {
+    "message": "Målspråk"
+  },
+  "lowerSubtitles": {
+    "message": "Lägre undertexter"
+  },
+  "motherLanguage": {
+    "message": "Modersmål"
+  },
+  "translationLanguage": {
+    "message": "Translation Language"
+  },
+  "anyProblemInFunctionality": {
+    "message": "Eventuella problem med tilläggets funktionalitet kan lösas med en enkel uppdatering."
+  },
+  "signInForFree": {
+    "message": "Registrera dig gratis"
+  },
+  "speedUpLanguageLearning": {
+    "message": "Snabbare språkinlärning"
+  },
+  "subtitles": {
+    "message": "Undertexter"
+  },
+  "words": {
+    "message": "Ord"
+  },
+  "help": {
+    "message": "Hjälp"
+  },
+  "saveWordMeaning": {
+    "message": "Du kan spara betydelsen av ett ord genom att högerklicka på det."
+  },
+  "always": {
+    "message": "Alltid"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "Only words of this video?"
+  },
+  "exportAs": {
+    "message": "Ladda ner som"
+  },
+  "file": {
+    "message": "fil"
+  },
+  "howToChangeSubtitles": {
+    "message": "Hur man ändrar språket i undertexterna"
+  },
+  "howToTranslateWord": {
+    "message": "Hur man översätter ord"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "Flytta musen på originalundertexterna"
+  },
+  "howToSaveWords": {
+    "message": "Hur man sparar ord"
+  },
+  "clickAnyWordOnThe": {
+    "message": "Klicka bara på ett ord i originalundertexterna och klicka sedan på den"
+  },
+  "sign": {
+    "message": "skylt"
+  },
+  "howToSaveSentence": {
+    "message": "Hur man sparar meningar"
+  },
+  "clickOnThe": {
+    "message": "Klicka på"
+  },
+  "clickOnLanguageTab": {
+    "message": "Klicka på inställningsikonen och klicka sedan på språkfliken för att hitta rätt väljare."
+  },
+  "signAtTheEndOfSentence": {
+    "message": "i slutet av en mening som du vill ha."
+  },
+  "howToExportWords": {
+    "message": "Hur man laddar ner ord"
+  },
+  "clickOnSettingButton": {
+    "message": "Klicka på inställningsknappen"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "längst ner i spelaren och klicka sedan på knappen Ladda ner fil för att ladda ner textfilen."
+  },
+  "howToPronounceWords": {
+    "message": "Hur man uttalar ord"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "Klicka bara på ett ord i originalundertexterna."
+  },
+  "uploadSubtitle": {
+    "message": "Ladda upp undertexter"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "Språket i de uppladdade undertexterna:"
+  },
+  "delaySubtitles": {
+    "message": "Fördröjning Undertexter"
+  },
+  "decrease": {
+    "message": "Minskning"
+  },
+  "increase": {
+    "message": "Öka"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "Klicka för att välja de övre undertexterna"
+  },
+  "mainSubtitles": {
+    "message": "Huvudsakliga undertexter"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "Klicka för att välja LOWER undertexter"
+  },
+  "translateSubtitles": {
+    "message": "Översätt undertexter"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "Upper Subtitles Language:"
+  },
+  "settngsMenuHeader": {
+    "message": "LLNY Inställningsmeny"
+  },
+  "appearance": {
+    "message": "Utseende"
+  },
+  "tools": {
+    "message": "Verktyg"
+  },
+  "shortcuts": {
+    "message": "Genvägar"
+  },
+  "rateUs": {
+    "message": "Betygsätt oss"
+  },
+  "account": {
+    "message": "Konto"
+  },
+  "languages": {
+    "message": "Språk"
+  },
+  "showHide": {
+    "message": "Visa/dölj"
+  },
+  "fontSize": {
+    "message": "Teckensnittsstorlek"
+  },
+  "color": {
+    "message": "Färg"
+  },
+  "download": {
+    "message": "Ladda ner"
+  },
+  "thirdSubtitle": {
+    "message": "Tredje undertexterna"
+  },
+  "machineTranslate": {
+    "message": "Maskinellt översätta"
+  },
+  "hoverDictionary": {
+    "message": "Mouse-ordbok"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "Bakgrundsfärg för undertexter"
+  },
+  "choose": {
+    "message": "Välj"
+  },
+  "blur": {
+    "message": "Oskärpa"
+  },
+  "show": {
+    "message": "Visa"
+  },
+  "hide": {
+    "message": "Dölj"
+  },
+  "bothLanguages": {
+    "message": "Båda språken"
+  },
+  "sidebarSubtitles": {
+    "message": "Undertexter i sidofältet"
+  },
+  "phonetics": {
+    "message": "Fonetik"
+  },
+  "no": {
+    "message": "Ingen"
+  },
+  "and": {
+    "message": "och"
+  },
+  "original": {
+    "message": "Original"
+  },
+  "romanji": {
+    "message": "Romanji"
+  },
+  "hirgana": {
+    "message": "Hirgana"
+  },
+  "wordPronunciation": {
+    "message": "Uttryck av ord"
+  },
+  "speed": {
+    "message": "Hastighet"
+  },
+  "stop": {
+    "message": "Stoppa"
+  },
+  "automaticStopAfterSentence": {
+    "message": "Automatisk stopp efter varje mening"
+  },
+  "theButton": {
+    "message": "Knappen"
+  },
+  "autoStopAfterTime": {
+    "message": "Automatiskt stopp och start efter tid"
+  },
+  "autoStopWithSpace": {
+    "message": "Automatiskt stopp och start med utrymme"
+  },
+  "videoPause": {
+    "message": "Paus för video"
+  },
+  "time": {
+    "message": "Tid"
+  },
+  "downloadWords": {
+    "message": "Ladda ner ord"
+  },
+  "enableDisable": {
+    "message": "Aktivera/avaktivera"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "Sakta ner uppspelningshastigheten"
+  },
+  "normalPlaybackSpeed": {
+    "message": "Normal uppspelningshastighet"
+  },
+  "speedUpPlayBack": {
+    "message": "Snabbare uppspelning"
+  },
+  "saveCurrentSubtitles": {
+    "message": "Spara aktuella undertexter"
+  },
+  "backward": {
+    "message": "Bakåt"
+  },
+  "forward": {
+    "message": "Framåt"
+  },
+  "previousSentence": {
+    "message": "Föregående mening"
+  },
+  "repeatSentence": {
+    "message": "Upprepa meningen"
+  },
+  "nextSentence": {
+    "message": "Nästa mening"
+  },
+  "unlimitedRepeat": {
+    "message": "Obegränsad upprepning"
+  },
+  "playPause": {
+    "message": "Spela upp / pausa"
+  },
+  "beGenerousUser": {
+    "message": "Du kan vara en generös användare genom att skriva en recension här. Tack!"
+  },
+  "writeReview": {
+    "message": "Skriv en recension"
+  },
+  "tweetAboutUs": {
+    "message": "Twittra om oss"
+  },
+  "reportBug": {
+    "message": "Rapportera fel"
+  },
+  "askForNew": {
+    "message": "Be om nya"
+  },
+  "signOut": {
+    "message": "Logga ut"
+  },
+  "version": {
+    "message": "Version"
+  },
+  "translations": {
+    "message": "Översättningar"
+  },
+  "saved": {
+    "message": "Sparad"
+  },
+  "export": {
+    "message": "Ladda ner"
+  },
+  "bothSubtitles": {
+    "message": "Båda undertexterna"
+  },
+  "exportSaveWords": {
+    "message": "Ladda ner sparade ord"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "Du kan ändra språket i inställningarna för video"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "Du kan ändra språket i tilläggets inställningar."
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "Sök efter videor med undertexter"
+  },
+  "andTranslationOfItIs": {
+    "message": "Och översättningen av den"
+  },
+  "note": {
+    "message": "Obs"
+  },
+  "edit": {
+    "message": "EDIT"
+  },
+  "toChangeShareContent": {
+    "message": "to change Share content"
+  },
+  "discardChanges": {
+    "message": "Förändringar i kassation"
+  },
+  "primarySubtitle": {
+    "message": "Primär undertitel"
+  },
+  "translation": {
+    "message": "Översättning"
+  },
+  "saveChanges": {
+    "message": "Spara ändringar"
+  },
+  "share": {
+    "message": "Dela"
+  },
+  "loadingMainSubtitles": {
+    "message": "Loading Main subtitles"
+  },
+  "youtubeMenu": {
+    "message": "YouTube-menyn"
+  },
+  "off": {
+    "message": "Av"
+  },
+  "mouseDictionary": {
+    "message": "Mouse ordbok"
+  },
+  "premmium": {
+    "message": "Premium"
+  },
+  "highSpeedLearning": {
+    "message": "Höghastighetsinlärning"
+  },
+  "pronunciation": {
+    "message": "Uttryck"
+  },
+  "sidebarTranslations": {
+    "message": "Sidebar Översättningar"
+  },
+  "keyboardShortcuts": {
+    "message": "Keyboard Shortcuts"
+  },
+  "toUseShortcuts": {
+    "message": "För att använda dem ska du först aktivera genvägarna i inställningarna."
+  },
+  "upgradeYourAccount": {
+    "message": "Uppgradera ditt konto för att använda maskinöversättning!"
+  },
+  "startYourFreeTrial": {
+    "message": "Starta din kostnadsfria provperiod"
+  },
+  "toAccessMachineTranslations": {
+    "message": "för att få tillgång till maskinöversättningar för alla filmer"
+  },
+  "freeTrial": {
+    "message": "GRATIS provperiod"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "För att aktivera/avaktivera fonetik för koreanska, japanska, förenklad kinesiska och traditionell kinesiska, gå till inställningar eller klicka på knappen nedan!"
+  },
+  "openMenu": {
+    "message": "Öppna menyn"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "Logga in för att ladda ner undertextfilen!"
+  },
+  "loginForFree": {
+    "message": "Logga in gratis"
+  },
+  "subscribe": {
+    "message": "Prenumerera på"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "Du har nått din dagliga gräns för nedladdning av undertexter. Få din GRATIS provperiod för att ladda ner fler undertexter!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "Oops! Den här videon har inga undertexter!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "Logga in för att spara ord på ditt konto"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "Starta din kostnadsfria provperiod för att använda den här funktionen!"
+  },
+  "getYourTrialToUpload": {
+    "message": "Få din kostnadsfria testversion av Upload Subtitle"
+  },
+  "loginToLearnPronunciation": {
+    "message": "Logga in för att lära dig det exakta uttalet av varje ord."
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "Du har nått din dagliga gräns för uttal. Få din GRATIS provperiod för att höra ett obegränsat antal ord."
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "Du har nått din dagliga gräns för att spara ord. Få din GRATIS provperiod för att lära dig ett obegränsat antal ord."
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "Du har nått din dagliga gräns för redigering. Få en GRATIS provperiod med ett obegränsat antal redigeringar"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "Du kan se mer exakta betydelser i din prenumeration!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "Få din kostnadsfria provperiod för att visa/dölja målet Undertext"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "Få en GRATIS provperiod för att visa/dölja sekundär undertext"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "Få din kostnadsfria provperiod för att visa/dölja sekundär undertext"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "Logga in för att filtrera sparade ord baserat på"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "Få din kostnadsfria provperiod för att filtrera sparade ord baserat på"
+  },
+  "haveProblem": {
+    "message": "Om du har ett problem, vänligen logga ut och logga in igen."
+  },
+  "date": {
+    "message": "datum"
+  },
+  "video": {
+    "message": "video"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "Logga in för att behålla färgen på undertexterna!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "Logga in för att spara undertexternas opacitet!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "Logga in för att spara teckensnittsstorleken för undertexter!"
+  },
+  "loginToExportSubtitles": {
+    "message": "Vänligen logga in för att ladda ner undertexter!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "Logga in för att ladda ner de sparade orden som"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "Få din GRATIS provperiod för att ladda ner sparade ord som"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "Få din kostnadsfria provperiod för att spara en mening baserad på video"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "Få din kostnadsfria provperiod för att få tillgång till maskinöversättningar som den tredje undertexten."
+  },
+  "synchronize": {
+    "message": "Synkronisera"
+  },
+  "settings": {
+    "message": "Inställningar"
+  },
+  "moreActions": {
+    "message": "Fler åtgärder"
+  },
+  "openSidebar": {
+    "message": "Öppna sidofältet"
+  },
+  "moreSettingsButton": {
+    "message": "Avancerade inställningar"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "Undertexter/CC"
+  }
+}

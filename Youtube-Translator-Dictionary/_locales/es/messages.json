@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Aprendizaje de idiomas con Netflix y YouTube"
+  },
+  "manifestAppDesc": {
+    "message": "Aprendizaje de idiomas con la extensión de Netflix (LLN) y Aprendizaje de idiomas con YouTube (LLY)"
+  },
+  "appName": {
+    "message": "¡Aprendiendo idiomas con LLNY!"
+  },
+  "appDesc": {
+    "message": "Aprender idiomas con la extensión de Netflix te hace la vida mucho más fácil y divertida"
+  },
+  "upper": {
+    "message": "Superior"
+  },
+  "lower": {
+    "message": "Baja"
+  },
+  "disableTestModeTitle": {
+    "message": "Desactivar el modo de prueba"
+  },
+  "disableTestModeDescription": {
+    "message": "Neflix a veces realiza pruebas que pueden hacer que el Aprendizaje de Idiomas con Netflix no funcione correctamente. Para evitar problemas, le recomendamos que desactive Netflix"
+  },
+  "disableTestModeButton": {
+    "message": "Desactivar pruebas"
+  },
+  "lowerSelectBox": {
+    "message": "Idioma de los subtítulos inferiores:"
+  },
+  "okayButton": {
+    "message": "Vale"
+  },
+  "closeButton": {
+    "message": "Cerrar"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY Descargar subtítulos"
+  },
+  "chooseOneFormat": {
+    "message": "Elige un formato:"
+  },
+  "onePerDayForFree": {
+    "message": "Uno por día gratis"
+  },
+  "loading": {
+    "message": "Cargando"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - Idioma nativo"
+  },
+  "hello": {
+    "message": "Hola"
+  },
+  "pleaseSelectYour": {
+    "message": "Por favor, seleccione su"
+  },
+  "upperSubtitles": {
+    "message": "Subtítulos superiores"
+  },
+  "targetLanguage": {
+    "message": "Idioma de destino"
+  },
+  "lowerSubtitles": {
+    "message": "Bajar subtítulos"
+  },
+  "motherLanguage": {
+    "message": "Lengua materna"
+  },
+  "translationLanguage": {
+    "message": "Idioma de la traducción"
+  },
+  "anyProblemInFunctionality": {
+    "message": "Cualquier problema en la funcionalidad de esta extensión puede resolverse con una simple actualización"
+  },
+  "signInForFree": {
+    "message": "Regístrate gratis"
+  },
+  "speedUpLanguageLearning": {
+    "message": "Acelerar el aprendizaje de idiomas"
+  },
+  "subtitles": {
+    "message": "Subtítulos"
+  },
+  "words": {
+    "message": "Palabras"
+  },
+  "help": {
+    "message": "Ayuda"
+  },
+  "saveWordMeaning": {
+    "message": "Puedes guardar el significado de cualquier palabra haciendo clic con el botón derecho sobre ella"
+  },
+  "always": {
+    "message": "Siempre"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "¿Sólo palabras de este vídeo?"
+  },
+  "exportAs": {
+    "message": "Descargar como"
+  },
+  "file": {
+    "message": "archivo"
+  },
+  "howToChangeSubtitles": {
+    "message": "Cómo cambiar el idioma de los subtítulos"
+  },
+  "howToTranslateWord": {
+    "message": "Cómo traducir la palabra"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "Pasa el ratón por encima de los subtítulos originales"
+  },
+  "howToSaveWords": {
+    "message": "Cómo guardar las palabras"
+  },
+  "clickAnyWordOnThe": {
+    "message": "Sólo tienes que hacer clic en cualquier palabra de los subtítulos originales, y luego hacer clic en el"
+  },
+  "sign": {
+    "message": "signo"
+  },
+  "howToSaveSentence": {
+    "message": "Cómo guardar las frases"
+  },
+  "clickOnThe": {
+    "message": "Haga clic en el"
+  },
+  "clickOnLanguageTab": {
+    "message": "Haga clic en el icono de configuración y, a continuación, en la pestaña de idioma para encontrar el selector adecuado"
+  },
+  "signAtTheEndOfSentence": {
+    "message": "firma al final de la frase que quieras"
+  },
+  "howToExportWords": {
+    "message": "Cómo Descargar palabras"
+  },
+  "clickOnSettingButton": {
+    "message": "Haz clic en el botón de configuración"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "en la parte inferior del reproductor, a continuación, haga clic en el botón de exportación de archivos para descargar el archivo de texto"
+  },
+  "howToPronounceWords": {
+    "message": "Cómo se pronuncian las palabras"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "Basta con hacer clic en cualquier palabra de los subtítulos originales"
+  },
+  "uploadSubtitle": {
+    "message": "Subir subtítulos"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "El idioma de los subtítulos subidos:"
+  },
+  "delaySubtitles": {
+    "message": "Retraso en los subtítulos"
+  },
+  "decrease": {
+    "message": "Disminución"
+  },
+  "increase": {
+    "message": "Aumento"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "Haga clic para seleccionar los subtítulos superiores"
+  },
+  "mainSubtitles": {
+    "message": "Subtítulos principales"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "Haga clic para seleccionar los subtítulos inferiores"
+  },
+  "translateSubtitles": {
+    "message": "Traducir subtítulos"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "Idioma de los subtítulos superiores:"
+  },
+  "settngsMenuHeader": {
+    "message": "Menú de configuración de LLNY"
+  },
+  "appearance": {
+    "message": "Aspecto"
+  },
+  "tools": {
+    "message": "Herramientas"
+  },
+  "shortcuts": {
+    "message": "Herramientas"
+  },
+  "rateUs": {
+    "message": "Califícanos"
+  },
+  "account": {
+    "message": "Cuenta"
+  },
+  "languages": {
+    "message": "Idiomas"
+  },
+  "showHide": {
+    "message": "Mostrar/Ocultar"
+  },
+  "fontSize": {
+    "message": "Tamaño de la fuente"
+  },
+  "color": {
+    "message": "Color"
+  },
+  "download": {
+    "message": "Descarga"
+  },
+  "thirdSubtitle": {
+    "message": "Terceros subtítulos"
+  },
+  "machineTranslate": {
+    "message": "Traducción automática"
+  },
+  "hoverDictionary": {
+    "message": "Diccionario del ratón"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "Color de fondo de los subtítulos"
+  },
+  "choose": {
+    "message": "Elegir"
+  },
+  "blur": {
+    "message": "Desenfoque"
+  },
+  "show": {
+    "message": "Mostrar"
+  },
+  "hide": {
+    "message": "Ocultar"
+  },
+  "bothLanguages": {
+    "message": "Ambos idiomas"
+  },
+  "sidebarSubtitles": {
+    "message": "Subtítulos de la barra lateral"
+  },
+  "phonetics": {
+    "message": "Fonética"
+  },
+  "no": {
+    "message": "No"
+  },
+  "and": {
+    "message": "y"
+  },
+  "original": {
+    "message": "No phonotics"
+  },
+  "romanji": {
+    "message": "Romanji"
+  },
+  "hirgana": {
+    "message": "Hirgana"
+  },
+  "wordPronunciation": {
+    "message": "Pronunciación de la palabra"
+  },
+  "speed": {
+    "message": "Velocidad"
+  },
+  "stop": {
+    "message": "Stop"
+  },
+  "automaticStopAfterSentence": {
+    "message": "Parada automática después de cada frase"
+  },
+  "theButton": {
+    "message": "el Botón"
+  },
+  "autoStopAfterTime": {
+    "message": "Parada y arranque automáticos después de la hora"
+  },
+  "autoStopWithSpace": {
+    "message": "Parada y arranque automático con espacio"
+  },
+  "videoPause": {
+    "message": "Pausa de vídeo"
+  },
+  "time": {
+    "message": "Tiempo"
+  },
+  "downloadWords": {
+    "message": "Descargar palabras"
+  },
+  "enableDisable": {
+    "message": "Habilitar/Disbale"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "Reducir la velocidad de reproducción"
+  },
+  "normalPlaybackSpeed": {
+    "message": "Velocidad normal de reproducción"
+  },
+  "speedUpPlayBack": {
+    "message": "Acelerar la reproducción"
+  },
+  "saveCurrentSubtitles": {
+    "message": "Guardar los subtítulos actuales"
+  },
+  "backward": {
+    "message": "Retroceso"
+  },
+  "forward": {
+    "message": "Reenviar"
+  },
+  "previousSentence": {
+    "message": "Frase anterior"
+  },
+  "repeatSentence": {
+    "message": "Repetir frase"
+  },
+  "nextSentence": {
+    "message": "Siguiente frase"
+  },
+  "unlimitedRepeat": {
+    "message": "Repetición ilimitada"
+  },
+  "playPause": {
+    "message": "Reproducir / Pausar"
+  },
+  "beGenerousUser": {
+    "message": "Puedes ser un usuario generoso escribiendo una reseña aquí. Gracias!"
+  },
+  "writeReview": {
+    "message": "Escribe una reseña"
+  },
+  "tweetAboutUs": {
+    "message": "Tweet sobre nosotros"
+  },
+  "reportBug": {
+    "message": "Reportar errores"
+  },
+  "askForNew": {
+    "message": "Pedir nuevo"
+  },
+  "signOut": {
+    "message": "Cierre de sesión"
+  },
+  "version": {
+    "message": "Versión"
+  },
+  "translations": {
+    "message": "Traducciones"
+  },
+  "saved": {
+    "message": "Guardado"
+  },
+  "export": {
+    "message": "Descargar"
+  },
+  "bothSubtitles": {
+    "message": "Ambos subtítulos"
+  },
+  "exportSaveWords": {
+    "message": "Descargar palabras guardadas"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "Puedes cambiar este idioma en la configuración del vídeo"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "Puedes cambiar este idioma en la configuración de la extensión"
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "Buscar vídeos con subtítulos"
+  },
+  "andTranslationOfItIs": {
+    "message": "And the translation of it"
+  },
+  "note": {
+    "message": "Nota"
+  },
+  "edit": {
+    "message": "EDITAR"
+  },
+  "toChangeShareContent": {
+    "message": "para cambiar el contenido de Share"
+  },
+  "discardChanges": {
+    "message": "Descartar cambios"
+  },
+  "primarySubtitle": {
+    "message": "Subtítulo principal"
+  },
+  "translation": {
+    "message": "Traducción"
+  },
+  "saveChanges": {
+    "message": "Guardar cambios"
+  },
+  "share": {
+    "message": "Compartir"
+  },
+  "loadingMainSubtitles": {
+    "message": "Cargando subtítulos principales"
+  },
+  "youtubeMenu": {
+    "message": "Menú de YouTube"
+  },
+  "off": {
+    "message": "Off"
+  },
+  "mouseDictionary": {
+    "message": "Diccionario del ratón"
+  },
+  "premmium": {
+    "message": "Premmium"
+  },
+  "highSpeedLearning": {
+    "message": "Aprendizaje de alta velocidad"
+  },
+  "pronunciation": {
+    "message": "Pronunciación"
+  },
+  "sidebarTranslations": {
+    "message": "Traducciones de la barra lateral"
+  },
+  "keyboardShortcuts": {
+    "message": "Atajos de teclado"
+  },
+  "toUseShortcuts": {
+    "message": "Para utilizarlo, primero hay que activar los accesos directos desde la configuración"
+  },
+  "upgradeYourAccount": {
+    "message": "¡Actualice su cuenta para utilizar la traducción automática!"
+  },
+  "startYourFreeTrial": {
+    "message": "Empieza tu prueba GRATUITA"
+  },
+  "toAccessMachineTranslations": {
+    "message": "para acceder a las traducciones automáticas de todas las películas"
+  },
+  "freeTrial": {
+    "message": "Prueba gratuita"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "¡Para activar/desactivar la fonética para los idiomas coreano, japonés, chino simplificado y chino tradicional ve a la configuración o haz clic en el botón de abajo!"
+  },
+  "openMenu": {
+    "message": "Abrir menú"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "¡Conéctate para descargar el archivo de subtítulos!."
+  },
+  "loginForFree": {
+    "message": "Entrar gratis"
+  },
+  "subscribe": {
+    "message": "Suscripción"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "Has alcanzado tu límite diario de descarga de subtítulos. Obtenga su prueba gratuita para descargar más subtítulos!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "¡Ooooops! Este video no tiene subtítulos!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "Por favor, inicie sesión para guardar las palabras en su cuenta"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "¡Comienza tu prueba GRATUITA para usar esta función!"
+  },
+  "getYourTrialToUpload": {
+    "message": "Obtenga su prueba GRATUITA para subir subtítulos"
+  },
+  "loginToLearnPronunciation": {
+    "message": "Entra para aprender la pronunciación exacta de cada palabra"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "Has alcanzado tus límites diarios de pronunciación. Obtenga su prueba GRATIS para escuchar un número ilimitado de palabras"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "Has llegado a tu límite diario para guardar palabras. Obtenga su prueba GRATIS para aprender un número ilimitado de palabras"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "Has alcanzado tus límites diarios de edición. Obtenga su prueba GRATIS para un número ilimitado de ediciones"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "¡Puedes ver significados más precisos en tu suscripción!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "Obtenga su prueba gratuita para mostrar/ocultar el subtítulo de destino"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "Obtenga su prueba gratuita para mostrar/ocultar el subtítulo secundario"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "Obtenga su prueba gratuita para mostrar/ocultar el subtítulo secundario"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "Ingresar para filtrar las palabras guardadas en base a"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "Consigue tu prueba GRATIS para filtrar las palabras guardadas en función de"
+  },
+  "haveProblem": {
+    "message": "Si tiene un problema, por favor, cierre la sesión y vuelva a iniciarla"
+  },
+  "date": {
+    "message": "fecha"
+  },
+  "video": {
+    "message": "video"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "¡Conéctate para mantener el color de los subtítulos!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "¡Conéctate para guardar la opacidad de los subtítulos!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "¡Conéctate para guardar el tamaño de la fuente de los subtítulos!"
+  },
+  "loginToExportSubtitles": {
+    "message": "¡Por favor, inicie sesión para Descargar subtítulos!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "Inicie sesión para descargar las palabras guardadas como"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "Obtenga su prueba gratuita para descargar palabras guardadas como"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "Obtenga su prueba GRATIS para guardar la sentencia basada en el vídeo"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "Obtenga su prueba gratuita para acceder a las traducciones automáticas como tercer subtítulo"
+  },
+  "synchronize": {
+    "message": "Sincronizar"
+  },
+  "settings": {
+    "message": "Configuración"
+  },
+  "moreActions": {
+    "message": "Más acciones"
+  },
+  "openSidebar": {
+    "message": "Abrir la barra lateral"
+  },
+  "moreSettingsButton": {
+    "message": "Configuración avanzada"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "Subtítulos/CC"
+  }
+}

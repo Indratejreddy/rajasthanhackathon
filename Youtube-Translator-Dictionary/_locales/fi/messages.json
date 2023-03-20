@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Kielten oppiminen Netflixin ja YouTuben™ avulla"
+  },
+  "manifestAppDesc": {
+    "message": "Kielten oppiminen Netflix-laajennuksen avulla (LLN) & Kielten oppiminen YouTuben avulla (LLY)"
+  },
+  "appName": {
+    "message": "Kielen oppiminen LLNY:n kanssa!"
+  },
+  "appDesc": {
+    "message": "Kielten oppiminen Netflix-laajennuksen avulla tekee elämästäsi paljon helpompaa ja hauskempaa"
+  },
+  "upper": {
+    "message": "Ylempi"
+  },
+  "lower": {
+    "message": "Alempi"
+  },
+  "disableTestModeTitle": {
+    "message": "Poista testitila käytöstä"
+  },
+  "disableTestModeDescription": {
+    "message": "Netflix suorittaa joskus testejä, jotka voivat aiheuttaa sen, että Language Learning with Netflix ei toimi oikein. Ongelmien välttämiseksi\nsuosittelemme, että kytket Netflixin testeihin osallistumisen pois päältä. Se on helppoa:"
+  },
+  "disableTestModeButton": {
+    "message": "Poista testaus käytöstä"
+  },
+  "lowerSelectBox": {
+    "message": "Alempi tekstitys Kieli:"
+  },
+  "okayButton": {
+    "message": "Okei"
+  },
+  "closeButton": {
+    "message": "Sulje"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY Lataa tekstitykset"
+  },
+  "chooseOneFormat": {
+    "message": "Valitse yksi Formaatti:"
+  },
+  "onePerDayForFree": {
+    "message": "Yksi päivässä ilmaiseksi"
+  },
+  "loading": {
+    "message": "Ladataan"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - äidinkieli"
+  },
+  "hello": {
+    "message": "Hei"
+  },
+  "pleaseSelectYour": {
+    "message": "Valitse omasi"
+  },
+  "upperSubtitles": {
+    "message": "Ylemmät tekstitykset"
+  },
+  "targetLanguage": {
+    "message": "Kohdekieli"
+  },
+  "lowerSubtitles": {
+    "message": "Alemmat tekstitykset"
+  },
+  "motherLanguage": {
+    "message": "Äidinkieli"
+  },
+  "translationLanguage": {
+    "message": "Käännöskieli"
+  },
+  "anyProblemInFunctionality": {
+    "message": "Kaikki tämän laajennuksen toiminnallisuuteen liittyvät ongelmat voidaan ratkaista yksinkertaisella päivityksellä"
+  },
+  "signInForFree": {
+    "message": "Kirjaudu sisään ilmaiseksi"
+  },
+  "speedUpLanguageLearning": {
+    "message": "Nopeuta kielen oppimista"
+  },
+  "subtitles": {
+    "message": "Tekstitys"
+  },
+  "words": {
+    "message": "Sanat"
+  },
+  "help": {
+    "message": "Apua"
+  },
+  "saveWordMeaning": {
+    "message": "Voit tallentaa minkä tahansa sanan merkityksen klikkaamalla sitä hiiren kakkospainikkeella."
+  },
+  "always": {
+    "message": "Aina"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "Vain tämän videon sanat?"
+  },
+  "exportAs": {
+    "message": "Lataa nimellä"
+  },
+  "file": {
+    "message": "tiedosto"
+  },
+  "howToChangeSubtitles": {
+    "message": "Kuinka vaihtaa tekstityksen kieltä"
+  },
+  "howToTranslateWord": {
+    "message": "Kuinka kääntää sana"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "Vie hiiri alkuperäisen tekstityksen päälle"
+  },
+  "howToSaveWords": {
+    "message": "Kuinka pelastaa sanoja"
+  },
+  "clickAnyWordOnThe": {
+    "message": "Napsauta mitä tahansa alkuperäisen tekstityksen sanaa, napsauta sitten"
+  },
+  "sign": {
+    "message": "merkki"
+  },
+  "howToSaveSentence": {
+    "message": "Miten lauseet tallennetaan"
+  },
+  "clickOnThe": {
+    "message": "Klikkaa"
+  },
+  "clickOnLanguageTab": {
+    "message": "Napsauta asetuskuvaketta ja napsauta sitten kieli-välilehteä löytääksesi sopivan valitsimen"
+  },
+  "signAtTheEndOfSentence": {
+    "message": "merkki minkä tahansa haluamasi lauseen loppuun"
+  },
+  "howToExportWords": {
+    "message": "Kuinka ladata sanoja"
+  },
+  "clickOnSettingButton": {
+    "message": "Napsauta asetuspainiketta"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "soittimen alareunassa ja lataa tekstitiedosto napsauttamalla Lataa tiedosto -painiketta."
+  },
+  "howToPronounceWords": {
+    "message": "Miten sanat lausutaan"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "Klikkaa mitä tahansa alkuperäisen tekstityksen sanaa"
+  },
+  "uploadSubtitle": {
+    "message": "Lataa tekstitykset"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "Ladattujen tekstitysten kieli:"
+  },
+  "delaySubtitles": {
+    "message": "Viivytä tekstityksiä"
+  },
+  "decrease": {
+    "message": "Vähennä"
+  },
+  "increase": {
+    "message": "Lisää"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "Valitse UPPER-tekstitys napsauttamalla"
+  },
+  "mainSubtitles": {
+    "message": "Tärkeimmät tekstitykset"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "Napsauta Valitse Alemmat tekstitykset"
+  },
+  "translateSubtitles": {
+    "message": "Käännä tekstitykset"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "Ylempi tekstitys Kieli:"
+  },
+  "settngsMenuHeader": {
+    "message": "LLNY-asetukset-valikko"
+  },
+  "appearance": {
+    "message": "Ulkonäkö"
+  },
+  "tools": {
+    "message": "Työkalut"
+  },
+  "shortcuts": {
+    "message": "Pikanäppäimet"
+  },
+  "rateUs": {
+    "message": "Arvostele meitä"
+  },
+  "account": {
+    "message": "Tili"
+  },
+  "languages": {
+    "message": "Kielet"
+  },
+  "showHide": {
+    "message": "Näytä/piilota"
+  },
+  "fontSize": {
+    "message": "Kirjasinkoko"
+  },
+  "color": {
+    "message": "Väri"
+  },
+  "download": {
+    "message": "Lataa"
+  },
+  "thirdSubtitle": {
+    "message": "Kolmannet tekstitykset"
+  },
+  "machineTranslate": {
+    "message": "Käännä koneella"
+  },
+  "hoverDictionary": {
+    "message": "Hiiren sanakirja"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "Tekstityksen taustaväri"
+  },
+  "choose": {
+    "message": "Valitse"
+  },
+  "blur": {
+    "message": "Sumeus"
+  },
+  "show": {
+    "message": "Näytä"
+  },
+  "hide": {
+    "message": "Piilota"
+  },
+  "bothLanguages": {
+    "message": "Molemmat kielet"
+  },
+  "sidebarSubtitles": {
+    "message": "Sivupalkin tekstitykset"
+  },
+  "phonetics": {
+    "message": "Fonetiikka"
+  },
+  "no": {
+    "message": "Ei"
+  },
+  "and": {
+    "message": "ja"
+  },
+  "original": {
+    "message": "Alkuperäinen"
+  },
+  "romanji": {
+    "message": "Romanji"
+  },
+  "hirgana": {
+    "message": "Hirgana"
+  },
+  "wordPronunciation": {
+    "message": "Sanan ääntäminen"
+  },
+  "speed": {
+    "message": "Nopeus"
+  },
+  "stop": {
+    "message": "Lopettaa"
+  },
+  "automaticStopAfterSentence": {
+    "message": "Automaattinen pysäytys jokaisen lauseen jälkeen"
+  },
+  "theButton": {
+    "message": "painike"
+  },
+  "autoStopAfterTime": {
+    "message": "Automaattinen pysäytys ja käynnistys ajan kuluttua"
+  },
+  "autoStopWithSpace": {
+    "message": "Automaattinen pysäytys ja käynnistys tilan avulla"
+  },
+  "videoPause": {
+    "message": "Videotauko"
+  },
+  "time": {
+    "message": "Aika"
+  },
+  "downloadWords": {
+    "message": "Lataa sanat"
+  },
+  "enableDisable": {
+    "message": "Ota käyttöön/poista käytöstä"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "Hidasta toistonopeutta"
+  },
+  "normalPlaybackSpeed": {
+    "message": "Normaali toistonopeus"
+  },
+  "speedUpPlayBack": {
+    "message": "Nopeuta toistoa"
+  },
+  "saveCurrentSubtitles": {
+    "message": "Tallenna nykyiset tekstitykset"
+  },
+  "backward": {
+    "message": "Takaisin"
+  },
+  "forward": {
+    "message": "Eteenpäin"
+  },
+  "previousSentence": {
+    "message": "Edellinen lause"
+  },
+  "repeatSentence": {
+    "message": "Toista lause"
+  },
+  "nextSentence": {
+    "message": "Seuraava lause"
+  },
+  "unlimitedRepeat": {
+    "message": "Rajoittamaton toisto"
+  },
+  "playPause": {
+    "message": "Toista/tauko"
+  },
+  "beGenerousUser": {
+    "message": "Voit olla antelias käyttäjä kirjoittamalla arvostelun täällä. Kiitos!"
+  },
+  "writeReview": {
+    "message": "Kirjoita arvostelu"
+  },
+  "tweetAboutUs": {
+    "message": "Twiittaa meistä"
+  },
+  "reportBug": {
+    "message": "Ilmoita virheistä"
+  },
+  "askForNew": {
+    "message": "Kysy uutta"
+  },
+  "signOut": {
+    "message": "Kirjaudu ulos"
+  },
+  "version": {
+    "message": "Versio"
+  },
+  "translations": {
+    "message": "Käännökset"
+  },
+  "saved": {
+    "message": "Tallennettu"
+  },
+  "export": {
+    "message": "Lataa"
+  },
+  "bothSubtitles": {
+    "message": "Molemmat tekstitykset"
+  },
+  "exportSaveWords": {
+    "message": "Lataa tallennetut sanat"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "Voit vaihtaa tämän kielen videon asetuksissa"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "Voit vaihtaa tämän kielen laajennuksen asetuksista."
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "Etsi videoita, joissa on tekstitys"
+  },
+  "andTranslationOfItIs": {
+    "message": "Ja sen käännös"
+  },
+  "note": {
+    "message": "Huomautus"
+  },
+  "edit": {
+    "message": "MUOKATA"
+  },
+  "toChangeShareContent": {
+    "message": "muuttaa Jaa sisältöä"
+  },
+  "discardChanges": {
+    "message": "Hävitä muutokset"
+  },
+  "primarySubtitle": {
+    "message": "Ensisijainen alaotsikko"
+  },
+  "translation": {
+    "message": "Käännös"
+  },
+  "saveChanges": {
+    "message": "Tallenna muutokset"
+  },
+  "share": {
+    "message": "Jaa"
+  },
+  "loadingMainSubtitles": {
+    "message": "Päätekstityksen lataaminen"
+  },
+  "youtubeMenu": {
+    "message": "YouTube-valikko"
+  },
+  "off": {
+    "message": "Vinossa"
+  },
+  "mouseDictionary": {
+    "message": "hiiren sanakirja"
+  },
+  "premmium": {
+    "message": "Premium"
+  },
+  "highSpeedLearning": {
+    "message": "Nopea oppiminen"
+  },
+  "pronunciation": {
+    "message": "Ääntäminen"
+  },
+  "sidebarTranslations": {
+    "message": "Sivupalkin käännökset"
+  },
+  "keyboardShortcuts": {
+    "message": "Näppäimistön pikanäppäimet"
+  },
+  "toUseShortcuts": {
+    "message": "Aktivoi pikanäppäimet ensin asetuksista."
+  },
+  "upgradeYourAccount": {
+    "message": "Päivitä tilisi käyttämään konekäännöstä!"
+  },
+  "startYourFreeTrial": {
+    "message": "Aloita ILMAINEN kokeilu"
+  },
+  "toAccessMachineTranslations": {
+    "message": "käyttää konekäännöksiä kaikille elokuville"
+  },
+  "freeTrial": {
+    "message": "ILMAINEN kokeilu"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "Voit ottaa käyttöön tai poistaa käytöstä foneettiset korean, japanin, yksinkertaistetun kiinan ja perinteisen kiinan kielet menemällä asetuksiin tai napsauttamalla alla olevaa painiketta!"
+  },
+  "openMenu": {
+    "message": "Avaa valikko"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "Kirjaudu sisään ladataksesi tekstitystiedoston!"
+  },
+  "loginForFree": {
+    "message": "Kirjaudu sisään ilmaiseksi"
+  },
+  "subscribe": {
+    "message": "Tilaa"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "Olet saavuttanut päivittäiset rajoituksesi tekstitysten lataamiseen. Hanki ILMAINEN kokeilujakso, jotta voit ladata lisää tekstityksiä!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "Hups! Tässä videossa ei ole tekstitystä!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "Kirjaudu sisään tallentaaksesi sanat tilillesi"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "Aloita ILMAINEN kokeilu tämän ominaisuuden käyttämiseksi!"
+  },
+  "getYourTrialToUpload": {
+    "message": "Hanki ilmainen kokeiluversio Lataa tekstitys"
+  },
+  "loginToLearnPronunciation": {
+    "message": "Kirjaudu sisään oppiaksesi jokaisen sanan tarkan ääntämisen"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "Olet saavuttanut päivittäiset ääntämisrajasi. Hanki ILMAINEN kokeiluversio kuulla rajoittamaton määrä sanoja."
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "Olet saavuttanut päivittäiset sanojen säästörajat. Hanki ILMAINEN kokeiluversio, jotta voit oppia rajattoman määrän sanoja."
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "Olet saavuttanut päivittäiset muokkausrajoituksesi. Hanki ILMAINEN kokeiluversio rajoittamattomaan määrään muokkauksia"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "Voit nähdä tarkempia merkityksiä tilauksessasi!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "Hanki ILMAINEN kokeiluversio näyttää/piilottaa kohteen Tekstitys"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "Hanki ILMAINEN kokeiluversio näyttää/piilottaa Secondary Subtitle"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "Hanki ILMAINEN kokeiluversio näyttää/piilottaa Secondary Subtitle"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "Kirjaudu sisään suodattaaksesi tallennettuja sanoja perustuen"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "Hanki ILMAINEN kokeiluversio suodattaa tallennetut sanat perustuen"
+  },
+  "haveProblem": {
+    "message": "Jos sinulla on ongelma, kirjaudu ulos ja kirjaudu uudelleen"
+  },
+  "date": {
+    "message": "päivämäärä"
+  },
+  "video": {
+    "message": "video"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "Kirjaudu sisään pitääksesi tekstityksen värin!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "Kirjaudu sisään tallentaaksesi tekstityksen läpinäkymättömyyden!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "Kirjaudu sisään tallentaaksesi tekstityksen fonttikoon!"
+  },
+  "loginToExportSubtitles": {
+    "message": "Kirjaudu sisään ladataksesi tekstityksen!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "Kirjaudu sisään ladataksesi tallennetut sanat nimellä"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "Hanki ilmainen kokeiluversio ladataksesi tallennetut sanat nimellä"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "Hanki ilmainen kokeiluversio tallennettuun lauseeseen, joka perustuu videoon"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "Hanki ILMAINEN kokeiluversio käyttää konekäännöksiä kolmantena tekstityksenä."
+  },
+  "synchronize": {
+    "message": "Synkronoi"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "moreActions": {
+    "message": "Lisää toimintoja"
+  },
+  "openSidebar": {
+    "message": "Avaa sivupalkki"
+  },
+  "moreSettingsButton": {
+    "message": "Lisäasetukset"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "Tekstitys/CC"
+  }
+}

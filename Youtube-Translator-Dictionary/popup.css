@@ -1,0 +1,251 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: space-around;
+  width: 300px;
+  background: #d7e5df;
+  padding: 1em 0 1em 0;
+}
+
+.popup {
+  width: 100%;
+}
+
+.item {
+  background: linear-gradient(111.14deg, #21736a 8.84%, #70ab9f 80.34%);
+  box-shadow: inset 15px 10px 1px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  width: 90%;
+  height: 170px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  position: relative;
+  margin: 5% auto;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.akash {
+  position: absolute;
+  top: -10%;
+  left: 20%;
+  z-index: 1;
+}
+
+.indratej {
+  position: absolute;
+  top: -5%;
+  right: 0%;
+}
+
+.shashank {
+  position: absolute;
+  top: -5%;
+  left: 5%;
+}
+
+.jagadish {
+  position: absolute;
+  top: 30%;
+  left: 15%;
+}
+
+.rakshit {
+  position: absolute;
+  top: 30%;
+  right: 8%;
+}
+
+.devs img {
+  scale: 0.5;
+}
+
+.uy-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 80%;
+}
+
+button {
+    width: 85%;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid black;
+    margin: 0.25em 0 0.25em 5%;
+    padding: 0.5em;
+    cursor: pointer;
+}
+
+.bl-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* 
+.popup {
+  display: none;
+}
+.toggle-div {
+  align-items: center;
+  display: flex;
+  height: 4em;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+.toggle {
+  cursor: pointer;
+  filter: opacity(0);
+  left: 155px;
+  margin: 0;
+  position: relative;
+  top: 11px;
+  width: 6em;
+  z-index: 2;
+}
+.toggle,
+.toggle ~ .switch {
+  font-size: var(--font-size);
+  height: 5em;
+}
+.toggle ~ .switch {
+  align-items: center;
+  border-radius: 2.5em;
+  display: flex;
+  justify-content: center;
+  left: 230px;
+  position: absolute;
+  right: -23px;
+  top: 26px;
+  width: 10em;
+}
+.toggle ~ .switch .inner {
+  background: linear-gradient(dimgray, silver);
+  border-radius: 2em;
+  box-shadow: inset 0 0 1.5em #4DAA90;
+  display: flex;
+  height: 23px;
+  justify-content: center;
+  width: 68px;
+}
+.toggle ~ .switch .inner .disc {
+  align-items: center;
+  background: #4DAA90;
+  border-radius: 50%;
+  box-shadow: 0 0.4em 0.6em #4DAA90;
+  display: flex;
+  height: 31px;
+  justify-content: center;
+  left: -30%;
+  position: relative;
+  top: -5px;
+  transition: 0.5s;
+  width: 30px;
+}
+.toggle ~ .switch .inner .disc:before {
+  background: linear-gradient(silver, #f5f5f5);
+  border-radius: 50%;
+  color: #21736A;
+  content: "OFF";
+  font-family: sans-serif;
+  height: 80%;
+  line-height: 2.8em;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  width: 80%;
+}
+.toggle:checked ~ .switch .inner {
+  background: linear-gradient(green, #32cd32);
+}
+.toggle:checked ~ .switch .inner .disc {
+  left: 30%;
+}
+.toggle:checked ~ .switch .inner .disc:before {
+  color: #32cd32;
+  content: "ON";
+}
+button {
+  background-color: inherit;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  outline: none;
+}
+#netflix-popup,
+#youtube-popup {
+  background-color: #21736A;
+  color: #fff;
+  width: 300px;
+}
+.header {
+  align-items: center;
+  background-color: #3a3636;
+  box-shadow: 0 1px 55px hsla(0, 0%, 100%, 0.25),
+    0 -12px 30px hsla(0, 0%, 100%, 0.12), 0 -2px 6px hsla(0, 0%, 100%, 0.12),
+    0 0 13px hsla(0, 0%, 100%, 0.17), 0 -4px 5px hsla(0, 0%, 100%, 0.09);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 16px 20px;
+  width: 100%;
+}
+.popup-header-text {
+  font-size: 1rem;
+}
+.main {
+  flex-direction: column;
+  padding: 20px;
+  position: relative;
+}
+.main,
+.uy-container {
+  display: flex;
+  width: 100%;
+}
+.uy-container {
+  background-color: #21736A;
+  border-radius: 5px;
+  cursor: pointer;
+  flex-direction: row;
+  height: 50px;
+  margin-bottom: 5px;
+}
+
+#lower,
+#upper {
+  flex-direction: row;
+  font-weight: 500;
+}
+#lower,
+#upper,
+.bl-container {
+  align-items: center;
+  display: flex;
+  font-size: 16px;
+  justify-content: center;
+}
+.bl-container {
+  padding: 10px 20px;
+  text-align: center;
+  vertical-align: middle;
+  width: 50%;
+}
+.arrow-div {
+  align-items: center;
+  display: flex;
+  font-size: 24px;
+  justify-content: center;
+  padding: 10px;
+} */

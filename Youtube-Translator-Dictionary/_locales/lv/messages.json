@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Valodu apguve ar Netflix un YouTube™"
+  },
+  "manifestAppDesc": {
+    "message": "Valodu apguve ar Netflix paplašinājumu (LLN) un valodu apguve ar YouTube (LLY)"
+  },
+  "appName": {
+    "message": "Valodu apguve ar LLNY!"
+  },
+  "appDesc": {
+    "message": "Valodu apguve ar Netflix paplašinājumu padara jūsu dzīvi daudz vieglāku un jautrāku"
+  },
+  "upper": {
+    "message": "Augšējais"
+  },
+  "lower": {
+    "message": "Apakšējā"
+  },
+  "disableTestModeTitle": {
+    "message": "Izslēgt testa režīmu"
+  },
+  "disableTestModeDescription": {
+    "message": "Netflix dažreiz veic testus, kuru dēļ valodas apguve ar Netflix var nedarboties pareizi. Lai izvairītos no problēmām, mēs\niesakām izslēgt Netflix dalību testos. Tas ir vienkārši:"
+  },
+  "disableTestModeButton": {
+    "message": "Izslēgt testēšanu"
+  },
+  "lowerSelectBox": {
+    "message": "Apakšējā subtitru valoda:"
+  },
+  "okayButton": {
+    "message": "Labi"
+  },
+  "closeButton": {
+    "message": "Aizvērt"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY Lejupielādēt subtitrus"
+  },
+  "chooseOneFormat": {
+    "message": "Izvēlieties vienu Formāts:"
+  },
+  "onePerDayForFree": {
+    "message": "Viens dienā bez maksas"
+  },
+  "loading": {
+    "message": "Iekraušana"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - Dzimtā valoda"
+  },
+  "hello": {
+    "message": "Sveiki"
+  },
+  "pleaseSelectYour": {
+    "message": "Lūdzu, izvēlieties savu"
+  },
+  "upperSubtitles": {
+    "message": "Augšējie subtitri"
+  },
+  "targetLanguage": {
+    "message": "Mērķa valoda"
+  },
+  "lowerSubtitles": {
+    "message": "Zemākie subtitri"
+  },
+  "motherLanguage": {
+    "message": "Dzimtā valoda"
+  },
+  "translationLanguage": {
+    "message": "Tulkošanas valoda"
+  },
+  "anyProblemInFunctionality": {
+    "message": "Jebkuru šī paplašinājuma funkcionalitātes problēmu var atrisināt ar vienkāršu atsvaidzināšanu."
+  },
+  "signInForFree": {
+    "message": "Pierakstīties bez maksas"
+  },
+  "speedUpLanguageLearning": {
+    "message": "Paātrināt valodas apguvi"
+  },
+  "subtitles": {
+    "message": "Subtitri"
+  },
+  "words": {
+    "message": "Vārdi"
+  },
+  "help": {
+    "message": "Palīdzība"
+  },
+  "saveWordMeaning": {
+    "message": "Jebkura vārda nozīmi varat saglabāt, uzklikšķinot uz tā ar peles labo pogu."
+  },
+  "always": {
+    "message": "Vienmēr"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "Tikai šī videoklipa vārdi?"
+  },
+  "exportAs": {
+    "message": "Lejupielādēt kā"
+  },
+  "file": {
+    "message": "fails"
+  },
+  "howToChangeSubtitles": {
+    "message": "Kā mainīt subtitru valodu"
+  },
+  "howToTranslateWord": {
+    "message": "Kā tulkot vārdu"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "Novietojiet peli uz oriģinālajiem subtitriem"
+  },
+  "howToSaveWords": {
+    "message": "Kā saglabāt vārdus"
+  },
+  "clickAnyWordOnThe": {
+    "message": "Vienkārši noklikšķiniet uz jebkura vārda oriģinālajos subtitros, pēc tam noklikšķiniet uz"
+  },
+  "sign": {
+    "message": "zīme"
+  },
+  "howToSaveSentence": {
+    "message": "Kā saglabāt teikumus"
+  },
+  "clickOnThe": {
+    "message": "Noklikšķiniet uz"
+  },
+  "clickOnLanguageTab": {
+    "message": "Noklikšķiniet uz iestatījumu ikonas, pēc tam noklikšķiniet uz valodas cilnes, lai atrastu atbilstošo selektoru."
+  },
+  "signAtTheEndOfSentence": {
+    "message": "zīmi jebkura vēlamā teikuma beigās"
+  },
+  "howToExportWords": {
+    "message": "Kā lejupielādēt vārdus"
+  },
+  "clickOnSettingButton": {
+    "message": "Noklikšķiniet uz iestatījumu pogas"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "atskaņotāja apakšā, pēc tam noklikšķiniet uz pogas Lejupielādēt failu, lai lejupielādētu teksta failu."
+  },
+  "howToPronounceWords": {
+    "message": "Kā izrunāt vārdus"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "Vienkārši noklikšķiniet uz jebkura vārda oriģinālajos subtitros."
+  },
+  "uploadSubtitle": {
+    "message": "Subtitru augšupielāde"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "Augšupielādēto subtitru valoda:"
+  },
+  "delaySubtitles": {
+    "message": "Subtitru aizkavēšana"
+  },
+  "decrease": {
+    "message": "Samazināt"
+  },
+  "increase": {
+    "message": "Palielināt"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "Noklikšķiniet, lai atlasītu UPPER subtitrus"
+  },
+  "mainSubtitles": {
+    "message": "Galvenie subtitri"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "Nospiediet, lai atlasītu zemākos subtitrus"
+  },
+  "translateSubtitles": {
+    "message": "Tulkot subtitrus"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "Augšējā subtitru valoda:"
+  },
+  "settngsMenuHeader": {
+    "message": "LLNY iestatījumu izvēlne"
+  },
+  "appearance": {
+    "message": "Izskats"
+  },
+  "tools": {
+    "message": "Instrumenti"
+  },
+  "shortcuts": {
+    "message": "Īsceļi"
+  },
+  "rateUs": {
+    "message": "Novērtējiet mūs"
+  },
+  "account": {
+    "message": "Konts"
+  },
+  "languages": {
+    "message": "Valodas"
+  },
+  "showHide": {
+    "message": "Parādīt/noslēpt"
+  },
+  "fontSize": {
+    "message": "Fonta lielums"
+  },
+  "color": {
+    "message": "Krāsa"
+  },
+  "download": {
+    "message": "Lejupielādēt"
+  },
+  "thirdSubtitle": {
+    "message": "Trešie subtitri"
+  },
+  "machineTranslate": {
+    "message": "Mašīnas tulkotājs"
+  },
+  "hoverDictionary": {
+    "message": "Peļu vārdnīca"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "Subtitru fona krāsa"
+  },
+  "choose": {
+    "message": "Izvēlieties"
+  },
+  "blur": {
+    "message": "Izplūšana"
+  },
+  "show": {
+    "message": "Rādīt"
+  },
+  "hide": {
+    "message": "Paslēpt"
+  },
+  "bothLanguages": {
+    "message": "Abas valodas"
+  },
+  "sidebarSubtitles": {
+    "message": "Subtitri sānu joslā"
+  },
+  "phonetics": {
+    "message": "Fonetika"
+  },
+  "no": {
+    "message": "Nē"
+  },
+  "and": {
+    "message": "un"
+  },
+  "original": {
+    "message": "Oriģinālais"
+  },
+  "romanji": {
+    "message": "Romanji"
+  },
+  "hirgana": {
+    "message": "Hirgana"
+  },
+  "wordPronunciation": {
+    "message": "Vārdu izruna"
+  },
+  "speed": {
+    "message": "Ātrums"
+  },
+  "stop": {
+    "message": "Pārtraukt"
+  },
+  "automaticStopAfterSentence": {
+    "message": "Automātiska apstāšanās pēc katra teikuma"
+  },
+  "theButton": {
+    "message": "Poga"
+  },
+  "autoStopAfterTime": {
+    "message": "Automātiska apstāšanās un palaišana pēc laika"
+  },
+  "autoStopWithSpace": {
+    "message": "Automātiska apstāšanās un palaišana ar atstarpi"
+  },
+  "videoPause": {
+    "message": "Video pauze"
+  },
+  "time": {
+    "message": "Laiks"
+  },
+  "downloadWords": {
+    "message": "Lejupielādēt vārdus"
+  },
+  "enableDisable": {
+    "message": "Ieslēgt/izslēgt"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "Palēnināt atskaņošanas ātrumu"
+  },
+  "normalPlaybackSpeed": {
+    "message": "Parasts atskaņošanas ātrums"
+  },
+  "speedUpPlayBack": {
+    "message": "Atskaņošanas paātrināšana"
+  },
+  "saveCurrentSubtitles": {
+    "message": "Saglabāt pašreizējos subtitrus"
+  },
+  "backward": {
+    "message": "Atpakaļ"
+  },
+  "forward": {
+    "message": "Uz priekšu"
+  },
+  "previousSentence": {
+    "message": "Iepriekšējais teikums"
+  },
+  "repeatSentence": {
+    "message": "Atkārto teikumu"
+  },
+  "nextSentence": {
+    "message": "Nākamais teikums"
+  },
+  "unlimitedRepeat": {
+    "message": "Neierobežots atkārtojums"
+  },
+  "playPause": {
+    "message": "Atskaņošana / pauze"
+  },
+  "beGenerousUser": {
+    "message": "Jūs varat būt dāsns lietotājs, rakstot atsauksmi šeit. Paldies!"
+  },
+  "writeReview": {
+    "message": "Uzrakstīt atsauksmi"
+  },
+  "tweetAboutUs": {
+    "message": "Tweet par mums"
+  },
+  "reportBug": {
+    "message": "Ziņot par kļūdām"
+  },
+  "askForNew": {
+    "message": "Pieprasīt jaunu"
+  },
+  "signOut": {
+    "message": "Izrakstīties"
+  },
+  "version": {
+    "message": "Versija"
+  },
+  "translations": {
+    "message": "Tulkojumi"
+  },
+  "saved": {
+    "message": "Saglabāts"
+  },
+  "export": {
+    "message": "Lejupielādēt"
+  },
+  "bothSubtitles": {
+    "message": "Abi subtitri"
+  },
+  "exportSaveWords": {
+    "message": "Lejupielādēt saglabātos vārdus"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "Šo valodu var mainīt videoklipa iestatījumos."
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "Šo valodu var mainīt paplašinājuma iestatījumos."
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "Search for videos with subtitles"
+  },
+  "andTranslationOfItIs": {
+    "message": "Un tā tulkojums"
+  },
+  "note": {
+    "message": "Piezīme"
+  },
+  "edit": {
+    "message": "REDIĢĒT"
+  },
+  "toChangeShareContent": {
+    "message": "lai mainītu Akciju saturs"
+  },
+  "discardChanges": {
+    "message": "Izmest izmaiņas"
+  },
+  "primarySubtitle": {
+    "message": "Primārais apakšvirsraksts"
+  },
+  "translation": {
+    "message": "Tulkojums"
+  },
+  "saveChanges": {
+    "message": "Saglabāt izmaiņas"
+  },
+  "share": {
+    "message": "Dalīties"
+  },
+  "loadingMainSubtitles": {
+    "message": "Galveno subtitru ielādēšana"
+  },
+  "youtubeMenu": {
+    "message": "YouTube izvēlne"
+  },
+  "off": {
+    "message": "Izslēgts"
+  },
+  "mouseDictionary": {
+    "message": "Peļu vārdnīca"
+  },
+  "premmium": {
+    "message": "Premium"
+  },
+  "highSpeedLearning": {
+    "message": "Ātrgaitas mācīšanās"
+  },
+  "pronunciation": {
+    "message": "Izruna"
+  },
+  "sidebarTranslations": {
+    "message": "Sānu joslas tulkojumi"
+  },
+  "keyboardShortcuts": {
+    "message": "Tastatūras saīsnes"
+  },
+  "toUseShortcuts": {
+    "message": "Lai to izmantotu, vispirms iestatījumos aktivizējiet īsceļus"
+  },
+  "upgradeYourAccount": {
+    "message": "Atjauniniet savu kontu, lai izmantotu mašīntulkošanu!"
+  },
+  "startYourFreeTrial": {
+    "message": "Sāciet savu BEZMAKSAS izmēģinājuma versiju"
+  },
+  "toAccessMachineTranslations": {
+    "message": "lai piekļūtu visu filmu mašīntulkojumiem"
+  },
+  "freeTrial": {
+    "message": "BEZMAKSAS izmēģinājums"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "Lai ieslēgtu/izslēgtu korejiešu, japāņu, vienkāršotās ķīniešu un tradicionālās ķīniešu valodas fonetiku, dodieties uz iestatījumiem vai noklikšķiniet uz pogas zemāk!"
+  },
+  "openMenu": {
+    "message": "Atvērt izvēlni"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "Piesakieties, lai lejupielādētu subtitru failu!"
+  },
+  "loginForFree": {
+    "message": "Piesakieties bez maksas"
+  },
+  "subscribe": {
+    "message": "Abonēt"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "Jūs esat sasniedzis savu dienas limitu subtitru lejupielādei. Iegūstiet BEZMAKSAS izmēģinājuma versiju, lai lejupielādētu vairāk subtitru!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "Ak! Šim video nav subtitru!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "Lūdzu, piesakieties, lai saglabātu vārdus savā kontā"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "Sāciet BEZMAKSAS izmēģinājuma versiju, lai izmantotu šo funkciju!"
+  },
+  "getYourTrialToUpload": {
+    "message": "Iegūstiet bezmaksas izmēģinājuma versiju, lai augšupielādētu subtitrus"
+  },
+  "loginToLearnPronunciation": {
+    "message": "Piesakieties, lai uzzinātu precīzu katra vārda izrunu"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "Jūs esat sasniedzis savu dienas izrunas limitu. Iegūstiet BEZMAKSAS izmēģinājuma versiju, lai dzirdētu neierobežotu vārdu skaitu"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "Jūs esat sasniedzis savu dienas vārdu taupīšanas limitu. Iegūstiet BEZMAKSAS izmēģinājuma versiju, lai mācītos neierobežotu vārdu skaitu"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "Jūs esat sasniedzis rediģēšanas dienas limitu. Iegūstiet BEZMAKSAS izmēģinājuma versiju ar neierobežotu skaitu rediģējumu"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "Jūs varat redzēt precīzākas nozīmes savā abonementā!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "Iegūstiet BEZMAKSAS izmēģinājuma versiju, lai parādītu/noslēptu mērķa apakšvirsrakstu"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "Iegūstiet BEZMAKSAS izmēģinājuma versiju, lai parādītu/noslēptu sekundāro apakšvirsrakstu"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "Iegūstiet BEZMAKSAS izmēģinājuma versiju, lai parādītu/noslēptu sekundāro apakšvirsrakstu"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "Piesakieties, lai filtrētu saglabātos vārdus, pamatojoties uz"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "Iegūstiet BEZMAKSAS izmēģinājuma versiju, lai filtrētu saglabātos vārdus, pamatojoties uz"
+  },
+  "haveProblem": {
+    "message": "Ja jums ir problēma, lūdzu, izrakstieties un pierakstieties vēlreiz."
+  },
+  "date": {
+    "message": "datums"
+  },
+  "video": {
+    "message": "video"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "Piesakieties, lai saglabātu subtitru krāsu!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "Piesakieties, lai saglabātu subtitru necaurspīdīgumu!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "Piesakieties, lai saglabātu subtitru fonta lielumu!"
+  },
+  "loginToExportSubtitles": {
+    "message": "Lūdzu, piesakieties, lai lejupielādētu subtitrus!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "Piesakieties, lai lejupielādētu saglabātos vārdus kā"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "Iegūstiet BEZMAKSAS izmēģinājuma versiju, lai lejupielādētu saglabātos vārdus kā"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "Iegūstiet BEZMAKSAS izmēģinājuma versiju, lai saglabātu uz video balstītu teikumu"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "Iegūstiet BEZMAKSAS izmēģinājuma versiju, lai piekļūtu mašīntulkojumiem kā trešajam apakšvirsrakstam."
+  },
+  "synchronize": {
+    "message": "Sinhronizēt"
+  },
+  "settings": {
+    "message": "Iestatījumi"
+  },
+  "moreActions": {
+    "message": "Citas darbības"
+  },
+  "openSidebar": {
+    "message": "Atvērt sānu joslu"
+  },
+  "moreSettingsButton": {
+    "message": "Izvērstie iestatījumi"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "Subtitri/CC"
+  }
+}

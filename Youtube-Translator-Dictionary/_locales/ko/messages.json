@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Netflix 및 YouTube™를 통한 언어 학습"
+  },
+  "manifestAppDesc": {
+    "message": "Netflix 확장을 통한 언어 학습(LLN) 및 YouTube를 통한 언어 학습(LLY)"
+  },
+  "appName": {
+    "message": "LLNY와 함께하는 언어 학습!"
+  },
+  "appDesc": {
+    "message": "Netflix 확장 프로그램을 통한 언어 학습으로 삶이 훨씬 쉽고 재미있어집니다."
+  },
+  "upper": {
+    "message": "높은"
+  },
+  "lower": {
+    "message": "낮추다"
+  },
+  "disableTestModeTitle": {
+    "message": "테스트 모드 비활성화"
+  },
+  "disableTestModeDescription": {
+    "message": "Netflix는 때때로 Netflix를 통한 언어 학습이 제대로 작동하지 않을 수 있는 테스트를 실행합니다. 문제를 방지하려면\nNetflix 테스트 참여를 끄는 것이 좋습니다. 그것은 간단합니다:"
+  },
+  "disableTestModeButton": {
+    "message": "테스트 비활성화"
+  },
+  "lowerSelectBox": {
+    "message": "낮은 자막 언어:"
+  },
+  "okayButton": {
+    "message": "괜찮아"
+  },
+  "closeButton": {
+    "message": "닫다"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY 자막 다운로드"
+  },
+  "chooseOneFormat": {
+    "message": "하나의 형식을 선택하십시오:"
+  },
+  "onePerDayForFree": {
+    "message": "1일 1개 무료"
+  },
+  "loading": {
+    "message": "로딩 중"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - 모국어"
+  },
+  "hello": {
+    "message": "여보세요"
+  },
+  "pleaseSelectYour": {
+    "message": "선택하세요"
+  },
+  "upperSubtitles": {
+    "message": "상단 자막"
+  },
+  "targetLanguage": {
+    "message": "대상 언어"
+  },
+  "lowerSubtitles": {
+    "message": "낮은 자막"
+  },
+  "motherLanguage": {
+    "message": "모국어"
+  },
+  "translationLanguage": {
+    "message": "번역 언어"
+  },
+  "anyProblemInFunctionality": {
+    "message": "이 확장 기능의 모든 문제는 간단한 새로 고침으로 해결할 수 있습니다."
+  },
+  "signInForFree": {
+    "message": "무료로 로그인"
+  },
+  "speedUpLanguageLearning": {
+    "message": "언어 학습 속도 향상"
+  },
+  "subtitles": {
+    "message": "자막"
+  },
+  "words": {
+    "message": "단어"
+  },
+  "help": {
+    "message": "돕다"
+  },
+  "saveWordMeaning": {
+    "message": "단어를 마우스 오른쪽 버튼으로 클릭하여 단어의 의미를 저장할 수 있습니다."
+  },
+  "always": {
+    "message": "언제나"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "이 영상의 단어만?"
+  },
+  "exportAs": {
+    "message": "다음으로 다운로드"
+  },
+  "file": {
+    "message": "파일"
+  },
+  "howToChangeSubtitles": {
+    "message": "자막 언어를 변경하는 방법"
+  },
+  "howToTranslateWord": {
+    "message": "단어를 번역하는 방법"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "원본 자막에 마우스를 가져갑니다."
+  },
+  "howToSaveWords": {
+    "message": "단어를 저장하는 방법"
+  },
+  "clickAnyWordOnThe": {
+    "message": "원본 자막의 단어를 클릭한 다음"
+  },
+  "sign": {
+    "message": "징후"
+  },
+  "howToSaveSentence": {
+    "message": "문장을 저장하는 방법"
+  },
+  "clickOnThe": {
+    "message": "클릭"
+  },
+  "clickOnLanguageTab": {
+    "message": "설정 아이콘을 클릭한 다음 언어 탭을 클릭하여 적절한 선택기를 찾으십시오."
+  },
+  "signAtTheEndOfSentence": {
+    "message": "원하는 문장 끝에 서명"
+  },
+  "howToExportWords": {
+    "message": "단어 다운로드 방법"
+  },
+  "clickOnSettingButton": {
+    "message": "설정 버튼 클릭"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "플레이어 하단에서 파일 다운로드 버튼을 클릭하여 텍스트 파일을 다운로드합니다."
+  },
+  "howToPronounceWords": {
+    "message": "단어를 발음하는 법"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "원본 자막의 아무 단어나 클릭하기만 하면 됩니다."
+  },
+  "uploadSubtitle": {
+    "message": "자막 업로드"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "업로드된 자막 언어:"
+  },
+  "delaySubtitles": {
+    "message": "지연 자막"
+  },
+  "decrease": {
+    "message": "감소하다"
+  },
+  "increase": {
+    "message": "증가하다"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "상위 자막을 선택하려면 클릭하세요."
+  },
+  "mainSubtitles": {
+    "message": "메인 자막"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "낮은 자막을 선택하려면 클릭하십시오"
+  },
+  "translateSubtitles": {
+    "message": "자막 번역"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "상위 자막 언어:"
+  },
+  "settngsMenuHeader": {
+    "message": "LLNY 설정 메뉴"
+  },
+  "appearance": {
+    "message": "모습"
+  },
+  "tools": {
+    "message": "도구"
+  },
+  "shortcuts": {
+    "message": "바로가기"
+  },
+  "rateUs": {
+    "message": "평가"
+  },
+  "account": {
+    "message": "계정"
+  },
+  "languages": {
+    "message": "언어"
+  },
+  "showHide": {
+    "message": "표시/숨기기"
+  },
+  "fontSize": {
+    "message": "글꼴 크기"
+  },
+  "color": {
+    "message": "색깔"
+  },
+  "download": {
+    "message": "다운로드"
+  },
+  "thirdSubtitle": {
+    "message": "세 번째 자막"
+  },
+  "machineTranslate": {
+    "message": "기계 번역"
+  },
+  "hoverDictionary": {
+    "message": "마우스 사전"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "자막 배경색"
+  },
+  "choose": {
+    "message": "선택하다"
+  },
+  "blur": {
+    "message": "흐림"
+  },
+  "show": {
+    "message": "보여주다"
+  },
+  "hide": {
+    "message": "숨다"
+  },
+  "bothLanguages": {
+    "message": "두 언어 모두"
+  },
+  "sidebarSubtitles": {
+    "message": "사이드바 자막"
+  },
+  "phonetics": {
+    "message": "음성학"
+  },
+  "no": {
+    "message": "아니요"
+  },
+  "and": {
+    "message": "그리고"
+  },
+  "original": {
+    "message": "음성학 없음"
+  },
+  "romanji": {
+    "message": "로만지는"
+  },
+  "hirgana": {
+    "message": "히르가나"
+  },
+  "wordPronunciation": {
+    "message": "단어 발음"
+  },
+  "speed": {
+    "message": "속도"
+  },
+  "stop": {
+    "message": "중지"
+  },
+  "automaticStopAfterSentence": {
+    "message": "각 문장 후 자동 중지"
+  },
+  "theButton": {
+    "message": "버튼"
+  },
+  "autoStopAfterTime": {
+    "message": "시간 후 자동 정지 및 시작"
+  },
+  "autoStopWithSpace": {
+    "message": "자동 정지 및 스페이스 시작"
+  },
+  "videoPause": {
+    "message": "비디오 일시 중지"
+  },
+  "time": {
+    "message": "시간"
+  },
+  "downloadWords": {
+    "message": "단어 다운로드"
+  },
+  "enableDisable": {
+    "message": "켜기 끄기"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "재생 속도를 느리게"
+  },
+  "normalPlaybackSpeed": {
+    "message": "일반 재생 속도"
+  },
+  "speedUpPlayBack": {
+    "message": "재생 속도 향상"
+  },
+  "saveCurrentSubtitles": {
+    "message": "현재 자막 저장"
+  },
+  "backward": {
+    "message": "뒤로"
+  },
+  "forward": {
+    "message": "앞으로"
+  },
+  "previousSentence": {
+    "message": "이전 문장"
+  },
+  "repeatSentence": {
+    "message": "문장 반복"
+  },
+  "nextSentence": {
+    "message": "다음 문장"
+  },
+  "unlimitedRepeat": {
+    "message": "무제한 반복"
+  },
+  "playPause": {
+    "message": "재생/일시 중지"
+  },
+  "beGenerousUser": {
+    "message": "여기에 리뷰를 작성하면 관대한 사용자가 될 수 있습니다. 감사해요!"
+  },
+  "writeReview": {
+    "message": "리뷰를 작성"
+  },
+  "tweetAboutUs": {
+    "message": "우리에 대해 트윗"
+  },
+  "reportBug": {
+    "message": "버그 신고"
+  },
+  "askForNew": {
+    "message": "새로운 것을 요구하다"
+  },
+  "signOut": {
+    "message": "로그아웃"
+  },
+  "version": {
+    "message": "버전"
+  },
+  "translations": {
+    "message": "번역"
+  },
+  "saved": {
+    "message": "저장됨"
+  },
+  "export": {
+    "message": "다운로드"
+  },
+  "bothSubtitles": {
+    "message": "두 자막 모두"
+  },
+  "exportSaveWords": {
+    "message": "저장된 단어 다운로드"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "이 언어는 비디오 설정에서 변경할 수 있습니다."
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "확장 프로그램 설정에서 이 언어를 변경할 수 있습니다."
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "자막이 있는 동영상 검색"
+  },
+  "andTranslationOfItIs": {
+    "message": "그리고 그 번역본"
+  },
+  "note": {
+    "message": "메모"
+  },
+  "edit": {
+    "message": "편집하다"
+  },
+  "toChangeShareContent": {
+    "message": "공유 콘텐츠를 변경하려면"
+  },
+  "discardChanges": {
+    "message": "변경 사항을 취소"
+  },
+  "primarySubtitle": {
+    "message": "기본 자막"
+  },
+  "translation": {
+    "message": "번역"
+  },
+  "saveChanges": {
+    "message": "변경 사항을 저장하다"
+  },
+  "share": {
+    "message": "공유하다"
+  },
+  "loadingMainSubtitles": {
+    "message": "메인 자막 로드 중"
+  },
+  "youtubeMenu": {
+    "message": "유튜브 메뉴"
+  },
+  "off": {
+    "message": "끄다"
+  },
+  "mouseDictionary": {
+    "message": "마우스 사전"
+  },
+  "premmium": {
+    "message": "프리미엄"
+  },
+  "highSpeedLearning": {
+    "message": "고속 학습"
+  },
+  "pronunciation": {
+    "message": "발음"
+  },
+  "sidebarTranslations": {
+    "message": "사이드바 번역"
+  },
+  "keyboardShortcuts": {
+    "message": "키보드 단축키"
+  },
+  "toUseShortcuts": {
+    "message": "사용하려면 먼저 설정에서 바로 가기를 활성화하십시오."
+  },
+  "upgradeYourAccount": {
+    "message": "기계 번역을 사용하려면 계정을 업그레이드하세요!"
+  },
+  "startYourFreeTrial": {
+    "message": "무료 평가판 시작"
+  },
+  "toAccessMachineTranslations": {
+    "message": "모든 영화의 기계 번역에 액세스하려면"
+  },
+  "freeTrial": {
+    "message": "무료 시험판"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "한국어, 일본어, 중국어 간체 및 중국어 번체에 대한 음성을 활성화/비활성화하려면 설정으로 이동하거나 아래 버튼을 클릭하십시오!"
+  },
+  "openMenu": {
+    "message": "메뉴 열기"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "로그인하여 자막 파일을 다운로드하세요!"
+  },
+  "loginForFree": {
+    "message": "무료로 로그인"
+  },
+  "subscribe": {
+    "message": "구독하다"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "자막 다운로드 일일 한도에 도달했습니다. 더 많은 자막을 다운로드하려면 무료 평가판을 받으세요!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "앗! 이 영상은 자막이 없습니다!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "계정에 단어를 저장하려면 로그인하십시오"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "이 기능을 사용하기 위한 무료 평가판을 시작하십시오!"
+  },
+  "getYourTrialToUpload": {
+    "message": "자막 업로드 무료 평가판 받기"
+  },
+  "loginToLearnPronunciation": {
+    "message": "로그인하여 각 단어의 정확한 발음을 배우세요"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "일일 발음 한도에 도달했습니다. 무제한 단어를 들을 수 있는 무료 평가판을 받으세요"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "일일 단어 저장 한도에 도달했습니다. 무제한 단어 학습을 위한 무료 평가판 받기"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "일일 편집 한도에 도달했습니다. 무제한으로 편집할 수 있는 무료 평가판을 받으세요"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "구독에서 더 정확한 의미를 확인하실 수 있습니다!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "대상 자막을 표시/숨기기 위한 무료 평가판 받기"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "무료 평가판을 사용하여 보조 자막 표시/숨기기"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "무료 평가판을 사용하여 보조 자막 표시/숨기기"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "다음을 기준으로 저장된 단어를 필터링하려면 로그인하십시오."
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "무료 평가판을 사용하여 저장된 단어를 필터링할 수 있습니다."
+  },
+  "haveProblem": {
+    "message": "문제가 있는 경우 로그아웃했다가 다시 로그인하세요."
+  },
+  "date": {
+    "message": "데이트"
+  },
+  "video": {
+    "message": "동영상"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "자막의 색상을 유지하려면 로그인하세요!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "자막의 불투명도를 저장하려면 로그인하세요!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "자막의 글꼴 크기를 저장하려면 로그인하십시오!"
+  },
+  "loginToExportSubtitles": {
+    "message": "자막을 다운로드하려면 로그인하세요!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "저장된 단어를 다음으로 다운로드하려면 로그인하십시오."
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "저장된 단어를 다른 이름으로 다운로드하려면 무료 평가판을 받으십시오."
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "비디오를 기반으로 저장된 문장에 대한 무료 평가판 받기"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "세 번째 자막으로 기계 번역에 액세스하려면 무료 평가판을 받으세요."
+  },
+  "synchronize": {
+    "message": "동기화"
+  },
+  "settings": {
+    "message": "설정"
+  },
+  "moreActions": {
+    "message": "추가 작업"
+  },
+  "openSidebar": {
+    "message": "사이드바 열기"
+  },
+  "moreSettingsButton": {
+    "message": "고급 설정"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "자막/CC"
+  }
+}

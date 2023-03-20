@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Învățarea limbilor străine cu Netflix și YouTube™"
+  },
+  "manifestAppDesc": {
+    "message": "Învățarea limbilor străine cu extensia Netflix (LLN) & Învățarea limbilor străine cu YouTube (LLY)"
+  },
+  "appName": {
+    "message": "Învățarea limbilor străine cu LLNY!"
+  },
+  "appDesc": {
+    "message": "Învățarea limbilor străine cu extensia Netflix vă face viața mult mai ușoară și mai distractivă"
+  },
+  "upper": {
+    "message": "Partea superioară"
+  },
+  "lower": {
+    "message": "Mai jos"
+  },
+  "disableTestModeTitle": {
+    "message": "Dezactivarea modului de testare"
+  },
+  "disableTestModeDescription": {
+    "message": "Netflix efectuează uneori teste care pot face ca Language Learning with Netflix să nu funcționeze corect. Pentru a evita problemele,\nvă recomandăm să dezactivați participarea la testele Netflix. Este ușor:"
+  },
+  "disableTestModeButton": {
+    "message": "Dezactivarea testării"
+  },
+  "lowerSelectBox": {
+    "message": "Subtitrare inferioară Limba:"
+  },
+  "okayButton": {
+    "message": "Bine"
+  },
+  "closeButton": {
+    "message": "Închideți"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY Descărcați subtitrări"
+  },
+  "chooseOneFormat": {
+    "message": "Alegeți un format:"
+  },
+  "onePerDayForFree": {
+    "message": "Unul pe zi gratuit"
+  },
+  "loading": {
+    "message": "Încărcare"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - Limba maternă"
+  },
+  "hello": {
+    "message": "Bună ziua"
+  },
+  "pleaseSelectYour": {
+    "message": "Vă rugăm să selectați"
+  },
+  "upperSubtitles": {
+    "message": "Subtitrări superioare"
+  },
+  "targetLanguage": {
+    "message": "Limba țintă"
+  },
+  "lowerSubtitles": {
+    "message": "Subtitrare inferioară"
+  },
+  "motherLanguage": {
+    "message": "Limba maternă"
+  },
+  "translationLanguage": {
+    "message": "Limba de traducere"
+  },
+  "anyProblemInFunctionality": {
+    "message": "Orice problemă de funcționalitate a acestei extensii poate fi rezolvată cu un simplu refresh"
+  },
+  "signInForFree": {
+    "message": "Conectați-vă gratuit"
+  },
+  "speedUpLanguageLearning": {
+    "message": "Accelerează învățarea limbilor străine"
+  },
+  "subtitles": {
+    "message": "Subtitrări"
+  },
+  "words": {
+    "message": "Cuvinte"
+  },
+  "help": {
+    "message": "Ajutor"
+  },
+  "saveWordMeaning": {
+    "message": "Puteți salva semnificația oricărui cuvânt făcând clic dreapta pe el"
+  },
+  "always": {
+    "message": "Întotdeauna"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "Singurele cuvinte din acest videoclip?"
+  },
+  "exportAs": {
+    "message": "Descărcați ca"
+  },
+  "file": {
+    "message": "fișier"
+  },
+  "howToChangeSubtitles": {
+    "message": "Cum să schimbați limba subtitrărilor"
+  },
+  "howToTranslateWord": {
+    "message": "Cum se traduce cuvântul"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "Treceți cu mouse-ul pe subtitrarea originală"
+  },
+  "howToSaveWords": {
+    "message": "Cum să salvezi cuvinte"
+  },
+  "clickAnyWordOnThe": {
+    "message": "Trebuie doar să faceți clic pe orice cuvânt din subtitrarea originală, apoi faceți clic pe butonul"
+  },
+  "sign": {
+    "message": "semn"
+  },
+  "howToSaveSentence": {
+    "message": "Cum să salvezi propoziții"
+  },
+  "clickOnThe": {
+    "message": "Faceți clic pe"
+  },
+  "clickOnLanguageTab": {
+    "message": "Faceți clic pe pictograma de setare, apoi faceți clic pe fila de limbă pentru a găsi selectorul corespunzător"
+  },
+  "signAtTheEndOfSentence": {
+    "message": "la sfârșitul oricărei propoziții pe care o doriți"
+  },
+  "howToExportWords": {
+    "message": "Cum să descărcați cuvinte"
+  },
+  "clickOnSettingButton": {
+    "message": "Faceți clic pe butonul de setare"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "în partea de jos a playerului, apoi faceți clic pe butonul de descărcare a fișierului pentru a descărca fișierul text"
+  },
+  "howToPronounceWords": {
+    "message": "Cum se pronunță cuvinte"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "Doar faceți clic pe orice cuvânt din subtitrările originale"
+  },
+  "uploadSubtitle": {
+    "message": "Încărcați subtitrări"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "Limba în care au fost încărcate subtitrările:"
+  },
+  "delaySubtitles": {
+    "message": "Subtitrări întârziate"
+  },
+  "decrease": {
+    "message": "Scădere"
+  },
+  "increase": {
+    "message": "Creștere"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "Faceți clic pentru a selecta subtitrările UPPER"
+  },
+  "mainSubtitles": {
+    "message": "Subtitrări principale"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "Faceți clic pentru a selecta subtitrările LOWER"
+  },
+  "translateSubtitles": {
+    "message": "Traduceți subtitrările"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "Subtitrare superioară Limba:"
+  },
+  "settngsMenuHeader": {
+    "message": "Meniul Setări LLNY"
+  },
+  "appearance": {
+    "message": "Aspect"
+  },
+  "tools": {
+    "message": "Unelte"
+  },
+  "shortcuts": {
+    "message": "Comenzi rapide"
+  },
+  "rateUs": {
+    "message": "Evaluați-ne"
+  },
+  "account": {
+    "message": "Cont"
+  },
+  "languages": {
+    "message": "Limbi"
+  },
+  "showHide": {
+    "message": "Arată/ Ascunde"
+  },
+  "fontSize": {
+    "message": "Mărimea fontului"
+  },
+  "color": {
+    "message": "Culoare"
+  },
+  "download": {
+    "message": "Descărcați"
+  },
+  "thirdSubtitle": {
+    "message": "A treia subtitrare"
+  },
+  "machineTranslate": {
+    "message": "Traducere Automată"
+  },
+  "hoverDictionary": {
+    "message": "Dicționar de șoareci"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "Culoarea de fundal a subtitrărilor"
+  },
+  "choose": {
+    "message": "Alegeți"
+  },
+  "blur": {
+    "message": "Estompa"
+  },
+  "show": {
+    "message": "Arată"
+  },
+  "hide": {
+    "message": "Ascundeți"
+  },
+  "bothLanguages": {
+    "message": "Ambele limbi"
+  },
+  "sidebarSubtitles": {
+    "message": "Subtitrări din bara laterală"
+  },
+  "phonetics": {
+    "message": "Fonetică"
+  },
+  "no": {
+    "message": "Nu"
+  },
+  "and": {
+    "message": "și"
+  },
+  "original": {
+    "message": "Original"
+  },
+  "romanji": {
+    "message": "Romanji"
+  },
+  "hirgana": {
+    "message": "Hirgana"
+  },
+  "wordPronunciation": {
+    "message": "Pronunția cuvintelor"
+  },
+  "speed": {
+    "message": "Viteză"
+  },
+  "stop": {
+    "message": "Stop"
+  },
+  "automaticStopAfterSentence": {
+    "message": "Oprire automată după fiecare propoziție"
+  },
+  "theButton": {
+    "message": "butonul"
+  },
+  "autoStopAfterTime": {
+    "message": "Oprire și pornire automată după timp"
+  },
+  "autoStopWithSpace": {
+    "message": "Oprire și pornire automată cu spațiu"
+  },
+  "videoPause": {
+    "message": "Pauză video"
+  },
+  "time": {
+    "message": "Timp"
+  },
+  "downloadWords": {
+    "message": "Descarcă cuvinte"
+  },
+  "enableDisable": {
+    "message": "Activare/Dezactivare"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "Reducerea vitezei de redare"
+  },
+  "normalPlaybackSpeed": {
+    "message": "Viteza normală de redare"
+  },
+  "speedUpPlayBack": {
+    "message": "Accelerează redarea"
+  },
+  "saveCurrentSubtitles": {
+    "message": "Salvați subtitrările curente"
+  },
+  "backward": {
+    "message": "Înapoi"
+  },
+  "forward": {
+    "message": "Înainte"
+  },
+  "previousSentence": {
+    "message": "Sentința anterioară"
+  },
+  "repeatSentence": {
+    "message": "Repetă propoziția"
+  },
+  "nextSentence": {
+    "message": "Următoarea propoziție"
+  },
+  "unlimitedRepeat": {
+    "message": "Repetare nelimitată"
+  },
+  "playPause": {
+    "message": "Redare / Pauză"
+  },
+  "beGenerousUser": {
+    "message": "Puteți fi un utilizator generos scriind o recenzie aici. Mulțumesc!"
+  },
+  "writeReview": {
+    "message": "Scrieți o recenzie"
+  },
+  "tweetAboutUs": {
+    "message": "Tweet despre noi"
+  },
+  "reportBug": {
+    "message": "Raportați bug-uri"
+  },
+  "askForNew": {
+    "message": "Cereți un nou"
+  },
+  "signOut": {
+    "message": "Ieșiți"
+  },
+  "version": {
+    "message": "Versiunea"
+  },
+  "translations": {
+    "message": "Traduceri"
+  },
+  "saved": {
+    "message": "Salvat"
+  },
+  "export": {
+    "message": "Descărcați"
+  },
+  "bothSubtitles": {
+    "message": "Ambele subtitrări"
+  },
+  "exportSaveWords": {
+    "message": "Descarcă cuvinte salvate"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "Puteți schimba această limbă în setările pentru video"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "Puteți schimba această limbă în setările extensiei"
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "Căutați videoclipuri cu subtitrare"
+  },
+  "andTranslationOfItIs": {
+    "message": "Și traducerea acesteia"
+  },
+  "note": {
+    "message": "Notă"
+  },
+  "edit": {
+    "message": "EDITARE"
+  },
+  "toChangeShareContent": {
+    "message": "pentru a schimba Share content"
+  },
+  "discardChanges": {
+    "message": "Schimbări de aruncare"
+  },
+  "primarySubtitle": {
+    "message": "Subtitlu primar"
+  },
+  "translation": {
+    "message": "Traducere"
+  },
+  "saveChanges": {
+    "message": "Salvați modificările"
+  },
+  "share": {
+    "message": "Împărtășiți"
+  },
+  "loadingMainSubtitles": {
+    "message": "Încărcare Subtitrări principale"
+  },
+  "youtubeMenu": {
+    "message": "Meniul YouTube"
+  },
+  "off": {
+    "message": "Off"
+  },
+  "mouseDictionary": {
+    "message": "Dicționar de șoareci"
+  },
+  "premmium": {
+    "message": "Premium"
+  },
+  "highSpeedLearning": {
+    "message": "Învățare de mare viteză"
+  },
+  "pronunciation": {
+    "message": "Pronunție"
+  },
+  "sidebarTranslations": {
+    "message": "Traducerea barei laterale"
+  },
+  "keyboardShortcuts": {
+    "message": "Comenzi rapide de la tastatură"
+  },
+  "toUseShortcuts": {
+    "message": "Pentru a le utiliza, activați mai întâi comenzile rapide din setări"
+  },
+  "upgradeYourAccount": {
+    "message": "Upgradează-ți contul pentru a folosi Machine Translation!"
+  },
+  "startYourFreeTrial": {
+    "message": "Începeți procesul GRATUIT"
+  },
+  "toAccessMachineTranslations": {
+    "message": "pentru a accesa traducerile automate pentru toate filmele"
+  },
+  "freeTrial": {
+    "message": "Proces GRATUIT"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "Pentru a activa/dezactiva fonetica pentru limbile coreeană, japoneză, chineză simplificată și chineză tradițională, mergeți la setări sau faceți clic pe butonul de mai jos!"
+  },
+  "openMenu": {
+    "message": "Deschideți meniul"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "Autentificați-vă pentru a descărca fișierul de subtitrare!"
+  },
+  "loginForFree": {
+    "message": "Autentificare gratuită"
+  },
+  "subscribe": {
+    "message": "Abonează-te la"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "Ați atins limitele zilnice de descărcare de subtitrări. Obțineți o versiune de încercare GRATUITĂ pentru a descărca mai multe subtitrări!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "Oops! Acest videoclip nu are subtitrări!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "Vă rugăm să vă conectați pentru a salva cuvinte în contul dvs"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "Începeți testul GRATUIT pentru utilizarea acestei funcții!"
+  },
+  "getYourTrialToUpload": {
+    "message": "Obțineți procesul GRATUIT pentru a încărca subtitrare"
+  },
+  "loginToLearnPronunciation": {
+    "message": "Autentificați-vă pentru a învăța pronunția exactă a fiecărui cuvânt"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "Ați atins limitele zilnice pentru pronunție. Obțineți o versiune de încercare GRATUITĂ pentru a auzi un număr nelimitat de cuvinte"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "Ați atins limita zilnică de cuvinte de salvare. Obțineți o versiune de încercare GRATUITĂ pentru a învăța un număr nelimitat de cuvinte"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "Ați atins limitele zilnice de editare. Obțineți o perioadă de probă GRATUITĂ pentru un număr nelimitat de ediții"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "Puteți vedea semnificații mai exacte în abonamentul dumneavoastră!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "Obțineți versiunea de încercare GRATUITĂ pentru a afișa / ascunde subtitrarea țintă"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "Obțineți versiunea de încercare GRATUITĂ pentru a afișa/ascunde subtitrarea secundară"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "Obțineți versiunea de încercare GRATUITĂ pentru a afișa/ascunde subtitrarea secundară"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "Autentificați-vă pentru a filtra cuvintele salvate în funcție de"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "Obțineți versiunea de încercare GRATUITĂ pentru a filtra cuvintele salvate în funcție de"
+  },
+  "haveProblem": {
+    "message": "Dacă aveți o problemă, vă rugăm să vă deconectați și să vă conectați din nou"
+  },
+  "date": {
+    "message": "data"
+  },
+  "video": {
+    "message": "video"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "Conectați-vă pentru a păstra culoarea subtitrărilor!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "Autentificare pentru a salva opacitatea subtitrărilor!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "Autentificare pentru a salva dimensiunea fontului de subtitrare!"
+  },
+  "loginToExportSubtitles": {
+    "message": "Vă rugăm să vă conectați pentru a descărca subtitrări!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "Autentificați-vă pentru a descărca cuvintele salvate ca"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "Obțineți procesul GRATUIT pentru a descărca cuvinte salvate ca"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "Obțineți procesul GRATUIT pentru a salva propoziția bazată pe video"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "Obțineți o versiune de încercare GRATUITĂ pentru a accesa traducerile automate ca al treilea subtitlu."
+  },
+  "synchronize": {
+    "message": "Sincronizare"
+  },
+  "settings": {
+    "message": "Setări"
+  },
+  "moreActions": {
+    "message": "Mai multe acțiuni"
+  },
+  "openSidebar": {
+    "message": "Deschideți bara laterală"
+  },
+  "moreSettingsButton": {
+    "message": "Setări avansate"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "Subtitrare/CC"
+  }
+}

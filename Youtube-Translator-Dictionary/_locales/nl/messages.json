@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Taal leren met Netflix & YouTube™"
+  },
+  "manifestAppDesc": {
+    "message": "Leren van talen met Netflix-extensie (LLN) & Leren van talen met YouTube (LLY)"
+  },
+  "appName": {
+    "message": "Taal leren met LLNY!"
+  },
+  "appDesc": {
+    "message": "Taal leren met Netflix extensie maakt je leven een stuk makkelijker, en leuker"
+  },
+  "upper": {
+    "message": "Boven"
+  },
+  "lower": {
+    "message": "Lower"
+  },
+  "disableTestModeTitle": {
+    "message": "Uitschakelen Test Modus"
+  },
+  "disableTestModeDescription": {
+    "message": "Netflix voert soms tests uit die ervoor kunnen zorgen dat Language Learning met Netflix niet goed werkt. Om problemen te voorkomen,\nraden we u aan de deelname aan Netflix-tests uit te schakelen. Het is gemakkelijk:"
+  },
+  "disableTestModeButton": {
+    "message": "Disable Testing"
+  },
+  "lowerSelectBox": {
+    "message": "Taal ondertitels:"
+  },
+  "okayButton": {
+    "message": "Oké"
+  },
+  "closeButton": {
+    "message": "Sluiten"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY Download Ondertitels"
+  },
+  "chooseOneFormat": {
+    "message": "Kies een formaat:"
+  },
+  "onePerDayForFree": {
+    "message": "Eén per dag gratis"
+  },
+  "loading": {
+    "message": "Laden"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - Moedertaal"
+  },
+  "hello": {
+    "message": "Hallo"
+  },
+  "pleaseSelectYour": {
+    "message": "Selecteer uw"
+  },
+  "upperSubtitles": {
+    "message": "Bovenste ondertitels"
+  },
+  "targetLanguage": {
+    "message": "Doeltaal"
+  },
+  "lowerSubtitles": {
+    "message": "Lagere ondertitels"
+  },
+  "motherLanguage": {
+    "message": "Moedertaal"
+  },
+  "translationLanguage": {
+    "message": "Vertaal Taal"
+  },
+  "anyProblemInFunctionality": {
+    "message": "Elk probleem in de functionaliteit van deze uitbreiding kan worden opgelost met een eenvoudige refresh"
+  },
+  "signInForFree": {
+    "message": "Meld u gratis aan"
+  },
+  "speedUpLanguageLearning": {
+    "message": "Versnel het leren van talen"
+  },
+  "subtitles": {
+    "message": "Ondertitels"
+  },
+  "words": {
+    "message": "Woorden"
+  },
+  "help": {
+    "message": "Helpen"
+  },
+  "saveWordMeaning": {
+    "message": "U kunt de betekenis van elk woord opslaan door er met de rechtermuisknop op te klikken"
+  },
+  "always": {
+    "message": "Altijd"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "Alleen de woorden van deze video?"
+  },
+  "exportAs": {
+    "message": "Downloaden als"
+  },
+  "file": {
+    "message": "bestand"
+  },
+  "howToChangeSubtitles": {
+    "message": "Hoe de taal van de ondertitels te veranderen"
+  },
+  "howToTranslateWord": {
+    "message": "Hoe een woord te vertalen"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "Beweeg de muis over de originele ondertitels"
+  },
+  "howToSaveWords": {
+    "message": "Hoe woorden te redden"
+  },
+  "clickAnyWordOnThe": {
+    "message": "Klik gewoon op een willekeurig woord van de originele ondertiteling, en klik dan op de "
+  },
+  "sign": {
+    "message": "teken"
+  },
+  "howToSaveSentence": {
+    "message": "Hoe zinnen te redden"
+  },
+  "clickOnThe": {
+    "message": "Klik op de"
+  },
+  "clickOnLanguageTab": {
+    "message": "Klik op het icoontje van de instelling, klik dan op het tabblad taal om de juiste selector te vinden"
+  },
+  "signAtTheEndOfSentence": {
+    "message": "teken aan het eind van elke zin die je wilt"
+  },
+  "howToExportWords": {
+    "message": "Hoe woorden te downloaden"
+  },
+  "clickOnSettingButton": {
+    "message": "Klik op de instellingsknop"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "onderaan de speler, klik dan op de downloadknop om het tekstbestand te downloaden"
+  },
+  "howToPronounceWords": {
+    "message": "Hoe spreek je woorden uit?"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "Klik gewoon op een woord van de originele ondertitels"
+  },
+  "uploadSubtitle": {
+    "message": "Ondertitels uploaden"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "De taal van geüploade ondertitels:"
+  },
+  "delaySubtitles": {
+    "message": "Vertraging ondertitels"
+  },
+  "decrease": {
+    "message": "Vermindering van"
+  },
+  "increase": {
+    "message": "Verhogen"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "Klik om de BOVENSTE Ondertitels te selecteren"
+  },
+  "mainSubtitles": {
+    "message": "Hoofdondertitels"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "Klik om de Ondertitels te selecteren"
+  },
+  "translateSubtitles": {
+    "message": "Vertaal Ondertitels"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "Taal ondertitels boven:"
+  },
+  "settngsMenuHeader": {
+    "message": "LLNY Instellingen Menu"
+  },
+  "appearance": {
+    "message": "Uiterlijk"
+  },
+  "tools": {
+    "message": "Gereedschap"
+  },
+  "shortcuts": {
+    "message": "Snelkoppelingen"
+  },
+  "rateUs": {
+    "message": "Beoordeel ons"
+  },
+  "account": {
+    "message": "Rekening"
+  },
+  "languages": {
+    "message": "Talen"
+  },
+  "showHide": {
+    "message": "Tonen/Verbergen"
+  },
+  "fontSize": {
+    "message": "Lettergrootte"
+  },
+  "color": {
+    "message": "Kleur"
+  },
+  "download": {
+    "message": "Downloaden"
+  },
+  "thirdSubtitle": {
+    "message": "Derde ondertitels"
+  },
+  "machineTranslate": {
+    "message": "Machinevertaling"
+  },
+  "hoverDictionary": {
+    "message": "muis woordenboek"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "Ondertitels Achtergrondkleur"
+  },
+  "choose": {
+    "message": "Kies"
+  },
+  "blur": {
+    "message": "Waas"
+  },
+  "show": {
+    "message": "Toon"
+  },
+  "hide": {
+    "message": "Verberg"
+  },
+  "bothLanguages": {
+    "message": "Beide Talen"
+  },
+  "sidebarSubtitles": {
+    "message": "Sidebar Ondertitels"
+  },
+  "phonetics": {
+    "message": "Fonetiek"
+  },
+  "no": {
+    "message": "Geen"
+  },
+  "and": {
+    "message": "en"
+  },
+  "original": {
+    "message": "Origineel"
+  },
+  "romanji": {
+    "message": "Romanji"
+  },
+  "hirgana": {
+    "message": "Hirgana"
+  },
+  "wordPronunciation": {
+    "message": "Woord Uitspraak"
+  },
+  "speed": {
+    "message": "Snelheid"
+  },
+  "stop": {
+    "message": "Hou op"
+  },
+  "automaticStopAfterSentence": {
+    "message": "Automatisch stoppen na elke zin"
+  },
+  "theButton": {
+    "message": "de knop"
+  },
+  "autoStopAfterTime": {
+    "message": "Auto Stop en Start na Tijd"
+  },
+  "autoStopWithSpace": {
+    "message": "Auto Stop and Start with Space"
+  },
+  "videoPause": {
+    "message": "Video Pause"
+  },
+  "time": {
+    "message": "Tijd"
+  },
+  "downloadWords": {
+    "message": "Woorden downloaden"
+  },
+  "enableDisable": {
+    "message": "Inschakelen/Uitschakelen"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "Afspeelsnelheid vertragen"
+  },
+  "normalPlaybackSpeed": {
+    "message": "Normale afspeelsnelheid"
+  },
+  "speedUpPlayBack": {
+    "message": "Versnel het afspelen"
+  },
+  "saveCurrentSubtitles": {
+    "message": "Huidige ondertitels opslaan"
+  },
+  "backward": {
+    "message": "Achterwaarts"
+  },
+  "forward": {
+    "message": "Vooruit"
+  },
+  "previousSentence": {
+    "message": "Vorige zin "
+  },
+  "repeatSentence": {
+    "message": "Herhaal zin"
+  },
+  "nextSentence": {
+    "message": "Volgende zin"
+  },
+  "unlimitedRepeat": {
+    "message": "Unlimited Repeat"
+  },
+  "playPause": {
+    "message": "Afspelen / Pauzeren"
+  },
+  "beGenerousUser": {
+    "message": "U kunt een gulle gebruiker zijn door hier een recensie te schrijven. Bedankt!"
+  },
+  "writeReview": {
+    "message": "Schrijf een review"
+  },
+  "tweetAboutUs": {
+    "message": "Tweet over ons"
+  },
+  "reportBug": {
+    "message": "Bugs rapporteren"
+  },
+  "askForNew": {
+    "message": "Vraag om nieuwe"
+  },
+  "signOut": {
+    "message": "Uitschrijven"
+  },
+  "version": {
+    "message": "Versie"
+  },
+  "translations": {
+    "message": "Vertalingen"
+  },
+  "saved": {
+    "message": "Opgeslagen"
+  },
+  "export": {
+    "message": "Downloaden"
+  },
+  "bothSubtitles": {
+    "message": "Beide ondertitels"
+  },
+  "exportSaveWords": {
+    "message": "Opgeslagen woorden downloaden"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "U kunt deze taal veranderen bij de instellingen van video"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "U kunt deze taal wijzigen in de instellingen van de extensie"
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "Zoek naar video's met ondertitels"
+  },
+  "andTranslationOfItIs": {
+    "message": "En de vertaling ervan"
+  },
+  "note": {
+    "message": "Noot"
+  },
+  "edit": {
+    "message": "BEWERK"
+  },
+  "toChangeShareContent": {
+    "message": "om Share content te veranderen"
+  },
+  "discardChanges": {
+    "message": "Veranderingen weggooien"
+  },
+  "primarySubtitle": {
+    "message": "Primaire ondertitel"
+  },
+  "translation": {
+    "message": "Vertaling"
+  },
+  "saveChanges": {
+    "message": "Wijzigingen opslaan"
+  },
+  "share": {
+    "message": "Deel"
+  },
+  "loadingMainSubtitles": {
+    "message": "Loading Main subtitles"
+  },
+  "youtubeMenu": {
+    "message": "YouTube-menu"
+  },
+  "off": {
+    "message": "Uit"
+  },
+  "mouseDictionary": {
+    "message": "muis woordenboek"
+  },
+  "premmium": {
+    "message": "Premie"
+  },
+  "highSpeedLearning": {
+    "message": "Snel leren"
+  },
+  "pronunciation": {
+    "message": "Uitspraak"
+  },
+  "sidebarTranslations": {
+    "message": "Zijbalk vertalingen"
+  },
+  "keyboardShortcuts": {
+    "message": "Toetsenbord sneltoetsen"
+  },
+  "toUseShortcuts": {
+    "message": "Om te gebruiken, activeer eerst de snelkoppelingen van de instellingen"
+  },
+  "upgradeYourAccount": {
+    "message": "Upgrade uw account om machinevertaling te gebruiken!"
+  },
+  "startYourFreeTrial": {
+    "message": "Start uw GRATIS proefperiode"
+  },
+  "toAccessMachineTranslations": {
+    "message": "om toegang te krijgen tot machine vertalingen voor alle films"
+  },
+  "freeTrial": {
+    "message": "GRATIS proberen"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "Om fonetische voor Koreaans, Japans, Vereenvoudigd Chinees en Traditioneel Chinees aan/uit te zetten, ga naar instelling of klik op de knop hieronder!"
+  },
+  "openMenu": {
+    "message": "Menu openen"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "Log in om ondertitel bestand te downloaden!"
+  },
+  "loginForFree": {
+    "message": "Log in voor gratis"
+  },
+  "subscribe": {
+    "message": "Inschrijven"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "U heeft uw dagelijkse limiet voor het downloaden van ondertitels bereikt. Vraag uw GRATIS proefversie aan om meer ondertitels te downloaden!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "Oeps! Deze video heeft geen ondertitels!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "Log in om woorden in uw account op te slaan"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "Start uw GRATIS proef voor het gebruik van deze functie!"
+  },
+  "getYourTrialToUpload": {
+    "message": "Haal uw GRATIS proefabonnement op Upload Subtitle"
+  },
+  "loginToLearnPronunciation": {
+    "message": "Log in om de exacte uitspraak van elk woord te leren"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "U heeft uw dagelijkse limiet voor uitspraak bereikt. Neem een GRATIS proefversie om een onbeperkt aantal woorden te horen"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "U heeft uw dagelijkse limiet voor het opslaan van woorden bereikt. Neem een GRATIS proefversie om een onbeperkt aantal woorden te leren"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "U heeft uw dagelijkse limiet voor bewerkingen bereikt. Vraag uw GRATIS proef aan voor een onbeperkt aantal bewerkingen"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "U kunt meer accurate betekenissen zien in uw abonnement!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "Ontvang uw GRATIS proefversie om doeltitels te tonen/verbergen Ondertitel"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "Neem een GRATIS proefversie om de tweede ondertitel te tonen/verbergen"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "Neem een GRATIS proefversie om de tweede ondertitel te tonen/verbergen"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "Log in om opgeslagen woorden te filteren op basis van"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "Ontvang uw GRATIS proefversie om opgeslagen woorden te filteren op basis van"
+  },
+  "haveProblem": {
+    "message": "Als u een probleem hebt, meld u dan af en meld u opnieuw aan"
+  },
+  "date": {
+    "message": "datum"
+  },
+  "video": {
+    "message": "video"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "Log in om de kleur van de ondertitels te behouden!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "Log in om de ondoorzichtigheid van ondertitels op te slaan!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "Log in om de lettergrootte van ondertitels op te slaan!"
+  },
+  "loginToExportSubtitles": {
+    "message": "Log in om ondertitels te downloaden!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "Log in om de opgeslagen woorden te downloaden als"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "Haal uw GRATIS proefversie om opgeslagen woorden te downloaden als"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "Ontvang uw GRATIS proefversie van opgeslagen zin op basis van video"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "Krijg je GRATIS proefabonnement op machinevertalingen als derde ondertitel."
+  },
+  "synchronize": {
+    "message": "Synchroniseren"
+  },
+  "settings": {
+    "message": "Instellingen"
+  },
+  "moreActions": {
+    "message": "Meer acties"
+  },
+  "openSidebar": {
+    "message": "Open Zijbalk"
+  },
+  "moreSettingsButton": {
+    "message": "Geavanceerde instellingen"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "Ondertitels/CC"
+  }
+}

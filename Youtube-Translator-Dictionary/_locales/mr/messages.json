@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Netflix आणि YouTube™ सह भाषा शिकणे"
+  },
+  "manifestAppDesc": {
+    "message": "Netflix विस्तार (LLN) सह भाषा शिक्षण आणि YouTube (LLY) सह भाषा शिक्षण"
+  },
+  "appName": {
+    "message": "LLNY सह भाषा शिकणे!"
+  },
+  "appDesc": {
+    "message": "Netflix विस्तारासह भाषा शिकणे तुमचे जीवन खूप सोपे आणि अधिक मनोरंजक बनवते"
+  },
+  "upper": {
+    "message": "वरील"
+  },
+  "lower": {
+    "message": "खालचा"
+  },
+  "disableTestModeTitle": {
+    "message": "चाचणी मोड अक्षम करा"
+  },
+  "disableTestModeDescription": {
+    "message": "Netflix कधीकधी चाचण्या चालवते ज्यामुळे Netflix सह भाषा शिकणे योग्यरित्या कार्य करू शकत नाही. समस्या टाळण्यासाठी, आम्ही\nशिफारस करतो की तुम्ही Netflix चाचणी सहभाग बंद करा. हे सोपे आहे:"
+  },
+  "disableTestModeButton": {
+    "message": "चाचणी अक्षम करा"
+  },
+  "lowerSelectBox": {
+    "message": "खालच्या उपशीर्षकांची भाषा:"
+  },
+  "okayButton": {
+    "message": "ठीक आहे"
+  },
+  "closeButton": {
+    "message": "बंद"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY उपशीर्षके डाउनलोड करा"
+  },
+  "chooseOneFormat": {
+    "message": "एक स्वरूप निवडा:"
+  },
+  "onePerDayForFree": {
+    "message": "दररोज एक विनामूल्य"
+  },
+  "loading": {
+    "message": "लोड करत आहे"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - मूळ भाषा"
+  },
+  "hello": {
+    "message": "नमस्कार"
+  },
+  "pleaseSelectYour": {
+    "message": "कृपया तुमचे निवडा"
+  },
+  "upperSubtitles": {
+    "message": "वरची उपशीर्षके"
+  },
+  "targetLanguage": {
+    "message": "लक्ष्य भाषा"
+  },
+  "lowerSubtitles": {
+    "message": "खालची उपशीर्षके"
+  },
+  "motherLanguage": {
+    "message": "मातृभाषा"
+  },
+  "translationLanguage": {
+    "message": "भाषांतर भाषा"
+  },
+  "anyProblemInFunctionality": {
+    "message": "या विस्ताराच्या कार्यक्षमतेतील कोणतीही समस्या साध्या रिफ्रेशने सोडवली जाऊ शकते"
+  },
+  "signInForFree": {
+    "message": "विनामूल्य साइन इन करा"
+  },
+  "speedUpLanguageLearning": {
+    "message": "भाषा शिकण्याची गती वाढवा"
+  },
+  "subtitles": {
+    "message": "उपशीर्षके"
+  },
+  "words": {
+    "message": "शब्द"
+  },
+  "help": {
+    "message": "मदत करा"
+  },
+  "saveWordMeaning": {
+    "message": "तुम्ही कोणत्याही शब्दावर उजवे क्लिक करून त्याचा अर्थ जतन करू शकता"
+  },
+  "always": {
+    "message": "नेहमी"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "या व्हिडिओचे फक्त शब्द?"
+  },
+  "exportAs": {
+    "message": "म्हणून डाउनलोड करा"
+  },
+  "file": {
+    "message": "फाइल"
+  },
+  "howToChangeSubtitles": {
+    "message": "सबटायटल्सची भाषा कशी बदलायची"
+  },
+  "howToTranslateWord": {
+    "message": "शब्दाचे भाषांतर कसे करावे"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "मूळ उपशीर्षकांवर माउस फिरवा"
+  },
+  "howToSaveWords": {
+    "message": "शब्द कसे वाचवायचे"
+  },
+  "clickAnyWordOnThe": {
+    "message": "मूळ उपशीर्षकांच्या कोणत्याही शब्दावर फक्त क्लिक करा, नंतर वर क्लिक करा"
+  },
+  "sign": {
+    "message": "चिन्ह"
+  },
+  "howToSaveSentence": {
+    "message": "वाक्य कसे जतन करावे"
+  },
+  "clickOnThe": {
+    "message": "वर क्लिक करा"
+  },
+  "clickOnLanguageTab": {
+    "message": "सेटिंग चिन्हावर क्लिक करा, त्यानंतर योग्य निवडकर्ता शोधण्यासाठी भाषा टॅबवर क्लिक करा"
+  },
+  "signAtTheEndOfSentence": {
+    "message": "तुम्हाला आवडत असलेल्या कोणत्याही वाक्याच्या शेवटी सही करा"
+  },
+  "howToExportWords": {
+    "message": "शब्द कसे डाउनलोड करायचे"
+  },
+  "clickOnSettingButton": {
+    "message": "सेटिंग बटणावर क्लिक करा"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "प्लेअरच्या तळाशी, नंतर मजकूर फाइल डाउनलोड करण्यासाठी डाउनलोड फाइल बटणावर क्लिक करा"
+  },
+  "howToPronounceWords": {
+    "message": "शब्द कसे उच्चारायचे"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "मूळ सबटायटल्सच्या कोणत्याही शब्दावर फक्त क्लिक करा"
+  },
+  "uploadSubtitle": {
+    "message": "उपशीर्षके अपलोड करा"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "अपलोड केलेल्या उपशीर्षकांची भाषा:"
+  },
+  "delaySubtitles": {
+    "message": "विलंब उपशीर्षके"
+  },
+  "decrease": {
+    "message": "कमी करा"
+  },
+  "increase": {
+    "message": "वाढवा"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "वरील उपशीर्षके निवडण्यासाठी क्लिक करा"
+  },
+  "mainSubtitles": {
+    "message": "मुख्य उपशीर्षके"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "खालची उपशीर्षके निवडण्यासाठी क्लिक करा"
+  },
+  "translateSubtitles": {
+    "message": "उपशीर्षकांचे भाषांतर करा"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "वरच्या उपशीर्षकांची भाषा:"
+  },
+  "settngsMenuHeader": {
+    "message": "LLNY सेटिंग्ज मेनू"
+  },
+  "appearance": {
+    "message": "देखावा"
+  },
+  "tools": {
+    "message": "साधने"
+  },
+  "shortcuts": {
+    "message": "शॉर्टकट"
+  },
+  "rateUs": {
+    "message": "आम्हाला रेट करा"
+  },
+  "account": {
+    "message": "खाते"
+  },
+  "languages": {
+    "message": "भाषा"
+  },
+  "showHide": {
+    "message": "दाखव लपव"
+  },
+  "fontSize": {
+    "message": "अक्षराचा आकार"
+  },
+  "color": {
+    "message": "रंग"
+  },
+  "download": {
+    "message": "डाउनलोड करा"
+  },
+  "thirdSubtitle": {
+    "message": "तिसरी उपशीर्षके"
+  },
+  "machineTranslate": {
+    "message": "मशीन भाषांतर"
+  },
+  "hoverDictionary": {
+    "message": "माउस डिक्शनरी"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "उपशीर्षके पार्श्वभूमी रंग"
+  },
+  "choose": {
+    "message": "निवडा"
+  },
+  "blur": {
+    "message": "अस्पष्ट"
+  },
+  "show": {
+    "message": "दाखवा"
+  },
+  "hide": {
+    "message": "लपवा"
+  },
+  "bothLanguages": {
+    "message": "दोन्ही भाषा"
+  },
+  "sidebarSubtitles": {
+    "message": "साइडबार उपशीर्षके"
+  },
+  "phonetics": {
+    "message": "ध्वनीशास्त्र"
+  },
+  "no": {
+    "message": "नाही"
+  },
+  "and": {
+    "message": "आणि"
+  },
+  "original": {
+    "message": "मूळ"
+  },
+  "romanji": {
+    "message": "Romanji"
+  },
+  "hirgana": {
+    "message": "हिरगण"
+  },
+  "wordPronunciation": {
+    "message": "शब्द उच्चार"
+  },
+  "speed": {
+    "message": "गती"
+  },
+  "stop": {
+    "message": "थांबा"
+  },
+  "automaticStopAfterSentence": {
+    "message": "प्रत्येक वाक्यानंतर स्वयंचलित थांबा"
+  },
+  "theButton": {
+    "message": "बटण"
+  },
+  "autoStopAfterTime": {
+    "message": "वेळेनंतर ऑटो थांबा आणि सुरू करा"
+  },
+  "autoStopWithSpace": {
+    "message": "ऑटो स्टॉप आणि स्पेससह प्रारंभ करा"
+  },
+  "videoPause": {
+    "message": "व्हिडिओ विराम द्या"
+  },
+  "time": {
+    "message": "वेळ"
+  },
+  "downloadWords": {
+    "message": "शब्द डाउनलोड करा"
+  },
+  "enableDisable": {
+    "message": "सक्षम/अक्षम करा"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "प्लेबॅकचा वेग कमी करा"
+  },
+  "normalPlaybackSpeed": {
+    "message": "सामान्य प्लेबॅक गती"
+  },
+  "speedUpPlayBack": {
+    "message": "प्लेबॅकचा वेग वाढवा"
+  },
+  "saveCurrentSubtitles": {
+    "message": "वर्तमान उपशीर्षके जतन करा"
+  },
+  "backward": {
+    "message": "मागे"
+  },
+  "forward": {
+    "message": "पुढे"
+  },
+  "previousSentence": {
+    "message": "मागील वाक्य"
+  },
+  "repeatSentence": {
+    "message": "वाक्याची पुनरावृत्ती करा"
+  },
+  "nextSentence": {
+    "message": "पुढील वाक्य"
+  },
+  "unlimitedRepeat": {
+    "message": "अमर्यादित पुनरावृत्ती"
+  },
+  "playPause": {
+    "message": "प्ले / पॉज"
+  },
+  "beGenerousUser": {
+    "message": "येथे पुनरावलोकन लिहून तुम्ही एक उदार वापरकर्ता होऊ शकता. धन्यवाद!"
+  },
+  "writeReview": {
+    "message": "पुनरावलोकन लिहा"
+  },
+  "tweetAboutUs": {
+    "message": "आमच्याबद्दल ट्विट करा"
+  },
+  "reportBug": {
+    "message": "दोष नोंदवा"
+  },
+  "askForNew": {
+    "message": "नवीन विचारा"
+  },
+  "signOut": {
+    "message": "साइन आउट"
+  },
+  "version": {
+    "message": "आवृत्ती"
+  },
+  "translations": {
+    "message": "भाषांतरे"
+  },
+  "saved": {
+    "message": "जतन केले"
+  },
+  "export": {
+    "message": "डाउनलोड करा"
+  },
+  "bothSubtitles": {
+    "message": "दोन्ही उपशीर्षके"
+  },
+  "exportSaveWords": {
+    "message": "जतन केलेले शब्द डाउनलोड करा"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "तुम्ही व्हिडिओच्या सेटिंग्जमध्ये ही भाषा बदलू शकता"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "तुम्ही ही भाषा एक्स्टेंशनच्या सेटिंग्जमध्ये बदलू शकता"
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "उपशीर्षकांसह व्हिडिओ शोधा"
+  },
+  "andTranslationOfItIs": {
+    "message": "आणि त्याचे भाषांतर"
+  },
+  "note": {
+    "message": "नोंद"
+  },
+  "edit": {
+    "message": "सुधारणे"
+  },
+  "toChangeShareContent": {
+    "message": "सामायिक करा सामग्री बदलण्यासाठी"
+  },
+  "discardChanges": {
+    "message": "बदल जतन करू नका"
+  },
+  "primarySubtitle": {
+    "message": "प्राथमिक उपशीर्षक"
+  },
+  "translation": {
+    "message": "भाषांतर"
+  },
+  "saveChanges": {
+    "message": "बदल जतन करा"
+  },
+  "share": {
+    "message": "शेअर करा"
+  },
+  "loadingMainSubtitles": {
+    "message": "मुख्य उपशीर्षके लोड करत आहे"
+  },
+  "youtubeMenu": {
+    "message": "YouTube मेनू"
+  },
+  "off": {
+    "message": "बंद"
+  },
+  "mouseDictionary": {
+    "message": "माऊस शब्दकोश"
+  },
+  "premmium": {
+    "message": "प्रीमियम"
+  },
+  "highSpeedLearning": {
+    "message": "हाय-स्पीड लर्निंग"
+  },
+  "pronunciation": {
+    "message": "उच्चार"
+  },
+  "sidebarTranslations": {
+    "message": "साइडबार भाषांतर"
+  },
+  "keyboardShortcuts": {
+    "message": "कीबोर्ड शॉर्टकट"
+  },
+  "toUseShortcuts": {
+    "message": "वापरण्यासाठी, प्रथम सेटिंग्जमधून शॉर्टकट सक्रिय करा"
+  },
+  "upgradeYourAccount": {
+    "message": "मशीन ट्रान्सलेशन वापरण्यासाठी तुमचे खाते अपग्रेड करा!"
+  },
+  "startYourFreeTrial": {
+    "message": "तुमची मोफत चाचणी सुरू करा"
+  },
+  "toAccessMachineTranslations": {
+    "message": "सर्व चित्रपटांसाठी मशीन भाषांतरांमध्ये प्रवेश करण्यासाठी"
+  },
+  "freeTrial": {
+    "message": "विनामूल्य चाचणी"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "कोरियन, जपानी, सरलीकृत चीनी आणि पारंपारिक चीनी भाषांसाठी ध्वन्यात्मक सक्षम/अक्षम करण्यासाठी सेटिंगवर जा किंवा खालील बटणावर क्लिक करा!"
+  },
+  "openMenu": {
+    "message": "मेनू उघडा"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "सबटायटल फाइल डाउनलोड करण्यासाठी लॉग इन करा!"
+  },
+  "loginForFree": {
+    "message": "मोफत लॉग इन करा"
+  },
+  "subscribe": {
+    "message": "सदस्यता घ्या"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "तुम्ही उपशीर्षके डाउनलोड करण्यासाठी तुमची दैनिक मर्यादा गाठली आहे. अधिक उपशीर्षके डाउनलोड करण्यासाठी तुमची विनामूल्य चाचणी घ्या!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "अरेरे! या व्हिडिओला सबटायटल्स नाहीत!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "कृपया तुमच्या खात्यात शब्द जतन करण्यासाठी लॉग इन करा"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "हे वैशिष्ट्य वापरण्यासाठी तुमची विनामूल्य चाचणी सुरू करा!"
+  },
+  "getYourTrialToUpload": {
+    "message": "उपशीर्षक अपलोड करण्यासाठी तुमची विनामूल्य चाचणी घ्या"
+  },
+  "loginToLearnPronunciation": {
+    "message": "प्रत्येक शब्दाचा अचूक उच्चार जाणून घेण्यासाठी लॉग इन करा"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "तुम्ही उच्चारासाठी तुमची दैनिक मर्यादा गाठली आहे. अमर्यादित शब्द ऐकण्यासाठी तुमची विनामूल्य चाचणी घ्या"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "शब्द जतन करण्यासाठी तुम्ही तुमची दैनंदिन मर्यादा गाठली आहे. अमर्यादित शब्द शिकण्यासाठी तुमची मोफत चाचणी घ्या"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "तुम्ही संपादनासाठी तुमची दैनिक मर्यादा गाठली आहे. अमर्यादित संपादनांसाठी तुमची विनामूल्य चाचणी मिळवा"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "तुम्ही तुमच्या सदस्यत्वामध्ये अधिक अचूक अर्थ पाहू शकता!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "लक्ष्य उपशीर्षक दर्शविण्यासाठी/लपविण्यासाठी तुमची विनामूल्य चाचणी घ्या"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "दुय्यम उपशीर्षक दर्शविण्यासाठी/लपविण्यासाठी तुमची विनामूल्य चाचणी घ्या"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "दुय्यम उपशीर्षक दर्शविण्यासाठी/लपविण्यासाठी तुमची विनामूल्य चाचणी घ्या"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "यावर आधारित जतन केलेले शब्द फिल्टर करण्यासाठी लॉग इन करा"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "यावर आधारित जतन केलेले शब्द फिल्टर करण्यासाठी तुमची विनामूल्य चाचणी मिळवा"
+  },
+  "haveProblem": {
+    "message": "तुम्हाला समस्या असल्यास, कृपया साइन आउट करा आणि पुन्हा साइन इन करा"
+  },
+  "date": {
+    "message": "तारीख"
+  },
+  "video": {
+    "message": "व्हिडिओ"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "उपशीर्षकांचा रंग ठेवण्यासाठी लॉग इन करा!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "सबटायटल्सची अपारदर्शकता जतन करण्यासाठी लॉग इन करा!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "सबटायटल्सचा फॉन्ट आकार जतन करण्यासाठी लॉग इन करा!"
+  },
+  "loginToExportSubtitles": {
+    "message": "कृपया सबटायटल डाउनलोड करण्यासाठी लॉग इन करा!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "जतन केलेले शब्द डाउनलोड करण्यासाठी लॉग इन करा"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "सेव्ह केलेले शब्द डाउनलोड करण्यासाठी तुमची मोफत चाचणी घ्या"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "व्हिडिओवर आधारित सेव्ह केलेल्या वाक्यासाठी तुमची मोफत चाचणी मिळवा"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "तिसरे उपशीर्षक म्हणून मशीन भाषांतरांमध्ये प्रवेश करण्यासाठी तुमची विनामूल्य चाचणी घ्या."
+  },
+  "synchronize": {
+    "message": "सिंक्रोनाइझ करा"
+  },
+  "settings": {
+    "message": "सेटिंग्ज"
+  },
+  "moreActions": {
+    "message": "अधिक क्रिया"
+  },
+  "openSidebar": {
+    "message": "साइडबार उघडा"
+  },
+  "moreSettingsButton": {
+    "message": "प्रगत सेटिंग्ज"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "उपशीर्षके/CC"
+  }
+}

@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "NetflixとYouTube™による語学学習"
+  },
+  "manifestAppDesc": {
+    "message": "Netflix拡張機能（LLN）を使用した言語学習とYouTube（LLY）を使用した言語学習"
+  },
+  "appName": {
+    "message": "LLNYで言語を学ぶ！"
+  },
+  "appDesc": {
+    "message": "Netflix拡張機能を使用した語学学習により、あなたの生活がはるかに楽になり、より楽しくなります"
+  },
+  "upper": {
+    "message": "アッパー"
+  },
+  "lower": {
+    "message": "低い"
+  },
+  "disableTestModeTitle": {
+    "message": "テストモードを無効にする"
+  },
+  "disableTestModeDescription": {
+    "message": "Netflixは、Netflixでの語学学習が正しく機能しない原因となる可能性のあるテストを実行することがあります。 問題を回避するために、\nNetflixテストへの参加をオフにすることをお勧めします。 それは簡単です："
+  },
+  "disableTestModeButton": {
+    "message": "テストを無効にする"
+  },
+  "lowerSelectBox": {
+    "message": "下位字幕言語:"
+  },
+  "okayButton": {
+    "message": "わかった"
+  },
+  "closeButton": {
+    "message": "選ぶ"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNYダウンロード字幕"
+  },
+  "chooseOneFormat": {
+    "message": "1つの形式を選択してください："
+  },
+  "onePerDayForFree": {
+    "message": "1日1回無料"
+  },
+  "loading": {
+    "message": "読み込み中"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY-母国語"
+  },
+  "hello": {
+    "message": "こんにちは"
+  },
+  "pleaseSelectYour": {
+    "message": "を選択してください"
+  },
+  "upperSubtitles": {
+    "message": "上部字幕"
+  },
+  "targetLanguage": {
+    "message": "目標とする言語"
+  },
+  "lowerSubtitles": {
+    "message": "字幕を下げる"
+  },
+  "motherLanguage": {
+    "message": "母国語"
+  },
+  "translationLanguage": {
+    "message": "翻訳言語"
+  },
+  "anyProblemInFunctionality": {
+    "message": "この拡張機能の機能の問題は、簡単な更新で解決できます"
+  },
+  "signInForFree": {
+    "message": "無料でサインイン"
+  },
+  "speedUpLanguageLearning": {
+    "message": "言語学習をスピードアップ"
+  },
+  "subtitles": {
+    "message": "字幕"
+  },
+  "words": {
+    "message": "言葉"
+  },
+  "help": {
+    "message": "ヘルプ"
+  },
+  "saveWordMeaning": {
+    "message": "単語を右クリックすると、その単語の意味を保存できます"
+  },
+  "always": {
+    "message": "いつも"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "このビデオの言葉だけ？"
+  },
+  "exportAs": {
+    "message": "としてダウンロード"
+  },
+  "file": {
+    "message": "ファイル"
+  },
+  "howToChangeSubtitles": {
+    "message": "字幕の言語を変更する方法"
+  },
+  "howToTranslateWord": {
+    "message": "単語の翻訳方法"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "元の字幕にマウスを合わせる"
+  },
+  "howToSaveWords": {
+    "message": "言葉を保存する方法"
+  },
+  "clickAnyWordOnThe": {
+    "message": "元の字幕の任意の単語をクリックしてから、"
+  },
+  "sign": {
+    "message": "サイン"
+  },
+  "howToSaveSentence": {
+    "message": "文章を保存する方法"
+  },
+  "clickOnThe": {
+    "message": "クリックしてください"
+  },
+  "clickOnLanguageTab": {
+    "message": "設定アイコンをクリックし、[言語]タブをクリックして、適切なセレクターを見つけます"
+  },
+  "signAtTheEndOfSentence": {
+    "message": "好きな文の最後に署名する"
+  },
+  "howToExportWords": {
+    "message": "単語をダウンロードする方法"
+  },
+  "clickOnSettingButton": {
+    "message": "設定ボタンをクリックしてください"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "プレーヤーの下部にある[ファイルのダウンロード]ボタンをクリックして、テキストファイルをダウンロードします"
+  },
+  "howToPronounceWords": {
+    "message": "単語の発音の仕方"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "元の字幕の任意の単語をクリックするだけです"
+  },
+  "uploadSubtitle": {
+    "message": "字幕をアップロードする"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "アップロードされた字幕の言語："
+  },
+  "delaySubtitles": {
+    "message": "字幕を遅らせる"
+  },
+  "decrease": {
+    "message": "下降"
+  },
+  "increase": {
+    "message": "増加"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "クリックして上部字幕を選択"
+  },
+  "mainSubtitles": {
+    "message": "主な字幕"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "クリックして下の字幕を選択します"
+  },
+  "translateSubtitles": {
+    "message": "字幕を翻訳する"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "上位字幕言語："
+  },
+  "settngsMenuHeader": {
+    "message": "LLNY設定メニュー"
+  },
+  "appearance": {
+    "message": "外観"
+  },
+  "tools": {
+    "message": "ツール"
+  },
+  "shortcuts": {
+    "message": "ショートカット"
+  },
+  "rateUs": {
+    "message": "私たちを評価してください"
+  },
+  "account": {
+    "message": "アカウント"
+  },
+  "languages": {
+    "message": "言語"
+  },
+  "showHide": {
+    "message": "表示/非表示"
+  },
+  "fontSize": {
+    "message": "フォントサイズ"
+  },
+  "color": {
+    "message": "色"
+  },
+  "download": {
+    "message": "ダウンロード"
+  },
+  "thirdSubtitle": {
+    "message": "3番目の字幕"
+  },
+  "machineTranslate": {
+    "message": "機械翻訳"
+  },
+  "hoverDictionary": {
+    "message": "マウス辞書"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "字幕の背景色"
+  },
+  "choose": {
+    "message": "選ぶ"
+  },
+  "blur": {
+    "message": "ぼかし"
+  },
+  "show": {
+    "message": "公演"
+  },
+  "hide": {
+    "message": "隠れる"
+  },
+  "bothLanguages": {
+    "message": "Both Languages"
+  },
+  "sidebarSubtitles": {
+    "message": "両方の言語"
+  },
+  "phonetics": {
+    "message": "音声学"
+  },
+  "no": {
+    "message": "いいえ"
+  },
+  "and": {
+    "message": "と"
+  },
+  "original": {
+    "message": "ふりがななし"
+  },
+  "romanji": {
+    "message": "ろまんじ"
+  },
+  "hirgana": {
+    "message": "ヒルガナ"
+  },
+  "wordPronunciation": {
+    "message": "単語の発音"
+  },
+  "speed": {
+    "message": "スピード"
+  },
+  "stop": {
+    "message": "止まる"
+  },
+  "automaticStopAfterSentence": {
+    "message": "各文の後に自動停止"
+  },
+  "theButton": {
+    "message": "ボタン"
+  },
+  "autoStopAfterTime": {
+    "message": "時間後に自動停止および開始"
+  },
+  "autoStopWithSpace": {
+    "message": "スペースで自動停止および開始"
+  },
+  "videoPause": {
+    "message": "ビデオの一時停止"
+  },
+  "time": {
+    "message": "時間"
+  },
+  "downloadWords": {
+    "message": "Wordsをダウンロード"
+  },
+  "enableDisable": {
+    "message": "有効/無効"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "再生速度を遅くする"
+  },
+  "normalPlaybackSpeed": {
+    "message": "通常の再生速度"
+  },
+  "speedUpPlayBack": {
+    "message": "再生をスピードアップ"
+  },
+  "saveCurrentSubtitles": {
+    "message": "現在の字幕を保存する"
+  },
+  "backward": {
+    "message": "後方"
+  },
+  "forward": {
+    "message": "前方"
+  },
+  "previousSentence": {
+    "message": "前文"
+  },
+  "repeatSentence": {
+    "message": "文を繰り返す"
+  },
+  "nextSentence": {
+    "message": "次の文"
+  },
+  "unlimitedRepeat": {
+    "message": "無制限の繰り返し"
+  },
+  "playPause": {
+    "message": "再生/一時停止"
+  },
+  "beGenerousUser": {
+    "message": "ここにレビューを書くことで寛大なユーザーになることができます。 ありがとう！"
+  },
+  "writeReview": {
+    "message": "レビューを書く"
+  },
+  "tweetAboutUs": {
+    "message": "私たちについてツイートする"
+  },
+  "reportBug": {
+    "message": "バグを報告する"
+  },
+  "askForNew": {
+    "message": "新しいものを求める"
+  },
+  "signOut": {
+    "message": "サインアウト"
+  },
+  "version": {
+    "message": "バージョン"
+  },
+  "translations": {
+    "message": "翻訳"
+  },
+  "saved": {
+    "message": "保存しました"
+  },
+  "export": {
+    "message": "ダウンロード"
+  },
+  "bothSubtitles": {
+    "message": "両方の字幕"
+  },
+  "exportSaveWords": {
+    "message": "保存した単語をダウンロードする"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "ビデオの設定でこの言語を変更できます"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "この言語は、拡張機能の設定で変更できます"
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "字幕付きの動画を検索する"
+  },
+  "andTranslationOfItIs": {
+    "message": "そしてそれの翻訳"
+  },
+  "note": {
+    "message": "ノート"
+  },
+  "edit": {
+    "message": "編集"
+  },
+  "toChangeShareContent": {
+    "message": "共有コンテンツを変更するには"
+  },
+  "discardChanges": {
+    "message": "変更を破棄"
+  },
+  "primarySubtitle": {
+    "message": "プライマリ字幕"
+  },
+  "translation": {
+    "message": "翻訳"
+  },
+  "saveChanges": {
+    "message": "変更内容を保存"
+  },
+  "share": {
+    "message": "シェア"
+  },
+  "loadingMainSubtitles": {
+    "message": "主な字幕を読み込んでいます"
+  },
+  "youtubeMenu": {
+    "message": "YouTubeメニュー"
+  },
+  "off": {
+    "message": "オフ"
+  },
+  "mouseDictionary": {
+    "message": "マウス辞書"
+  },
+  "premmium": {
+    "message": "プレミアム"
+  },
+  "highSpeedLearning": {
+    "message": "高速学習"
+  },
+  "pronunciation": {
+    "message": "発音"
+  },
+  "sidebarTranslations": {
+    "message": "サイドバーの翻訳"
+  },
+  "keyboardShortcuts": {
+    "message": "キーボードショートカット"
+  },
+  "toUseShortcuts": {
+    "message": "使用するには、最初に設定からショートカットをアクティブにします"
+  },
+  "upgradeYourAccount": {
+    "message": "機械翻訳を使用するには、アカウントをアップグレードしてください。"
+  },
+  "startYourFreeTrial": {
+    "message": "無料トライアルを開始する"
+  },
+  "toAccessMachineTranslations": {
+    "message": "すべての映画の機械翻訳にアクセスするには"
+  },
+  "freeTrial": {
+    "message": "無料トライアル"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "韓国語、日本語、簡体字中国語、繁体字中国語の音声を有効/無効にするには、設定に移動するか、下のボタンをクリックしてください。"
+  },
+  "openMenu": {
+    "message": "メニューを開く"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "ログインして字幕ファイルをダウンロード！"
+  },
+  "loginForFree": {
+    "message": "無料でログイン"
+  },
+  "subscribe": {
+    "message": "申し込む"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "字幕のダウンロードの1日あたりの制限に達しました。 より多くの字幕をダウンロードするための無料トライアルを入手してください！"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "おっと！ このビデオには字幕がありません！"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "ログインしてアカウントに単語を保存してください"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "この機能を使用するための無料トライアルを開始してください！"
+  },
+  "getYourTrialToUpload": {
+    "message": "字幕をアップロードするための無料トライアルを入手"
+  },
+  "loginToLearnPronunciation": {
+    "message": "ログインして、各単語の正確な発音を確認してください"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "1日の発音制限に達しました。 無制限の数の単語を聞くための無料トライアルを入手してください"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "単語を保存するための1日の制限に達しました。 無制限の数の単語を学ぶための無料トライアルを入手してください"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "1日の編集制限に達しました。 無制限の編集数で無料トライアルを入手"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "サブスクリプションでより正確な意味を確認できます。"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "無料トライアルを取得して、ターゲットの字幕を表示/非表示にします"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "無料試用版を入手して、セカンダリ字幕を表示/非表示にします"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "無料試用版を入手して、セカンダリ字幕を表示/非表示にします"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "ログインして、保存された単語をに基づいてフィルタリングします"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "無料トライアルを取得して、保存された単語をに基づいてフィルタリングします"
+  },
+  "haveProblem": {
+    "message": "問題がある場合は、サインアウトしてから再度サインインしてください"
+  },
+  "date": {
+    "message": "日にち"
+  },
+  "video": {
+    "message": "ビデオ"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "字幕の色を保つためにログインしてください！"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "ログインして字幕の不透明度を保存してください！"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "ログインして字幕のフォントサイズを保存してください！"
+  },
+  "loginToExportSubtitles": {
+    "message": "ログインして字幕をダウンロードしてください！"
+  },
+  "loginToSavedWordsAs": {
+    "message": "ログインして、保存された単語を次のようにダウンロードします"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "保存した単語を次のようにダウンロードするには、無料トライアルを入手してください"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "ビデオに基づいて保存された文を無料で試用できます"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "3番目のサブタイトルとしてマシン翻訳にアクセスするための無料トライアルを入手してください。"
+  },
+  "synchronize": {
+    "message": "同期する"
+  },
+  "settings": {
+    "message": "設定"
+  },
+  "moreActions": {
+    "message": "その他の操作"
+  },
+  "openSidebar": {
+    "message": "サイドバーを開く"
+  },
+  "moreSettingsButton": {
+    "message": "詳細設定"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "字幕/CC"
+  }
+}

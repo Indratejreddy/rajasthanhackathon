@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Nyelvtanulás a Netflix és a YouTube™ segítségével"
+  },
+  "manifestAppDesc": {
+    "message": "Nyelvtanulás a Netflix kiterjesztéssel (LLN) & Nyelvtanulás a YouTube-on (LLY)"
+  },
+  "appName": {
+    "message": "Nyelvtanulás az LLNY-vel!"
+  },
+  "appDesc": {
+    "message": "A nyelvtanulás a Netflix kiterjesztéssel sokkal könnyebbé és szórakoztatóbbá teszi az életed"
+  },
+  "upper": {
+    "message": "Felső"
+  },
+  "lower": {
+    "message": "Alsó"
+  },
+  "disableTestModeTitle": {
+    "message": "Teszt üzemmód kikapcsolása"
+  },
+  "disableTestModeDescription": {
+    "message": "A Netflix néha olyan teszteket futtat, amelyek miatt a Nyelvtanulás a Netflixszel nem működik megfelelően. A problémák elkerülése érdekében\njavasoljuk, hogy kapcsolja ki a Netflix teszteken való részvételt. Ez egyszerű:"
+  },
+  "disableTestModeButton": {
+    "message": "Tesztelés kikapcsolása"
+  },
+  "lowerSelectBox": {
+    "message": "Alsó felirat nyelv:"
+  },
+  "okayButton": {
+    "message": "Oké"
+  },
+  "closeButton": {
+    "message": "Bezárás"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY Download Subtitles"
+  },
+  "chooseOneFormat": {
+    "message": "Válasszon egyet Formátum:"
+  },
+  "onePerDayForFree": {
+    "message": "Naponta egy ingyen"
+  },
+  "loading": {
+    "message": "Betöltés"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - Anyanyelv"
+  },
+  "hello": {
+    "message": "Szia"
+  },
+  "pleaseSelectYour": {
+    "message": "Kérjük, válassza ki a"
+  },
+  "upperSubtitles": {
+    "message": "Felső felirat"
+  },
+  "targetLanguage": {
+    "message": "Célnyelv"
+  },
+  "lowerSubtitles": {
+    "message": "Alsó felirat"
+  },
+  "motherLanguage": {
+    "message": "Anyanyelv"
+  },
+  "translationLanguage": {
+    "message": "Fordítási nyelv"
+  },
+  "anyProblemInFunctionality": {
+    "message": "A bővítmény funkcionalitásával kapcsolatos bármilyen probléma megoldható egy egyszerű frissítéssel."
+  },
+  "signInForFree": {
+    "message": "Ingyenes bejelentkezés"
+  },
+  "speedUpLanguageLearning": {
+    "message": "Gyorsítsa fel a nyelvtanulást"
+  },
+  "subtitles": {
+    "message": "Feliratok"
+  },
+  "words": {
+    "message": "Szavak"
+  },
+  "help": {
+    "message": "Segítség"
+  },
+  "saveWordMeaning": {
+    "message": "Bármely szó jelentését elmentheti, ha jobb gombbal kattint rá."
+  },
+  "always": {
+    "message": "Mindig"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "A videó egyetlen szava?"
+  },
+  "exportAs": {
+    "message": "Letöltés mint"
+  },
+  "file": {
+    "message": "fájl"
+  },
+  "howToChangeSubtitles": {
+    "message": "A feliratok nyelvének megváltoztatása"
+  },
+  "howToTranslateWord": {
+    "message": "Hogyan kell lefordítani a szót"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "Vigye az egeret az eredeti feliratokra"
+  },
+  "howToSaveWords": {
+    "message": "Hogyan mentsük meg a szavakat"
+  },
+  "clickAnyWordOnThe": {
+    "message": "Csak kattintson az eredeti felirat bármelyik szavára, majd kattintson a"
+  },
+  "sign": {
+    "message": "jel"
+  },
+  "howToSaveSentence": {
+    "message": "Hogyan lehet megmenteni a mondatokat"
+  },
+  "clickOnThe": {
+    "message": "Kattintson a"
+  },
+  "clickOnLanguageTab": {
+    "message": "Kattintson a beállítás ikonra, majd a nyelv fülre, hogy megtalálja a megfelelő választót."
+  },
+  "signAtTheEndOfSentence": {
+    "message": "jelet bármely tetszőleges mondat végén"
+  },
+  "howToExportWords": {
+    "message": "Hogyan töltsön le szavakat"
+  },
+  "clickOnSettingButton": {
+    "message": "Kattintson a beállítás gombra"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "a lejátszó alján, majd kattintson a fájl letöltése gombra a szöveges fájl letöltéséhez."
+  },
+  "howToPronounceWords": {
+    "message": "Hogyan kell kiejteni a szavakat"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "Csak kattints az eredeti felirat bármelyik szavára"
+  },
+  "uploadSubtitle": {
+    "message": "Felirat feltöltése"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "A feltöltött feliratok nyelve:"
+  },
+  "delaySubtitles": {
+    "message": "Felirat késleltetése"
+  },
+  "decrease": {
+    "message": "Csökkentés"
+  },
+  "increase": {
+    "message": "Növelje a  címet."
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "Kattintson a Felső felirat kiválasztásához"
+  },
+  "mainSubtitles": {
+    "message": "Fő felirat"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "Kattintson a LOWER felirat kiválasztásához"
+  },
+  "translateSubtitles": {
+    "message": "Felirat lefordítása"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "Felső felirat nyelv:"
+  },
+  "settngsMenuHeader": {
+    "message": "LLNY beállítások menü"
+  },
+  "appearance": {
+    "message": "Megjelenés"
+  },
+  "tools": {
+    "message": "Eszközök"
+  },
+  "shortcuts": {
+    "message": "Rövidítések"
+  },
+  "rateUs": {
+    "message": "Értékelj minket"
+  },
+  "account": {
+    "message": "Számla"
+  },
+  "languages": {
+    "message": "Nyelvek"
+  },
+  "showHide": {
+    "message": "Megjelenítés/elrejtés"
+  },
+  "fontSize": {
+    "message": "Betűméret"
+  },
+  "color": {
+    "message": "Színes"
+  },
+  "download": {
+    "message": "Letöltés"
+  },
+  "thirdSubtitle": {
+    "message": "Harmadik felirat"
+  },
+  "machineTranslate": {
+    "message": "Gépi fordítás"
+  },
+  "hoverDictionary": {
+    "message": "Egér szótár"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "Felirat háttérszín"
+  },
+  "choose": {
+    "message": "Válasszon"
+  },
+  "blur": {
+    "message": "Elmosódás"
+  },
+  "show": {
+    "message": "Mutasd meg a"
+  },
+  "hide": {
+    "message": "Rejtsd el"
+  },
+  "bothLanguages": {
+    "message": "Mindkét nyelv"
+  },
+  "sidebarSubtitles": {
+    "message": "Oldalsávos feliratok"
+  },
+  "phonetics": {
+    "message": "Fonetika"
+  },
+  "no": {
+    "message": "Nem"
+  },
+  "and": {
+    "message": "és"
+  },
+  "original": {
+    "message": "Eredeti"
+  },
+  "romanji": {
+    "message": "Romanji"
+  },
+  "hirgana": {
+    "message": "Hirgana"
+  },
+  "wordPronunciation": {
+    "message": "Szó kiejtése"
+  },
+  "speed": {
+    "message": "Sebesség"
+  },
+  "stop": {
+    "message": "Állj meg"
+  },
+  "automaticStopAfterSentence": {
+    "message": "Automatikus leállítás minden mondat után"
+  },
+  "theButton": {
+    "message": "a gomb"
+  },
+  "autoStopAfterTime": {
+    "message": "Automatikus leállítás és indítás idő után"
+  },
+  "autoStopWithSpace": {
+    "message": "Automatikus leállítás és indítás a szóközzel"
+  },
+  "videoPause": {
+    "message": "Videó szünet"
+  },
+  "time": {
+    "message": "Idő"
+  },
+  "downloadWords": {
+    "message": "Szavak letöltése"
+  },
+  "enableDisable": {
+    "message": "Engedélyezés/letiltás"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "Lassítsa le a lejátszási sebességet"
+  },
+  "normalPlaybackSpeed": {
+    "message": "Normál lejátszási sebesség"
+  },
+  "speedUpPlayBack": {
+    "message": "Gyorsítsa fel a lejátszást"
+  },
+  "saveCurrentSubtitles": {
+    "message": "Jelenlegi feliratok mentése"
+  },
+  "backward": {
+    "message": "Visszafelé"
+  },
+  "forward": {
+    "message": "Előre"
+  },
+  "previousSentence": {
+    "message": "Előző mondat"
+  },
+  "repeatSentence": {
+    "message": "Ismételje meg a mondatot"
+  },
+  "nextSentence": {
+    "message": "Következő mondat"
+  },
+  "unlimitedRepeat": {
+    "message": "Korlátlan ismétlés"
+  },
+  "playPause": {
+    "message": "Lejátszás / szünet"
+  },
+  "beGenerousUser": {
+    "message": "Ön is nagylelkű felhasználó lehet, ha itt ír egy véleményt. Köszönöm!"
+  },
+  "writeReview": {
+    "message": "Írd meg a véleményed"
+  },
+  "tweetAboutUs": {
+    "message": "Tweet rólunk"
+  },
+  "reportBug": {
+    "message": "Hibák jelentése"
+  },
+  "askForNew": {
+    "message": "Kérjen újat"
+  },
+  "signOut": {
+    "message": "Jelentkezz ki"
+  },
+  "version": {
+    "message": "Verzió"
+  },
+  "translations": {
+    "message": "Fordítások"
+  },
+  "saved": {
+    "message": "Megmentett"
+  },
+  "export": {
+    "message": "Letöltés"
+  },
+  "bothSubtitles": {
+    "message": "Mindkét felirat"
+  },
+  "exportSaveWords": {
+    "message": "Mentett szavak letöltése"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "Ezt a nyelvet megváltoztathatja a videó beállításainál"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "Ezt a nyelvet a bővítmény beállításainál lehet megváltoztatni."
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "Feliratos videók keresése"
+  },
+  "andTranslationOfItIs": {
+    "message": "És a fordítása"
+  },
+  "note": {
+    "message": "Megjegyzés"
+  },
+  "edit": {
+    "message": "SZERKESZTÉS"
+  },
+  "toChangeShareContent": {
+    "message": "a Megosztás tartalmának megváltoztatásához"
+  },
+  "discardChanges": {
+    "message": "Változások eldobása"
+  },
+  "primarySubtitle": {
+    "message": "Elsődleges alcím"
+  },
+  "translation": {
+    "message": "Fordítás"
+  },
+  "saveChanges": {
+    "message": "Változások mentése"
+  },
+  "share": {
+    "message": "Megosztás"
+  },
+  "loadingMainSubtitles": {
+    "message": "Fő feliratok betöltése"
+  },
+  "youtubeMenu": {
+    "message": "YouTube menü"
+  },
+  "off": {
+    "message": "Ki"
+  },
+  "mouseDictionary": {
+    "message": "Egér szótár"
+  },
+  "premmium": {
+    "message": "Prémium"
+  },
+  "highSpeedLearning": {
+    "message": "Nagy sebességű tanulás"
+  },
+  "pronunciation": {
+    "message": "Kiejtés"
+  },
+  "sidebarTranslations": {
+    "message": "Oldalsávos fordítások"
+  },
+  "keyboardShortcuts": {
+    "message": "Billentyűzet gyorsbillentyűk"
+  },
+  "toUseShortcuts": {
+    "message": "A használathoz először aktiválja a parancsikonokat a beállításoknál"
+  },
+  "upgradeYourAccount": {
+    "message": "Frissítse fiókját a gépi fordítás használatához!"
+  },
+  "startYourFreeTrial": {
+    "message": "Kezdje el az INGYENES próbaverziót"
+  },
+  "toAccessMachineTranslations": {
+    "message": "a gépi fordítások eléréséhez minden filmhez"
+  },
+  "freeTrial": {
+    "message": "INGYENES próba"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "A koreai, japán, egyszerűsített kínai és hagyományos kínai nyelvek fonetikájának engedélyezéséhez/letiltásához menjen a beállításokhoz vagy kattintson az alábbi gombra!"
+  },
+  "openMenu": {
+    "message": "Menü megnyitása"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "Jelentkezz be a feliratos fájl letöltéséhez!"
+  },
+  "loginForFree": {
+    "message": "Bejelentkezés ingyenesen"
+  },
+  "subscribe": {
+    "message": "Feliratkozás"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "Elérte a napi felirat letöltési limitet. Szerezd meg az INGYENES próbaverziót a további feliratok letöltéséhez!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "Hoppá! Ez a videó nincs feliratozva!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "Kérjük, jelentkezzen be, hogy elmentse a szavakat a fiókjában"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "Indítsa el INGYENES próbaverzióját a funkció használatához!"
+  },
+  "getYourTrialToUpload": {
+    "message": "Szerezze be INGYENES próbaverzióját a Felirat feltöltéséhez"
+  },
+  "loginToLearnPronunciation": {
+    "message": "Jelentkezzen be, hogy megtanulja az egyes szavak pontos kiejtését"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "Elérte a napi kiejtési határát. Szerezd meg az INGYENES próbaverziót, hogy korlátlan számú szót hallhass"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "Elérte a napi szavak megtakarításának határát. Szerezd meg az INGYENES próbaverziót a korlátlan számú szó megtanulásához"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "Elérte a napi szerkesztési limitet. Szerezd meg az INGYENES próbaverziót korlátlan számú szerkesztéshez"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "Az előfizetésedben pontosabb jelentéseket láthatsz!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "Szerezze be INGYENES próbaverzióját a célzott felirat megjelenítéséhez/elrejtéséhez"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "Szerezze be INGYENES próbaverzióját a másodlagos felirat megjelenítéséhez/elrejtéséhez"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "Szerezze be INGYENES próbaverzióját a másodlagos felirat megjelenítéséhez/elrejtéséhez"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "Jelentkezzen be a mentett szavak szűréséhez az alábbiak alapján"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "Szerezze be az INGYENES próbaverziót a mentett szavak szűréséhez az alábbiak alapján"
+  },
+  "haveProblem": {
+    "message": "Ha problémája van, kérjük, jelentkezzen ki és jelentkezzen be újra"
+  },
+  "date": {
+    "message": "dátum"
+  },
+  "video": {
+    "message": "videó"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "Jelentkezz be, hogy megtartsd a feliratok színét!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "Jelentkezz be, hogy megmentsd a feliratok átlátszatlanságát!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "Jelentkezzen be a feliratok betűméretének mentéséhez!"
+  },
+  "loginToExportSubtitles": {
+    "message": "Kérjük, jelentkezzen be a feliratok letöltéséhez!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "Jelentkezzen be a mentett szavak letöltéséhez"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "Szerezd meg az INGYENES próbaverziót a mentett szavak letöltéséhez"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "Szerezze meg INGYENES próbaverzióját a videó alapján mentett mondathoz"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "Szerezze be az INGYENES próbaverziót, hogy hozzáférjen a gépi fordításokhoz harmadik feliratként."
+  },
+  "synchronize": {
+    "message": "Szinkronizálás"
+  },
+  "settings": {
+    "message": "Beállítások"
+  },
+  "moreActions": {
+    "message": "További műveletek"
+  },
+  "openSidebar": {
+    "message": "Oldalsáv megnyitása"
+  },
+  "moreSettingsButton": {
+    "message": "Speciális beállítások"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "Felirat/CC"
+  }
+}

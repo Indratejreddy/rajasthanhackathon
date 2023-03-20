@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Pembelajaran Bahasa dengan Netflix & YouTube™"
+  },
+  "manifestAppDesc": {
+    "message": "Pembelajaran Bahasa dengan sambungan Netflix (LLN) & Pembelajaran Bahasa dengan YouTube (LLY)"
+  },
+  "appName": {
+    "message": "Belajar Bahasa Dengan LLNY!"
+  },
+  "appDesc": {
+    "message": "Pembelajaran Bahasa dengan sambungan Netflix menjadikan hidup anda lebih mudah dan lebih menyeronokkan"
+  },
+  "upper": {
+    "message": "Atas"
+  },
+  "lower": {
+    "message": "Lebih rendah"
+  },
+  "disableTestModeTitle": {
+    "message": "Lumpuhkan Mod Ujian"
+  },
+  "disableTestModeDescription": {
+    "message": "Netflix kadangkala menjalankan ujian yang boleh menyebabkan Pembelajaran Bahasa dengan Netflix tidak berfungsi dengan betul. Untuk mengelakkan isu, kami\nsyorkan anda mematikan penyertaan ujian Netflix. Ia mudah:"
+  },
+  "disableTestModeButton": {
+    "message": "Lumpuhkan Ujian"
+  },
+  "lowerSelectBox": {
+    "message": "Bahasa Sari Kata Rendah:"
+  },
+  "okayButton": {
+    "message": "baik"
+  },
+  "closeButton": {
+    "message": "tutup"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY Muat Turun Sarikata"
+  },
+  "chooseOneFormat": {
+    "message": "Pilih satu Format:"
+  },
+  "onePerDayForFree": {
+    "message": "Satu sehari secara percuma"
+  },
+  "loading": {
+    "message": "Memuatkan"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - Bahasa Asli"
+  },
+  "hello": {
+    "message": "Hello"
+  },
+  "pleaseSelectYour": {
+    "message": "Sila pilih anda"
+  },
+  "upperSubtitles": {
+    "message": "Sarikata Atas"
+  },
+  "targetLanguage": {
+    "message": "Bahasa sasaran"
+  },
+  "lowerSubtitles": {
+    "message": "Sarikata Rendah"
+  },
+  "motherLanguage": {
+    "message": "Bahasa ibunda"
+  },
+  "translationLanguage": {
+    "message": "Bahasa Terjemahan"
+  },
+  "anyProblemInFunctionality": {
+    "message": "Sebarang masalah dalam kefungsian sambungan ini boleh diselesaikan dengan penyegaran mudah"
+  },
+  "signInForFree": {
+    "message": "Log masuk secara Percuma"
+  },
+  "speedUpLanguageLearning": {
+    "message": "Percepatkan pembelajaran bahasa"
+  },
+  "subtitles": {
+    "message": "Sari kata"
+  },
+  "words": {
+    "message": "perkataan"
+  },
+  "help": {
+    "message": "Tolong"
+  },
+  "saveWordMeaning": {
+    "message": "Anda boleh menyimpan makna mana-mana perkataan dengan mengklik kanan padanya"
+  },
+  "always": {
+    "message": "Sentiasa"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "Hanya perkataan video ini?"
+  },
+  "exportAs": {
+    "message": "Muat turun sebagai"
+  },
+  "file": {
+    "message": "fail"
+  },
+  "howToChangeSubtitles": {
+    "message": "Bagaimana untuk menukar bahasa sari kata"
+  },
+  "howToTranslateWord": {
+    "message": "Bagaimana untuk menterjemah perkataan"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "Tuding tetikus pada sari kata asal"
+  },
+  "howToSaveWords": {
+    "message": "Bagaimana untuk menyimpan perkataan"
+  },
+  "clickAnyWordOnThe": {
+    "message": "Cuma klik pada mana-mana perkataan sari kata asal, kemudian klik pada"
+  },
+  "sign": {
+    "message": "tanda"
+  },
+  "howToSaveSentence": {
+    "message": "Bagaimana untuk menyimpan ayat"
+  },
+  "clickOnThe": {
+    "message": "Klik pada"
+  },
+  "clickOnLanguageTab": {
+    "message": "Klik pada ikon tetapan, kemudian klik pada tab bahasa untuk mencari pemilih yang sesuai"
+  },
+  "signAtTheEndOfSentence": {
+    "message": "tandatangan di hujung mana-mana ayat yang anda suka"
+  },
+  "howToExportWords": {
+    "message": "Bagaimana untuk memuat turun perkataan"
+  },
+  "clickOnSettingButton": {
+    "message": "Klik pada butang tetapan"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "di bahagian bawah pemain, kemudian klik pada butang muat turun fail untuk memuat turun fail teks"
+  },
+  "howToPronounceWords": {
+    "message": "Bagaimana untuk menyebut perkataan"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "Hanya klik pada mana-mana perkataan sari kata asal"
+  },
+  "uploadSubtitle": {
+    "message": "Muat Naik Sarikata"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "Bahasa sari kata yang dimuat naik:"
+  },
+  "delaySubtitles": {
+    "message": "Tangguhkan Sarikata"
+  },
+  "decrease": {
+    "message": "Kurangkan"
+  },
+  "increase": {
+    "message": "Meningkat"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "Klik untuk Pilih Sarikata ATAS"
+  },
+  "mainSubtitles": {
+    "message": "Sarikata Utama"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "Klik untuk Pilih Sarikata yang LEBIH RENDAH"
+  },
+  "translateSubtitles": {
+    "message": "Terjemah Sarikata"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "Bahasa Sari Kata Atas:"
+  },
+  "settngsMenuHeader": {
+    "message": "Menu Tetapan LLNY"
+  },
+  "appearance": {
+    "message": "Penampilan"
+  },
+  "tools": {
+    "message": "Alatan"
+  },
+  "shortcuts": {
+    "message": "Jalan pintas"
+  },
+  "rateUs": {
+    "message": "Nilaikan Kami"
+  },
+  "account": {
+    "message": "Akaun"
+  },
+  "languages": {
+    "message": "Bahasa"
+  },
+  "showHide": {
+    "message": "Tunjukkan/Sembunyikan"
+  },
+  "fontSize": {
+    "message": "Saiz huruf"
+  },
+  "color": {
+    "message": "Warna"
+  },
+  "download": {
+    "message": "Muat turun"
+  },
+  "thirdSubtitle": {
+    "message": "Sarikata Ketiga"
+  },
+  "machineTranslate": {
+    "message": "Terjemahan Mesin"
+  },
+  "hoverDictionary": {
+    "message": "Kamus Tikus"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "Sari Kata Warna Latar Belakang"
+  },
+  "choose": {
+    "message": "pilih"
+  },
+  "blur": {
+    "message": "Kabur"
+  },
+  "show": {
+    "message": "Tunjukkan"
+  },
+  "hide": {
+    "message": "Sembunyi"
+  },
+  "bothLanguages": {
+    "message": "Kedua-dua Bahasa"
+  },
+  "sidebarSubtitles": {
+    "message": "Sari kata bar sisi"
+  },
+  "phonetics": {
+    "message": "Fonetik"
+  },
+  "no": {
+    "message": "Tidak"
+  },
+  "and": {
+    "message": "dan"
+  },
+  "original": {
+    "message": "Asal"
+  },
+  "romanji": {
+    "message": "Romanji"
+  },
+  "hirgana": {
+    "message": "Hirgana"
+  },
+  "wordPronunciation": {
+    "message": "Sebutan perkataan"
+  },
+  "speed": {
+    "message": "Kelajuan"
+  },
+  "stop": {
+    "message": "Berhenti"
+  },
+  "automaticStopAfterSentence": {
+    "message": "Berhenti Automatik Selepas setiap Ayat"
+  },
+  "theButton": {
+    "message": "butang"
+  },
+  "autoStopAfterTime": {
+    "message": "Auto Berhenti dan Mula selepas Masa"
+  },
+  "autoStopWithSpace": {
+    "message": "Auto Berhenti dan Mulakan dengan Ruang"
+  },
+  "videoPause": {
+    "message": "Jeda Video"
+  },
+  "time": {
+    "message": "Masa"
+  },
+  "downloadWords": {
+    "message": "Muat turun Perkataan"
+  },
+  "enableDisable": {
+    "message": "Membolehkan melumpuhkan"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "Perlahankan kelajuan main balik"
+  },
+  "normalPlaybackSpeed": {
+    "message": "Kelajuan main balik biasa"
+  },
+  "speedUpPlayBack": {
+    "message": "Percepatkan main balik"
+  },
+  "saveCurrentSubtitles": {
+    "message": "Simpan sari kata semasa"
+  },
+  "backward": {
+    "message": "Ke belakang"
+  },
+  "forward": {
+    "message": "ke hadapan"
+  },
+  "previousSentence": {
+    "message": "Ayat sebelumnya"
+  },
+  "repeatSentence": {
+    "message": "Ulang ayat"
+  },
+  "nextSentence": {
+    "message": "Ayat seterusnya"
+  },
+  "unlimitedRepeat": {
+    "message": "Ulangan tanpa had"
+  },
+  "playPause": {
+    "message": "Main / Jeda"
+  },
+  "beGenerousUser": {
+    "message": "Anda boleh menjadi pengguna yang murah hati dengan menulis ulasan di sini. Terima kasih!"
+  },
+  "writeReview": {
+    "message": "Menulis ulasan"
+  },
+  "tweetAboutUs": {
+    "message": "Tweet tentang kami"
+  },
+  "reportBug": {
+    "message": "Laporkan Pepijat"
+  },
+  "askForNew": {
+    "message": "Minta yang baru"
+  },
+  "signOut": {
+    "message": "Log Keluar"
+  },
+  "version": {
+    "message": "Versi"
+  },
+  "translations": {
+    "message": "Terjemahan"
+  },
+  "saved": {
+    "message": "Disimpan"
+  },
+  "export": {
+    "message": "Muat turun"
+  },
+  "bothSubtitles": {
+    "message": "Kedua-dua sari kata"
+  },
+  "exportSaveWords": {
+    "message": "Muat turun perkataan yang disimpan"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "Anda boleh menukar bahasa ini pada tetapan video"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "Anda boleh menukar bahasa ini pada tetapan sambungan"
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "Cari video dengan sari kata"
+  },
+  "andTranslationOfItIs": {
+    "message": "Dan terjemahannya"
+  },
+  "note": {
+    "message": "Catatan"
+  },
+  "edit": {
+    "message": "EDIT"
+  },
+  "toChangeShareContent": {
+    "message": "untuk menukar Kongsi kandungan"
+  },
+  "discardChanges": {
+    "message": "Membuang perubahan"
+  },
+  "primarySubtitle": {
+    "message": "Sarikata Utama"
+  },
+  "translation": {
+    "message": "Terjemahan"
+  },
+  "saveChanges": {
+    "message": "Simpan Perubahan"
+  },
+  "share": {
+    "message": "Kongsi"
+  },
+  "loadingMainSubtitles": {
+    "message": "Memuatkan sari kata Utama"
+  },
+  "youtubeMenu": {
+    "message": "Menu YouTube"
+  },
+  "off": {
+    "message": "Mati"
+  },
+  "mouseDictionary": {
+    "message": "kamus tetikus"
+  },
+  "premmium": {
+    "message": "Premium"
+  },
+  "highSpeedLearning": {
+    "message": "Pembelajaran berkelajuan tinggi"
+  },
+  "pronunciation": {
+    "message": "Sebutan"
+  },
+  "sidebarTranslations": {
+    "message": "Terjemahan Bar Sisi"
+  },
+  "keyboardShortcuts": {
+    "message": "Pintasan Papan Kekunci"
+  },
+  "toUseShortcuts": {
+    "message": "Untuk menggunakan, mula-mula aktifkan pintasan daripada tetapan"
+  },
+  "upgradeYourAccount": {
+    "message": "Tingkatkan akaun anda untuk menggunakan Terjemahan Mesin!"
+  },
+  "startYourFreeTrial": {
+    "message": "Mulakan percubaan PERCUMA anda"
+  },
+  "toAccessMachineTranslations": {
+    "message": "untuk mengakses terjemahan mesin untuk semua filem"
+  },
+  "freeTrial": {
+    "message": "Cubaan percuma"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "Untuk mendayakan/melumpuhkan fonetik bahasa Korea, Jepun, Cina Ringkas dan Cina Tradisional pergi ke tetapan atau klik butang di bawah!"
+  },
+  "openMenu": {
+    "message": "Buka Menu"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "Log masuk untuk memuat turun fail sari kata!"
+  },
+  "loginForFree": {
+    "message": "Log masuk secara Percuma"
+  },
+  "subscribe": {
+    "message": "Langgan"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "Anda telah mencapai had harian anda untuk memuat turun sari kata. Dapatkan percubaan PERCUMA anda untuk memuat turun lebih banyak sari kata!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "Aduh! Video ini tiada sarikata!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "Sila log masuk untuk menyimpan perkataan dalam akaun anda"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "Mulakan percubaan PERCUMA anda untuk menggunakan ciri ini!"
+  },
+  "getYourTrialToUpload": {
+    "message": "Dapatkan percubaan PERCUMA anda untuk Muat Naik Sarikata"
+  },
+  "loginToLearnPronunciation": {
+    "message": "Log masuk untuk mengetahui sebutan yang tepat bagi setiap perkataan"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "Anda telah mencapai had harian anda untuk sebutan. Dapatkan percubaan PERCUMA anda untuk mendengar bilangan perkataan tanpa had"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "Anda telah mencapai had harian anda untuk menyimpan perkataan. Dapatkan percubaan PERCUMA anda untuk mempelajari bilangan perkataan tanpa had"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "Anda telah mencapai had harian anda untuk mengedit. Dapatkan percubaan PERCUMA anda dengan jumlah suntingan tanpa had"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "Anda boleh melihat makna yang lebih tepat dalam langganan anda!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "Dapatkan percubaan PERCUMA anda untuk menunjukkan/menyembunyikan Sarikata sasaran"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "Dapatkan percubaan PERCUMA anda untuk menunjukkan/menyembunyikan Sari Kata Menengah"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "Dapatkan percubaan PERCUMA anda untuk menunjukkan/menyembunyikan Sari Kata Menengah"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "Log masuk untuk menapis perkataan yang disimpan berdasarkan"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "Dapatkan percubaan PERCUMA anda untuk menapis perkataan yang disimpan berdasarkan"
+  },
+  "haveProblem": {
+    "message": "Jika anda menghadapi masalah, Sila Log Keluar dan Log masuk semula"
+  },
+  "date": {
+    "message": "Tarikh"
+  },
+  "video": {
+    "message": "video"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "Log masuk untuk mengekalkan warna sari kata!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "Log masuk untuk menyimpan kelegapan sari kata!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "Log masuk untuk menyimpan saiz fon sari kata!"
+  },
+  "loginToExportSubtitles": {
+    "message": "Sila log masuk untuk memuat turun sari kata!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "Log masuk untuk memuat turun perkataan yang disimpan sebagai"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "Dapatkan percubaan PERCUMA anda untuk memuat turun perkataan yang disimpan sebagai"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "Dapatkan percubaan PERCUMA anda untuk ayat yang disimpan berdasarkan video"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "Dapatkan percubaan PERCUMA anda untuk mengakses terjemahan mesin sebagai sari kata ketiga."
+  },
+  "synchronize": {
+    "message": "Segerakkan"
+  },
+  "settings": {
+    "message": "tetapan"
+  },
+  "moreActions": {
+    "message": "Lebih aksi"
+  },
+  "openSidebar": {
+    "message": "Buka Sidebar"
+  },
+  "moreSettingsButton": {
+    "message": "Tetapan lanjutan"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "Sari kata/CC"
+  }
+}

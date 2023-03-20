@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Kalbų mokymasis su Netflix ir YouTube™"
+  },
+  "manifestAppDesc": {
+    "message": "Kalbų mokymasis su Netflix plėtiniu (LLN) ir kalbų mokymasis su YouTube (LLY)"
+  },
+  "appName": {
+    "message": "Kalbos mokymasis su LLNY!"
+  },
+  "appDesc": {
+    "message": "Kalbų mokymasis su Netflix plėtiniu palengvina jūsų gyvenimą ir suteikia daugiau džiaugsmo"
+  },
+  "upper": {
+    "message": "Viršutinis"
+  },
+  "lower": {
+    "message": "Žemiau"
+  },
+  "disableTestModeTitle": {
+    "message": "Išjungti bandomąjį režimą"
+  },
+  "disableTestModeDescription": {
+    "message": "Netflix kartais atlieka testus, dėl kurių Language Learning with Netflix gali tinkamai neveikti. Kad išvengtumėte problemų\nrekomenduojame išjungti Netflix dalyvavimą testuose. Tai paprasta:"
+  },
+  "disableTestModeButton": {
+    "message": "Išjungti testavimą"
+  },
+  "lowerSelectBox": {
+    "message": "Žemesnė subtitrų kalba:"
+  },
+  "okayButton": {
+    "message": "Gerai"
+  },
+  "closeButton": {
+    "message": "Uždaryti"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY Atsisiųsti subtitrus"
+  },
+  "chooseOneFormat": {
+    "message": "Pasirinkite vieną formatą:"
+  },
+  "onePerDayForFree": {
+    "message": "Po vieną per dieną nemokamai"
+  },
+  "loading": {
+    "message": "Pakrovimas"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - Gimtoji kalba"
+  },
+  "hello": {
+    "message": "Sveiki"
+  },
+  "pleaseSelectYour": {
+    "message": "Pasirinkite savo"
+  },
+  "upperSubtitles": {
+    "message": "Viršutiniai subtitrai"
+  },
+  "targetLanguage": {
+    "message": "Tikslinė kalba"
+  },
+  "lowerSubtitles": {
+    "message": "Apatiniai subtitrai"
+  },
+  "motherLanguage": {
+    "message": "Gimtoji kalba"
+  },
+  "translationLanguage": {
+    "message": "Vertimo kalba"
+  },
+  "anyProblemInFunctionality": {
+    "message": "Bet kokią šio plėtinio funkcionalumo problemą galima išspręsti paprasčiausiu atnaujinimu."
+  },
+  "signInForFree": {
+    "message": "Prisijunkite nemokamai"
+  },
+  "speedUpLanguageLearning": {
+    "message": "Pagreitinkite kalbos mokymąsi"
+  },
+  "subtitles": {
+    "message": "Subtitrai"
+  },
+  "words": {
+    "message": "Žodžiai"
+  },
+  "help": {
+    "message": "Pagalba"
+  },
+  "saveWordMeaning": {
+    "message": "Bet kurio žodžio reikšmę galite išsaugoti spustelėję ant jo dešiniuoju pelės klavišu."
+  },
+  "always": {
+    "message": "Visada"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "Tik šio vaizdo įrašo žodžiai?"
+  },
+  "exportAs": {
+    "message": "Atsisiųsti kaip"
+  },
+  "file": {
+    "message": "failas"
+  },
+  "howToChangeSubtitles": {
+    "message": "Kaip pakeisti subtitrų kalbą"
+  },
+  "howToTranslateWord": {
+    "message": "Kaip išversti žodį "
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "Užveskite pelę ant originalių subtitrų"
+  },
+  "howToSaveWords": {
+    "message": "Kaip išsaugoti žodžius"
+  },
+  "clickAnyWordOnThe": {
+    "message": "Tiesiog spustelėkite bet kurį originalių subtitrų žodį, tada spustelėkite"
+  },
+  "sign": {
+    "message": "ženklas"
+  },
+  "howToSaveSentence": {
+    "message": "Kaip išsaugoti sakinius"
+  },
+  "clickOnThe": {
+    "message": "Spustelėkite"
+  },
+  "clickOnLanguageTab": {
+    "message": "Spustelėkite nustatymų piktogramą, tada spustelėkite skirtuką Kalba ir raskite reikiamą parinktuvą"
+  },
+  "signAtTheEndOfSentence": {
+    "message": "ženklas bet kurio norimo sakinio pabaigoje"
+  },
+  "howToExportWords": {
+    "message": "Kaip atsisiųsti žodžius"
+  },
+  "clickOnSettingButton": {
+    "message": "Spustelėkite nustatymo mygtuką"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "grotuvo apačioje, tada spustelėkite atsisiuntimo mygtuką, kad atsisiųstumėte teksto failą"
+  },
+  "howToPronounceWords": {
+    "message": "Kaip tarti žodžius"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "Tiesiog spustelėkite bet kurį originalių subtitrų žodį"
+  },
+  "uploadSubtitle": {
+    "message": "Subtitrų įkėlimas"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "Įkeltų subtitrų kalba:"
+  },
+  "delaySubtitles": {
+    "message": "Subtitrų atidėjimas"
+  },
+  "decrease": {
+    "message": "Sumažinti"
+  },
+  "increase": {
+    "message": "Increase"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "Spustelėkite norėdami pasirinkti viršutinius subtitrus"
+  },
+  "mainSubtitles": {
+    "message": "Pagrindiniai subtitrai"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "Spustelėkite , kad pasirinktumėte žemesnius subtitrus"
+  },
+  "translateSubtitles": {
+    "message": "Išversti subtitrus"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "Viršutinė subtitrų kalba:"
+  },
+  "settngsMenuHeader": {
+    "message": "LLNY nustatymų meniu"
+  },
+  "appearance": {
+    "message": "Išvaizda"
+  },
+  "tools": {
+    "message": "Įrankiai"
+  },
+  "shortcuts": {
+    "message": "Spartieji klavišai"
+  },
+  "rateUs": {
+    "message": "Įvertinkite mus"
+  },
+  "account": {
+    "message": "Sąskaita"
+  },
+  "languages": {
+    "message": "Kalbos"
+  },
+  "showHide": {
+    "message": "Rodyti / slėpti"
+  },
+  "fontSize": {
+    "message": "Šrifto dydis"
+  },
+  "color": {
+    "message": "Spalva"
+  },
+  "download": {
+    "message": "Atsisiųsti"
+  },
+  "thirdSubtitle": {
+    "message": "Tretieji subtitrai"
+  },
+  "machineTranslate": {
+    "message": "Mašininis vertimas"
+  },
+  "hoverDictionary": {
+    "message": "Pelės žodynas"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "Subtitrų fono spalva"
+  },
+  "choose": {
+    "message": "Pasirinkite"
+  },
+  "blur": {
+    "message": "Neryškumas"
+  },
+  "show": {
+    "message": "Rodyti"
+  },
+  "hide": {
+    "message": "Paslėpti"
+  },
+  "bothLanguages": {
+    "message": "Abi kalbos"
+  },
+  "sidebarSubtitles": {
+    "message": "Šoninės juostos subtitrai"
+  },
+  "phonetics": {
+    "message": "Fonetika"
+  },
+  "no": {
+    "message": "Ne"
+  },
+  "and": {
+    "message": "ir"
+  },
+  "original": {
+    "message": "Originalus"
+  },
+  "romanji": {
+    "message": "Romandži"
+  },
+  "hirgana": {
+    "message": "Hirgana"
+  },
+  "wordPronunciation": {
+    "message": "Žodžių tarimas"
+  },
+  "speed": {
+    "message": "Greitis"
+  },
+  "stop": {
+    "message": "Sustabdyti"
+  },
+  "automaticStopAfterSentence": {
+    "message": "Automatinis sustojimas po kiekvieno sakinio"
+  },
+  "theButton": {
+    "message": "Mygtukas"
+  },
+  "autoStopAfterTime": {
+    "message": "Automatinis sustabdymas ir paleidimas po laiko"
+  },
+  "autoStopWithSpace": {
+    "message": "Automatinis stabdymas ir paleidimas su tarpeliu"
+  },
+  "videoPause": {
+    "message": "Vaizdo įrašo pauzė"
+  },
+  "time": {
+    "message": "Laikas"
+  },
+  "downloadWords": {
+    "message": "Atsisiųsti žodžius"
+  },
+  "enableDisable": {
+    "message": "Įjungti / išjungti"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "Sulėtinti atkūrimo greitį"
+  },
+  "normalPlaybackSpeed": {
+    "message": "Įprastas atkūrimo greitis"
+  },
+  "speedUpPlayBack": {
+    "message": "Spartesnis atkūrimas"
+  },
+  "saveCurrentSubtitles": {
+    "message": "Išsaugoti esamus subtitrus"
+  },
+  "backward": {
+    "message": "Atgalinis"
+  },
+  "forward": {
+    "message": "Pirmyn"
+  },
+  "previousSentence": {
+    "message": "Ankstesnis sakinys"
+  },
+  "repeatSentence": {
+    "message": "Pakartokite sakinį"
+  },
+  "nextSentence": {
+    "message": "Kitas sakinys"
+  },
+  "unlimitedRepeat": {
+    "message": "Neribotas pakartojimas"
+  },
+  "playPause": {
+    "message": "Grojimas / pristabdymas"
+  },
+  "beGenerousUser": {
+    "message": "Galite būti dosnus naudotojas ir parašyti atsiliepimą čia. Ačiū!"
+  },
+  "writeReview": {
+    "message": "Parašyti atsiliepimą"
+  },
+  "tweetAboutUs": {
+    "message": "Tweet apie mus"
+  },
+  "reportBug": {
+    "message": "Pranešti apie klaidas"
+  },
+  "askForNew": {
+    "message": "Paprašykite naujų"
+  },
+  "signOut": {
+    "message": "Pasirašyti"
+  },
+  "version": {
+    "message": "Versija"
+  },
+  "translations": {
+    "message": "Vertimai"
+  },
+  "saved": {
+    "message": "Išsaugota"
+  },
+  "export": {
+    "message": "Atsisiųsti"
+  },
+  "bothSubtitles": {
+    "message": "Abu subtitrai"
+  },
+  "exportSaveWords": {
+    "message": "Atsisiųsti išsaugotus žodžius"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "Šią kalbą galite pakeisti vaizdo įrašo nustatymuose"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "Šią kalbą galite pakeisti plėtinio nustatymuose."
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "Vaizdo įrašų su subtitrais paieška"
+  },
+  "andTranslationOfItIs": {
+    "message": "Ir jo vertimas"
+  },
+  "note": {
+    "message": "Pastaba"
+  },
+  "edit": {
+    "message": "EDIT"
+  },
+  "toChangeShareContent": {
+    "message": "keisti Dalytis turiniu"
+  },
+  "discardChanges": {
+    "message": "Atmesti pakeitimus"
+  },
+  "primarySubtitle": {
+    "message": "Pagrindinė paantraštė"
+  },
+  "translation": {
+    "message": "Vertimas"
+  },
+  "saveChanges": {
+    "message": "Išsaugoti pakeitimus"
+  },
+  "share": {
+    "message": "Dalytis"
+  },
+  "loadingMainSubtitles": {
+    "message": "Pagrindinių subtitrų įkėlimas"
+  },
+  "youtubeMenu": {
+    "message": "YouTube meniu"
+  },
+  "off": {
+    "message": "Išjungta"
+  },
+  "mouseDictionary": {
+    "message": "Pelės žodynas"
+  },
+  "premmium": {
+    "message": "Premium"
+  },
+  "highSpeedLearning": {
+    "message": "Greitas mokymasis"
+  },
+  "pronunciation": {
+    "message": "Tarimas"
+  },
+  "sidebarTranslations": {
+    "message": "Šoninės juostos vertimai"
+  },
+  "keyboardShortcuts": {
+    "message": "Spartieji klaviatūros klavišai"
+  },
+  "toUseShortcuts": {
+    "message": "Jei norite naudoti, pirmiausia suaktyvinkite nuorodas nustatymuose"
+  },
+  "upgradeYourAccount": {
+    "message": "Atnaujinkite savo paskyrą, kad galėtumėte naudotis mašininiu vertimu!"
+  },
+  "startYourFreeTrial": {
+    "message": "Pradėkite NEMOKAMĄ bandomąjį laikotarpį"
+  },
+  "toAccessMachineTranslations": {
+    "message": "gauti prieigą prie visų filmų mašininio vertimo"
+  },
+  "freeTrial": {
+    "message": "NEMOKAMA bandomoji versija"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "Norėdami įjungti / išjungti korėjiečių, japonų, supaprastintos kinų ir tradicinės kinų kalbų fonetiką, eikite į nustatymus arba spustelėkite toliau esantį mygtuką!"
+  },
+  "openMenu": {
+    "message": "Atviras meniu"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "Prisijunkite, kad atsisiųstumėte subtitrų failą!"
+  },
+  "loginForFree": {
+    "message": "Prisijunkite nemokamai"
+  },
+  "subscribe": {
+    "message": "Prenumeruoti"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "Pasiekėte dienos subtitrų atsisiuntimo limitą. Gaukite NEMOKAMĄ bandomąją versiją, kad galėtumėte atsisiųsti daugiau subtitrų!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "Ups! Šiame vaizdo įraše nėra subtitrų!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "Prisijunkite, kad išsaugotumėte žodžius savo paskyroje"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "Pradėkite NEMOKAMĄ bandomąjį naudojimąsi šia funkcija!"
+  },
+  "getYourTrialToUpload": {
+    "message": "Gaukite NEMOKAMĄ bandomąją versiją Įkelti subtitrus"
+  },
+  "loginToLearnPronunciation": {
+    "message": "Prisijunkite ir sužinokite tikslų kiekvieno žodžio tarimą"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "Pasiekėte savo dienos tarimo limitą. Gaukite NEMOKAMĄ bandomąją versiją ir išgirskite neribotą skaičių žodžių"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "Pasiekėte savo dienos žodžių taupymo limitą. Gaukite nemokamą bandomąją versiją, kad galėtumėte mokytis neribotą skaičių žodžių"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "Pasiekėte dienos redagavimo limitą. Gaukite NEMOKAMĄ bandomąją versiją neribotam redagavimų skaičiui"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "Prenumeratoje galite matyti tikslesnes reikšmes!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "Gaukite NEMOKAMĄ bandomąją versiją, kad parodytumėte / paslėptumėte tikslinę antraštę"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "Gaukite NEMOKAMĄ bandomąją versiją, kad parodytumėte / paslėptumėte antrinį subtitrą"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "Gaukite NEMOKAMĄ bandomąją versiją, kad parodytumėte / paslėptumėte antrinį subtitrą"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "Prisijunkite ir filtruokite išsaugotus žodžius pagal"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "Gaukite NEMOKAMĄ bandomąją versiją ir filtruokite išsaugotus žodžius pagal"
+  },
+  "haveProblem": {
+    "message": "Jei kyla problemų, atsijunkite ir vėl prisijunkite."
+  },
+  "date": {
+    "message": "data"
+  },
+  "video": {
+    "message": "vaizdo įrašas"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "Prisijunkite, kad išsaugotumėte subtitrų spalvą!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "Prisijunkite, kad išsaugotumėte subtitrų neskaidrumą!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "Prisijunkite, kad išsaugotumėte subtitrų šrifto dydį!"
+  },
+  "loginToExportSubtitles": {
+    "message": "Prisijunkite, kad atsisiųstumėte subtitrus!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "Prisijunkite ir atsisiųskite išsaugotus žodžius kaip"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "Gaukite NEMOKAMĄ bandomąją versiją ir atsisiųskite išsaugotus žodžius kaip"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "Gaukite NEMOKAMĄ bandomąją versiją, kad išsaugotumėte vaizdo įrašu pagrįstą sakinį"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "Gaukite NEMOKAMĄ bandomąją versiją, kad galėtumėte naudotis mašininiais vertimais kaip trečiąja antrašte."
+  },
+  "synchronize": {
+    "message": "Synchronize"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "moreActions": {
+    "message": "Daugiau veiksmų"
+  },
+  "openSidebar": {
+    "message": "Atidaryti šoninę juostą"
+  },
+  "moreSettingsButton": {
+    "message": "Išplėstiniai nustatymai"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "Subtitrai/CC"
+  }
+}

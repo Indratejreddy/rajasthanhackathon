@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "通过 Netflix 和 YouTube™ 学习语言"
+  },
+  "manifestAppDesc": {
+    "message": "Netflix 扩展语言学习 (LLN) 和 YouTube 语言学习 (LLY)"
+  },
+  "appName": {
+    "message": "与 LLNY 一起学习语言！"
+  },
+  "appDesc": {
+    "message": "使用 Netflix 扩展进行语言学习让您的生活更轻松、更有趣"
+  },
+  "upper": {
+    "message": "上"
+  },
+  "lower": {
+    "message": "降低"
+  },
+  "disableTestModeTitle": {
+    "message": "禁用测试模式"
+  },
+  "disableTestModeDescription": {
+    "message": "Netflix 有时会运行可能导致使用 Netflix 进行语言学习无法正常工作的测试。 为避免出现问题，我们\n建议您关闭参与 Netflix 测试。 这简单："
+  },
+  "disableTestModeButton": {
+    "message": "禁用测试"
+  },
+  "lowerSelectBox": {
+    "message": "低字幕语言："
+  },
+  "okayButton": {
+    "message": "好的"
+  },
+  "closeButton": {
+    "message": "关闭"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY 下载字幕"
+  },
+  "chooseOneFormat": {
+    "message": "选择一种格式："
+  },
+  "onePerDayForFree": {
+    "message": "每天免费一张"
+  },
+  "loading": {
+    "message": "正在加载"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - 母语"
+  },
+  "hello": {
+    "message": "你好"
+  },
+  "pleaseSelectYour": {
+    "message": "请选择您的"
+  },
+  "upperSubtitles": {
+    "message": "上字幕"
+  },
+  "targetLanguage": {
+    "message": "目标语言"
+  },
+  "lowerSubtitles": {
+    "message": "较低的字幕"
+  },
+  "motherLanguage": {
+    "message": "母语"
+  },
+  "translationLanguage": {
+    "message": "翻译语言"
+  },
+  "anyProblemInFunctionality": {
+    "message": "此扩展功能中的任何问题都可以通过简单的刷新来解决"
+  },
+  "signInForFree": {
+    "message": "免费登录"
+  },
+  "speedUpLanguageLearning": {
+    "message": "加快语言学习"
+  },
+  "subtitles": {
+    "message": "字幕"
+  },
+  "words": {
+    "message": "字"
+  },
+  "help": {
+    "message": "帮助"
+  },
+  "saveWordMeaning": {
+    "message": "您可以通过右键单击任何单词来保存它的含义"
+  },
+  "always": {
+    "message": "总是"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "只有这个视频的文字？"
+  },
+  "exportAs": {
+    "message": "下载为"
+  },
+  "file": {
+    "message": "文件"
+  },
+  "howToChangeSubtitles": {
+    "message": "如何更改字幕语言"
+  },
+  "howToTranslateWord": {
+    "message": "如何翻译单词"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "将鼠标悬停在原字幕上"
+  },
+  "howToSaveWords": {
+    "message": "如何保存单词"
+  },
+  "clickAnyWordOnThe": {
+    "message": "只需点击原字幕的任意单词，然后点击"
+  },
+  "sign": {
+    "message": "符号"
+  },
+  "howToSaveSentence": {
+    "message": "如何保存句子"
+  },
+  "clickOnThe": {
+    "message": "点击"
+  },
+  "clickOnLanguageTab": {
+    "message": "单击设置图标，然后单击语言选项卡以找到相应的选择器"
+  },
+  "signAtTheEndOfSentence": {
+    "message": "在您喜欢的任何句子的末尾签名"
+  },
+  "howToExportWords": {
+    "message": "如何下载单词"
+  },
+  "clickOnSettingButton": {
+    "message": "点击设置按钮"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "在播放器底部，然后点击下载文件按钮下载文本文件"
+  },
+  "howToPronounceWords": {
+    "message": "单词如何发音"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "只需点击原字幕的任何单词"
+  },
+  "uploadSubtitle": {
+    "message": "上传字幕"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "上传字幕的语言："
+  },
+  "delaySubtitles": {
+    "message": "延迟字幕"
+  },
+  "decrease": {
+    "message": "减少"
+  },
+  "increase": {
+    "message": "增加"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "单击以选择上字幕"
+  },
+  "mainSubtitles": {
+    "message": "主字幕"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "单击以选择较低的字幕"
+  },
+  "translateSubtitles": {
+    "message": "翻译字幕"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "上字幕语言："
+  },
+  "settngsMenuHeader": {
+    "message": "LLNY 设置菜单"
+  },
+  "appearance": {
+    "message": "外貌"
+  },
+  "tools": {
+    "message": "工具"
+  },
+  "shortcuts": {
+    "message": "捷径"
+  },
+  "rateUs": {
+    "message": "评价我们"
+  },
+  "account": {
+    "message": "帐户"
+  },
+  "languages": {
+    "message": "语言"
+  },
+  "showHide": {
+    "message": "显示隐藏"
+  },
+  "fontSize": {
+    "message": "字体大小"
+  },
+  "color": {
+    "message": "颜色"
+  },
+  "download": {
+    "message": "下载"
+  },
+  "thirdSubtitle": {
+    "message": "第三字幕"
+  },
+  "machineTranslate": {
+    "message": "机器翻译"
+  },
+  "hoverDictionary": {
+    "message": "鼠标词典"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "字幕背景颜色"
+  },
+  "choose": {
+    "message": "选择"
+  },
+  "blur": {
+    "message": "模糊"
+  },
+  "show": {
+    "message": "显示"
+  },
+  "hide": {
+    "message": "隐藏"
+  },
+  "bothLanguages": {
+    "message": "两种语言"
+  },
+  "sidebarSubtitles": {
+    "message": "侧边栏字幕"
+  },
+  "phonetics": {
+    "message": "语音学"
+  },
+  "no": {
+    "message": "不"
+  },
+  "and": {
+    "message": "和"
+  },
+  "original": {
+    "message": "没有语音"
+  },
+  "romanji": {
+    "message": "罗曼吉"
+  },
+  "hirgana": {
+    "message": "希尔加纳"
+  },
+  "wordPronunciation": {
+    "message": "单词发音"
+  },
+  "speed": {
+    "message": "速度"
+  },
+  "stop": {
+    "message": "停止"
+  },
+  "automaticStopAfterSentence": {
+    "message": "每句后自动停止"
+  },
+  "theButton": {
+    "message": "按钮"
+  },
+  "autoStopAfterTime": {
+    "message": "时间后自动停止和启动"
+  },
+  "autoStopWithSpace": {
+    "message": "自动停止和启动空间"
+  },
+  "videoPause": {
+    "message": "视频暂停"
+  },
+  "time": {
+    "message": "时间"
+  },
+  "downloadWords": {
+    "message": "下载单词"
+  },
+  "enableDisable": {
+    "message": "启用/禁用"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "放慢播放速度"
+  },
+  "normalPlaybackSpeed": {
+    "message": "正常播放速度"
+  },
+  "speedUpPlayBack": {
+    "message": "加快播放速度"
+  },
+  "saveCurrentSubtitles": {
+    "message": "保存当前字幕"
+  },
+  "backward": {
+    "message": "落后"
+  },
+  "forward": {
+    "message": "向前"
+  },
+  "previousSentence": {
+    "message": "上一句"
+  },
+  "repeatSentence": {
+    "message": "重复句子"
+  },
+  "nextSentence": {
+    "message": "下一句"
+  },
+  "unlimitedRepeat": {
+    "message": "无限重复"
+  },
+  "playPause": {
+    "message": "播放/暂停"
+  },
+  "beGenerousUser": {
+    "message": "通过在此处撰写评论，您可以成为一个慷慨的用户。 谢谢！"
+  },
+  "writeReview": {
+    "message": "写评论"
+  },
+  "tweetAboutUs": {
+    "message": "关于我们的推文"
+  },
+  "reportBug": {
+    "message": "报告错误"
+  },
+  "askForNew": {
+    "message": "求新"
+  },
+  "signOut": {
+    "message": "登出"
+  },
+  "version": {
+    "message": "版本"
+  },
+  "translations": {
+    "message": "翻译"
+  },
+  "saved": {
+    "message": "已保存"
+  },
+  "export": {
+    "message": "下载"
+  },
+  "bothSubtitles": {
+    "message": "两个字幕"
+  },
+  "exportSaveWords": {
+    "message": "下载保存的单词"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "您可以在视频设置中更改此语言"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "您可以在扩展程序的设置中更改此语言"
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "搜索带字幕的视频"
+  },
+  "andTranslationOfItIs": {
+    "message": "以及它的翻译"
+  },
+  "note": {
+    "message": "笔记"
+  },
+  "edit": {
+    "message": "编辑"
+  },
+  "toChangeShareContent": {
+    "message": "更改分享内容"
+  },
+  "discardChanges": {
+    "message": "放弃更改"
+  },
+  "primarySubtitle": {
+    "message": "主字幕"
+  },
+  "translation": {
+    "message": "翻译"
+  },
+  "saveChanges": {
+    "message": "保存更改"
+  },
+  "share": {
+    "message": "分享"
+  },
+  "loadingMainSubtitles": {
+    "message": "加载主字幕"
+  },
+  "youtubeMenu": {
+    "message": "YouTube 菜单"
+  },
+  "off": {
+    "message": "离开"
+  },
+  "mouseDictionary": {
+    "message": "鼠标词典"
+  },
+  "premmium": {
+    "message": "优质的"
+  },
+  "highSpeedLearning": {
+    "message": "高速学习"
+  },
+  "pronunciation": {
+    "message": "发音"
+  },
+  "sidebarTranslations": {
+    "message": "侧边栏翻译"
+  },
+  "keyboardShortcuts": {
+    "message": "键盘快捷键"
+  },
+  "toUseShortcuts": {
+    "message": "要使用，首先从设置中激活快捷方式"
+  },
+  "upgradeYourAccount": {
+    "message": "升级您的帐户以使用机器翻译！"
+  },
+  "startYourFreeTrial": {
+    "message": "开始免费试用"
+  },
+  "toAccessMachineTranslations": {
+    "message": "访问所有电影的机器翻译"
+  },
+  "freeTrial": {
+    "message": "免费试用"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "要启用/禁用韩语、日语、简体中文和繁体中文的拼音，请转到设置或单击下面的按钮！"
+  },
+  "openMenu": {
+    "message": "打开菜单"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "登录下载字幕文件！"
+  },
+  "loginForFree": {
+    "message": "免费登录"
+  },
+  "subscribe": {
+    "message": "订阅"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "您已达到每日下载字幕的限制。 获得免费试用以下载更多字幕！"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "哎呀！ 这个视频没有字幕！"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "请登录以将单词保存在您的帐户中"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "开始您的免费试用以使用此功能！"
+  },
+  "getYourTrialToUpload": {
+    "message": "获取免费试用以上传字幕"
+  },
+  "loginToLearnPronunciation": {
+    "message": "登录以了解每个单词的准确发音"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "您已达到每日发音限制。 获得您的免费试用以听到无限数量的单词"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "您已达到每日保存字数的限制。 获得免费试用以学习无限数量的单词"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "您已达到每日编辑限制。 免费试用无限次编辑"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "您可以在订阅中看到更准确的含义！"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "获得免费试用以显示/隐藏目标字幕"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "获得免费试用以显示/隐藏辅助字幕"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "获得免费试用以显示/隐藏辅助字幕"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "登录以根据以下条件过滤保存的单词"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "获取免费试用版，以根据以下条件过滤已保存的单词"
+  },
+  "haveProblem": {
+    "message": "如果您有问题，请退出并重新登录"
+  },
+  "date": {
+    "message": "日期"
+  },
+  "video": {
+    "message": "视频"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "登录以保持字幕的颜色！"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "登录保存字幕的不透明度！"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "登录以保存字幕的字体大小！"
+  },
+  "loginToExportSubtitles": {
+    "message": "请登录后下载字幕！"
+  },
+  "loginToSavedWordsAs": {
+    "message": "登录以下载保存的单词"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "获取免费试用版以下载已保存的单词"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "根据视频免费试用已保存的句子"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "获得免费试用，以访问机器翻译作为第三个字幕。"
+  },
+  "synchronize": {
+    "message": "同步"
+  },
+  "settings": {
+    "message": "设置"
+  },
+  "moreActions": {
+    "message": "其他操作"
+  },
+  "openSidebar": {
+    "message": "打开侧边栏"
+  },
+  "moreSettingsButton": {
+    "message": "高级设置"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "字幕/抄送"
+  }
+}

@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Netflix & YouTube™ ഉപയോഗിച്ച് ഭാഷാ പഠനം"
+  },
+  "manifestAppDesc": {
+    "message": "Netflix വിപുലീകരണത്തോടുകൂടിയ ഭാഷാ പഠനവും (LLN) YouTube-നൊപ്പം ഭാഷാ പഠനവും (LLY)"
+  },
+  "appName": {
+    "message": "LLNY ഉപയോഗിച്ച് ഭാഷ പഠിക്കുന്നു!"
+  },
+  "appDesc": {
+    "message": "Netflix വിപുലീകരണത്തോടുകൂടിയ ഭാഷാ പഠനം നിങ്ങളുടെ ജീവിതം വളരെ എളുപ്പവും രസകരവുമാക്കുന്നു"
+  },
+  "upper": {
+    "message": "മുകളിലെ"
+  },
+  "lower": {
+    "message": "താഴത്തെ"
+  },
+  "disableTestModeTitle": {
+    "message": "ടെസ്റ്റ് മോഡ് പ്രവർത്തനരഹിതമാക്കുക"
+  },
+  "disableTestModeDescription": {
+    "message": "Netflix ചിലപ്പോൾ Netflix ഉപയോഗിച്ച് ഭാഷാ പഠനം ശരിയായി പ്രവർത്തിക്കാത്തതിന് കാരണമാകുന്ന ടെസ്റ്റുകൾ നടത്തുന്നു. പ്രശ്നങ്ങൾ ഒഴിവാക്കാൻ, Netflix ടെസ്റ്റ് പങ്കാളിത്തം ഓഫാക്കാൻ ഞങ്ങൾ\nശുപാർശ ചെയ്യുന്നു. ഇത് എളുപ്പമാണ്:"
+  },
+  "disableTestModeButton": {
+    "message": "പരിശോധന പ്രവർത്തനരഹിതമാക്കുക"
+  },
+  "lowerSelectBox": {
+    "message": "താഴ്ന്ന സബ്ടൈറ്റിൽ ഭാഷ:"
+  },
+  "okayButton": {
+    "message": "ശരി"
+  },
+  "closeButton": {
+    "message": "അടയ്ക്കുക"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY സബ്‌ടൈറ്റിലുകൾ ഡൗൺലോഡ് ചെയ്യുക"
+  },
+  "chooseOneFormat": {
+    "message": "ഒരു ഫോർമാറ്റ് തിരഞ്ഞെടുക്കുക:"
+  },
+  "onePerDayForFree": {
+    "message": "ദിവസവും ഒന്ന് സൗജന്യം"
+  },
+  "loading": {
+    "message": "ലോഡിംഗ്"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - മാതൃഭാഷ"
+  },
+  "hello": {
+    "message": "ഹലോ"
+  },
+  "pleaseSelectYour": {
+    "message": "ദയവായി നിങ്ങളുടെ"
+  },
+  "upperSubtitles": {
+    "message": "അപ്പർ സബ്ടൈറ്റിലുകൾ"
+  },
+  "targetLanguage": {
+    "message": "ലക്ഷ്യ ഭാഷ"
+  },
+  "lowerSubtitles": {
+    "message": "താഴ്ന്ന സബ്ടൈറ്റിലുകൾ"
+  },
+  "motherLanguage": {
+    "message": "മാതൃഭാഷ"
+  },
+  "translationLanguage": {
+    "message": "വിവർത്തന ഭാഷ"
+  },
+  "anyProblemInFunctionality": {
+    "message": "ഈ വിപുലീകരണത്തിന്റെ പ്രവർത്തനത്തിലെ ഏത് പ്രശ്‌നവും ഒരു ലളിതമായ പുതുക്കൽ ഉപയോഗിച്ച് പരിഹരിക്കാനാകും"
+  },
+  "signInForFree": {
+    "message": "സൗജന്യമായി സൈൻ ഇൻ ചെയ്യുക"
+  },
+  "speedUpLanguageLearning": {
+    "message": "ഭാഷാ പഠനം വേഗത്തിലാക്കുക"
+  },
+  "subtitles": {
+    "message": "സബ്ടൈറ്റിലുകൾ"
+  },
+  "words": {
+    "message": "വാക്കുകൾ"
+  },
+  "help": {
+    "message": "സഹായം"
+  },
+  "saveWordMeaning": {
+    "message": "ഏത് വാക്കിന്റെയും അർത്ഥം അതിൽ റൈറ്റ് ക്ലിക്ക് ചെയ്ത് സേവ് ചെയ്യാം"
+  },
+  "always": {
+    "message": "എപ്പോഴും"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "ഈ വീഡിയോയിലെ വാക്കുകൾ മാത്രമാണോ?"
+  },
+  "exportAs": {
+    "message": "ഇതായി ഡൗൺലോഡ് ചെയ്യുക"
+  },
+  "file": {
+    "message": "ഫയൽ"
+  },
+  "howToChangeSubtitles": {
+    "message": "സബ്ടൈറ്റിലുകളുടെ ഭാഷ എങ്ങനെ മാറ്റാം"
+  },
+  "howToTranslateWord": {
+    "message": "വാക്ക് എങ്ങനെ വിവർത്തനം ചെയ്യാം"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "യഥാർത്ഥ സബ്‌ടൈറ്റിലുകളിൽ മൗസ് ഹോവർ ചെയ്യുക"
+  },
+  "howToSaveWords": {
+    "message": "വാക്കുകൾ എങ്ങനെ സംരക്ഷിക്കാം"
+  },
+  "clickAnyWordOnThe": {
+    "message": "ഒറിജിനൽ സബ്‌ടൈറ്റിലുകളുടെ ഏതെങ്കിലും വാക്കിൽ ക്ലിക്ക് ചെയ്യുക, തുടർന്ന് എന്നതിൽ ക്ലിക്കുചെയ്യുക"
+  },
+  "sign": {
+    "message": "അടയാളം"
+  },
+  "howToSaveSentence": {
+    "message": "വാക്യങ്ങൾ എങ്ങനെ സംരക്ഷിക്കാം"
+  },
+  "clickOnThe": {
+    "message": "ക്ലിക്ക് ചെയ്യുക"
+  },
+  "clickOnLanguageTab": {
+    "message": "ക്രമീകരണ ഐക്കണിൽ ക്ലിക്കുചെയ്യുക, തുടർന്ന് ഉചിതമായ സെലക്ടർ കണ്ടെത്താൻ ഭാഷാ ടാബിൽ ക്ലിക്കുചെയ്യുക"
+  },
+  "signAtTheEndOfSentence": {
+    "message": "നിങ്ങൾക്ക് ഇഷ്ടമുള്ള ഏതെങ്കിലും വാക്യത്തിന്റെ അവസാനം ഒപ്പിടുക"
+  },
+  "howToExportWords": {
+    "message": "വാക്കുകൾ എങ്ങനെ ഡൗൺലോഡ് ചെയ്യാം"
+  },
+  "clickOnSettingButton": {
+    "message": "ക്രമീകരണ ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "പ്ലെയറിന്റെ ചുവടെ, ടെക്സ്റ്റ് ഫയൽ ഡൗൺലോഡ് ചെയ്യാൻ ഡൗൺലോഡ് ഫയൽ ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക"
+  },
+  "howToPronounceWords": {
+    "message": "വാക്കുകൾ എങ്ങനെ ഉച്ചരിക്കും"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "ഒറിജിനൽ സബ്‌ടൈറ്റിലുകളിലെ ഏതെങ്കിലും വാക്കിൽ ക്ലിക്ക് ചെയ്യുക"
+  },
+  "uploadSubtitle": {
+    "message": "സബ്‌ടൈറ്റിലുകൾ അപ്‌ലോഡ് ചെയ്യുക"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "അപ്‌ലോഡ് ചെയ്ത സബ്‌ടൈറ്റിലുകളുടെ ഭാഷ:"
+  },
+  "delaySubtitles": {
+    "message": "സബ്‌ടൈറ്റിലുകൾ വൈകിക്കുക"
+  },
+  "decrease": {
+    "message": "കുറയ്ക്കുക"
+  },
+  "increase": {
+    "message": "വർധിപ്പിക്കുക"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "മുകളിലെ സബ്‌ടൈറ്റിലുകൾ തിരഞ്ഞെടുക്കാൻ ക്ലിക്ക് ചെയ്യുക"
+  },
+  "mainSubtitles": {
+    "message": "പ്രധാന സബ്ടൈറ്റിലുകൾ"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "കുറഞ്ഞ സബ്‌ടൈറ്റിലുകൾ തിരഞ്ഞെടുക്കാൻ ക്ലിക്ക് ചെയ്യുക"
+  },
+  "translateSubtitles": {
+    "message": "സബ്‌ടൈറ്റിലുകൾ വിവർത്തനം ചെയ്യുക"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "അപ്പർ സബ്ടൈറ്റിൽ ഭാഷ:"
+  },
+  "settngsMenuHeader": {
+    "message": "LLNY ക്രമീകരണ മെനു"
+  },
+  "appearance": {
+    "message": "രൂപഭാവം"
+  },
+  "tools": {
+    "message": "ഉപകരണങ്ങൾ"
+  },
+  "shortcuts": {
+    "message": "കുറുക്കുവഴികൾ"
+  },
+  "rateUs": {
+    "message": "ഞങ്ങളെ റേറ്റുചെയ്യുക"
+  },
+  "account": {
+    "message": "അക്കൗണ്ട്"
+  },
+  "languages": {
+    "message": "ഭാഷകൾ"
+  },
+  "showHide": {
+    "message": "കാണിക്കുക മറയ്ക്കുക"
+  },
+  "fontSize": {
+    "message": "അക്ഷര വലിപ്പം"
+  },
+  "color": {
+    "message": "നിറം"
+  },
+  "download": {
+    "message": "ഡൗൺലോഡ്"
+  },
+  "thirdSubtitle": {
+    "message": "മൂന്നാമത്തെ സബ്ടൈറ്റിലുകൾ"
+  },
+  "machineTranslate": {
+    "message": "യന്ത്ര വിവർത്തനം"
+  },
+  "hoverDictionary": {
+    "message": "മൗസ് നിഘണ്ടു"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "സബ്‌ടൈറ്റിലുകളുടെ പശ്ചാത്തല നിറം"
+  },
+  "choose": {
+    "message": "തിരഞ്ഞെടുക്കുക"
+  },
+  "blur": {
+    "message": "മങ്ങിക്കുക"
+  },
+  "show": {
+    "message": "കാണിക്കുക"
+  },
+  "hide": {
+    "message": "മറയ്ക്കുക"
+  },
+  "bothLanguages": {
+    "message": "രണ്ട് ഭാഷകളും"
+  },
+  "sidebarSubtitles": {
+    "message": "സൈഡ്‌ബാർ സബ്‌ടൈറ്റിലുകൾ"
+  },
+  "phonetics": {
+    "message": "ശബ്ദശാസ്ത്രം"
+  },
+  "no": {
+    "message": "ഇല്ല"
+  },
+  "and": {
+    "message": "ഒപ്പം"
+  },
+  "original": {
+    "message": "ഒറിജിനൽ"
+  },
+  "romanji": {
+    "message": "Romanji"
+  },
+  "hirgana": {
+    "message": "ഹിർഗാന"
+  },
+  "wordPronunciation": {
+    "message": "പദ ഉച്ചാരണം"
+  },
+  "speed": {
+    "message": "വേഗത"
+  },
+  "stop": {
+    "message": "നിർത്തുക"
+  },
+  "automaticStopAfterSentence": {
+    "message": "ഓരോ വാക്യത്തിനും ശേഷം യാന്ത്രികമായി നിർത്തുക"
+  },
+  "theButton": {
+    "message": "ബട്ടൺ"
+  },
+  "autoStopAfterTime": {
+    "message": "യാന്ത്രികമായി നിർത്തി സമയത്തിന് ശേഷം ആരംഭിക്കുക"
+  },
+  "autoStopWithSpace": {
+    "message": "യാന്ത്രികമായി നിർത്തി സ്‌പെയ്‌സിൽ ആരംഭിക്കുക"
+  },
+  "videoPause": {
+    "message": "വീഡിയോ താൽക്കാലികമായി നിർത്തുക"
+  },
+  "time": {
+    "message": "സമയം"
+  },
+  "downloadWords": {
+    "message": "വാക്കുകൾ ഡൗൺലോഡ് ചെയ്യുക"
+  },
+  "enableDisable": {
+    "message": "പ്രവർത്തനക്ഷമമാക്കുക/പ്രവർത്തനരഹിതമാക്കുക"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "പ്ലേബാക്ക് വേഗത കുറയ്ക്കുക"
+  },
+  "normalPlaybackSpeed": {
+    "message": "സാധാരണ പ്ലേബാക്ക് വേഗത"
+  },
+  "speedUpPlayBack": {
+    "message": "പ്ലേബാക്ക് വേഗത്തിലാക്കുക"
+  },
+  "saveCurrentSubtitles": {
+    "message": "നിലവിലെ സബ്‌ടൈറ്റിലുകൾ സംരക്ഷിക്കുക"
+  },
+  "backward": {
+    "message": "പിന്നോട്ട്"
+  },
+  "forward": {
+    "message": "മുന്നോട്ട്"
+  },
+  "previousSentence": {
+    "message": "മുൻ വാചകം"
+  },
+  "repeatSentence": {
+    "message": "വാചകം ആവർത്തിക്കുക"
+  },
+  "nextSentence": {
+    "message": "അടുത്ത വാചകം"
+  },
+  "unlimitedRepeat": {
+    "message": "പരിധിയില്ലാത്ത ആവർത്തനം"
+  },
+  "playPause": {
+    "message": "പ്ലേ / താൽക്കാലികമായി നിർത്തുക"
+  },
+  "beGenerousUser": {
+    "message": "ഇവിടെ ഒരു അവലോകനം എഴുതുന്നതിലൂടെ നിങ്ങൾക്ക് ഉദാരമായ ഒരു ഉപയോക്താവാകാം. നന്ദി!"
+  },
+  "writeReview": {
+    "message": "ഒരു അവലോകനം എഴുതുക"
+  },
+  "tweetAboutUs": {
+    "message": "ഞങ്ങളെ കുറിച്ച് ട്വീറ്റ് ചെയ്യുക"
+  },
+  "reportBug": {
+    "message": "ബഗുകൾ റിപ്പോർട്ട് ചെയ്യുക"
+  },
+  "askForNew": {
+    "message": "പുതിയത് ചോദിക്കൂ"
+  },
+  "signOut": {
+    "message": "സൈൻ ഔട്ട്"
+  },
+  "version": {
+    "message": "പതിപ്പ്"
+  },
+  "translations": {
+    "message": "വിവർത്തനങ്ങൾ"
+  },
+  "saved": {
+    "message": "സംരക്ഷിച്ചു"
+  },
+  "export": {
+    "message": "ഡൗൺലോഡ്"
+  },
+  "bothSubtitles": {
+    "message": "രണ്ട് സബ്ടൈറ്റിലുകളും"
+  },
+  "exportSaveWords": {
+    "message": "സംരക്ഷിച്ച വാക്കുകൾ ഡൗൺലോഡ് ചെയ്യുക"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "വീഡിയോയുടെ ക്രമീകരണങ്ങളിൽ നിങ്ങൾക്ക് ഈ ഭാഷ മാറ്റാവുന്നതാണ്"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "വിപുലീകരണത്തിന്റെ ക്രമീകരണങ്ങളിൽ നിങ്ങൾക്ക് ഈ ഭാഷ മാറ്റാവുന്നതാണ്"
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "സബ്‌ടൈറ്റിലുകളുള്ള വീഡിയോകൾക്കായി തിരയുക"
+  },
+  "andTranslationOfItIs": {
+    "message": "അതിന്റെ പരിഭാഷയും"
+  },
+  "note": {
+    "message": "കുറിപ്പ്"
+  },
+  "edit": {
+    "message": "എഡിറ്റ്"
+  },
+  "toChangeShareContent": {
+    "message": "പങ്കിടൽ ഉള്ളടക്കം മാറ്റാൻ"
+  },
+  "discardChanges": {
+    "message": "മാറ്റങ്ങൾ ഉപേക്ഷിക്കുക"
+  },
+  "primarySubtitle": {
+    "message": "പ്രാഥമിക ഉപശീർഷകം"
+  },
+  "translation": {
+    "message": "വിവർത്തനം"
+  },
+  "saveChanges": {
+    "message": "മാറ്റങ്ങൾ സൂക്ഷിക്കുക"
+  },
+  "share": {
+    "message": "പങ്കിടുക"
+  },
+  "loadingMainSubtitles": {
+    "message": "പ്രധാന സബ്ടൈറ്റിലുകൾ ലോഡ് ചെയ്യുന്നു"
+  },
+  "youtubeMenu": {
+    "message": "YouTube മെനു"
+  },
+  "off": {
+    "message": "ഓഫ്"
+  },
+  "mouseDictionary": {
+    "message": "മൗസ് നിഘണ്ടു"
+  },
+  "premmium": {
+    "message": "പ്രീമിയം"
+  },
+  "highSpeedLearning": {
+    "message": "അതിവേഗ പഠനം"
+  },
+  "pronunciation": {
+    "message": "ഉച്ചാരണം"
+  },
+  "sidebarTranslations": {
+    "message": "സൈഡ്‌ബാർ വിവർത്തനങ്ങൾ"
+  },
+  "keyboardShortcuts": {
+    "message": "കീബോർഡ് കുറുക്കുവഴികൾ"
+  },
+  "toUseShortcuts": {
+    "message": "ഉപയോഗിക്കുന്നതിന്, ആദ്യം ക്രമീകരണങ്ങളിൽ നിന്ന് കുറുക്കുവഴികൾ സജീവമാക്കുക"
+  },
+  "upgradeYourAccount": {
+    "message": "മെഷീൻ വിവർത്തനം ഉപയോഗിക്കാൻ നിങ്ങളുടെ അക്കൗണ്ട് അപ്‌ഗ്രേഡ് ചെയ്യുക!"
+  },
+  "startYourFreeTrial": {
+    "message": "നിങ്ങളുടെ സൗജന്യ ട്രയൽ ആരംഭിക്കുക"
+  },
+  "toAccessMachineTranslations": {
+    "message": "എല്ലാ സിനിമകൾക്കും മെഷീൻ വിവർത്തനങ്ങൾ ആക്സസ് ചെയ്യാൻ"
+  },
+  "freeTrial": {
+    "message": "സൗജന്യ ട്രയൽ"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "കൊറിയൻ, ജാപ്പനീസ്, ലളിതമായ ചൈനീസ്, പരമ്പരാഗത ചൈനീസ് ഭാഷകൾക്കായി സ്വരസൂചകം പ്രവർത്തനക്ഷമമാക്കാൻ/അപ്രാപ്‌തമാക്കാൻ ക്രമീകരണത്തിലേക്ക് പോകുക അല്ലെങ്കിൽ ചുവടെയുള്ള ബട്ടൺ ക്ലിക്കുചെയ്യുക!"
+  },
+  "openMenu": {
+    "message": "മെനു തുറക്കുക"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "സബ്‌ടൈറ്റിൽ ഫയൽ ഡൗൺലോഡ് ചെയ്യാൻ ലോഗിൻ ചെയ്യുക!"
+  },
+  "loginForFree": {
+    "message": "സൗജന്യമായി ലോഗിൻ ചെയ്യുക"
+  },
+  "subscribe": {
+    "message": "സബ്സ്ക്രൈബ് ചെയ്യുക"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "സബ്‌ടൈറ്റിലുകൾ ഡൗൺലോഡ് ചെയ്യുന്നതിനുള്ള നിങ്ങളുടെ പ്രതിദിന പരിധിയിൽ നിങ്ങൾ എത്തിയിരിക്കുന്നു. കൂടുതൽ സബ്‌ടൈറ്റിലുകൾ ഡൗൺലോഡ് ചെയ്യുന്നതിന് നിങ്ങളുടെ സൗജന്യ ട്രയൽ നേടൂ!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "ശ്ശോ! ഈ വീഡിയോയ്ക്ക് സബ്‌ടൈറ്റിലുകളൊന്നുമില്ല!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "നിങ്ങളുടെ അക്കൗണ്ടിൽ വാക്കുകൾ സൂക്ഷിക്കാൻ ദയവായി ലോഗിൻ ചെയ്യുക"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "ഈ ഫീച്ചർ ഉപയോഗിക്കുന്നതിന് നിങ്ങളുടെ സൗജന്യ ട്രയൽ ആരംഭിക്കൂ!"
+  },
+  "getYourTrialToUpload": {
+    "message": "സബ്‌ടൈറ്റിൽ അപ്‌ലോഡ് ചെയ്യാൻ നിങ്ങളുടെ സൗജന്യ ട്രയൽ നേടൂ"
+  },
+  "loginToLearnPronunciation": {
+    "message": "ഓരോ വാക്കിന്റെയും കൃത്യമായ ഉച്ചാരണം അറിയാൻ ലോഗിൻ ചെയ്യുക"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "ഉച്ചാരണത്തിനുള്ള നിങ്ങളുടെ പ്രതിദിന പരിധിയിൽ നിങ്ങൾ എത്തിയിരിക്കുന്നു. പരിധിയില്ലാത്ത വാക്കുകൾ കേൾക്കാൻ നിങ്ങളുടെ സൗജന്യ ട്രയൽ നേടൂ"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "വാക്കുകൾ സംരക്ഷിക്കുന്നതിനുള്ള നിങ്ങളുടെ ദൈനംദിന പരിധിയിൽ നിങ്ങൾ എത്തിയിരിക്കുന്നു. പരിധിയില്ലാത്ത വാക്കുകൾ പഠിക്കാൻ നിങ്ങളുടെ സൗജന്യ ട്രയൽ നേടൂ"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "എഡിറ്റ് ചെയ്യാനുള്ള നിങ്ങളുടെ പ്രതിദിന പരിധിയിൽ നിങ്ങൾ എത്തിയിരിക്കുന്നു. പരിധിയില്ലാത്ത എഡിറ്റുകൾക്കായി നിങ്ങളുടെ സൗജന്യ ട്രയൽ നേടുക"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "നിങ്ങളുടെ സബ്‌സ്‌ക്രിപ്‌ഷനിൽ കൂടുതൽ കൃത്യമായ അർത്ഥങ്ങൾ കാണാൻ കഴിയും!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "ടാർഗെറ്റ് സബ്‌ടൈറ്റിൽ കാണിക്കാനും മറയ്‌ക്കാനും നിങ്ങളുടെ സൗജന്യ ട്രയൽ നേടൂ"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "ദ്വിതീയ ഉപശീർഷകം കാണിക്കുന്നതിനും മറയ്ക്കുന്നതിനും നിങ്ങളുടെ സൗജന്യ ട്രയൽ നേടൂ"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "ദ്വിതീയ ഉപശീർഷകം കാണിക്കുന്നതിനും മറയ്ക്കുന്നതിനും നിങ്ങളുടെ സൗജന്യ ട്രയൽ നേടൂ"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "എന്നതിനെ അടിസ്ഥാനമാക്കി സംരക്ഷിച്ച വാക്കുകൾ ഫിൽട്ടർ ചെയ്യാൻ ലോഗിൻ ചെയ്യുക"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "സംരക്ഷിച്ച വാക്കുകൾ ഫിൽട്ടർ ചെയ്യാൻ നിങ്ങളുടെ സൗജന്യ ട്രയൽ നേടൂ"
+  },
+  "haveProblem": {
+    "message": "നിങ്ങൾക്ക് എന്തെങ്കിലും പ്രശ്നമുണ്ടെങ്കിൽ, ദയവായി സൈൻ ഔട്ട് ചെയ്‌ത് വീണ്ടും സൈൻ ഇൻ ചെയ്യുക"
+  },
+  "date": {
+    "message": "തീയതി"
+  },
+  "video": {
+    "message": "വീഡിയോ"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "സബ്‌ടൈറ്റിലുകളുടെ നിറം നിലനിർത്താൻ ലോഗിൻ ചെയ്യുക!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "സബ്‌ടൈറ്റിലുകളുടെ അതാര്യത സംരക്ഷിക്കാൻ ലോഗിൻ ചെയ്യുക!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "സബ്‌ടൈറ്റിലുകളുടെ ഫോണ്ട് വലുപ്പം സംരക്ഷിക്കാൻ ലോഗിൻ ചെയ്യുക!"
+  },
+  "loginToExportSubtitles": {
+    "message": "സബ്‌ടൈറ്റിലുകൾ ഡൗൺലോഡ് ചെയ്യാൻ ദയവായി ലോഗിൻ ചെയ്യുക!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "ഇങ്ങനെ സംരക്ഷിച്ച വാക്കുകൾ ഡൗൺലോഡ് ചെയ്യാൻ ലോഗിൻ ചെയ്യുക"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "ഇങ്ങനെ സംരക്ഷിച്ച വാക്കുകൾ ഡൗൺലോഡ് ചെയ്യാൻ നിങ്ങളുടെ സൗജന്യ ട്രയൽ നേടൂ"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "വീഡിയോ അടിസ്ഥാനമാക്കി സംരക്ഷിച്ച വാക്യത്തിലേക്ക് നിങ്ങളുടെ സൗജന്യ ട്രയൽ നേടുക"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "മൂന്നാമത്തെ സബ്‌ടൈറ്റിലായി മെഷീൻ വിവർത്തനങ്ങൾ ആക്‌സസ് ചെയ്യാൻ നിങ്ങളുടെ സൗജന്യ ട്രയൽ നേടുക."
+  },
+  "synchronize": {
+    "message": "സമന്വയിപ്പിക്കുക"
+  },
+  "settings": {
+    "message": "ക്രമീകരണങ്ങൾ"
+  },
+  "moreActions": {
+    "message": "കൂടുതൽ പ്രവർത്തനങ്ങൾ"
+  },
+  "openSidebar": {
+    "message": "സൈഡ്‌ബാർ തുറക്കുക"
+  },
+  "moreSettingsButton": {
+    "message": "വിപുലമായ ക്രമീകരണങ്ങൾ"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "സബ്ടൈറ്റിലുകൾ/CC"
+  }
+}

@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Езиково обучение с Netflix и YouTube™"
+  },
+  "manifestAppDesc": {
+    "message": "Езиково обучение с разширението Netflix (LLN) и езиково обучение с YouTube (LLY)"
+  },
+  "appName": {
+    "message": "Учене на език с LLNY!"
+  },
+  "appDesc": {
+    "message": "Ученето на езици с разширението на Netflix прави живота ви много по-лесен и забавен"
+  },
+  "upper": {
+    "message": "Горен"
+  },
+  "lower": {
+    "message": "Нисък"
+  },
+  "disableTestModeTitle": {
+    "message": "Деактивиране на тестовия режим"
+  },
+  "disableTestModeDescription": {
+    "message": "Netflix понякога провежда тестове, които могат да доведат до неправилна работа на Language Learning with Netflix. За да избегнете проблеми,\nпрепоръчваме ви да изключите участието в тестовете на Netflix. Това е лесно:"
+  },
+  "disableTestModeButton": {
+    "message": "Деактивиране на тестването"
+  },
+  "lowerSelectBox": {
+    "message": "Долни субтитри Език:"
+  },
+  "okayButton": {
+    "message": "Okay"
+  },
+  "closeButton": {
+    "message": "Затвори"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY Изтегляне на субтитри"
+  },
+  "chooseOneFormat": {
+    "message": "Изберете един формат:"
+  },
+  "onePerDayForFree": {
+    "message": "По един на ден безплатно"
+  },
+  "loading": {
+    "message": "Зареждане"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - Роден език"
+  },
+  "hello": {
+    "message": "Здравейте"
+  },
+  "pleaseSelectYour": {
+    "message": "Моля, изберете вашия"
+  },
+  "upperSubtitles": {
+    "message": "Горни субтитри"
+  },
+  "targetLanguage": {
+    "message": "Целеви език"
+  },
+  "lowerSubtitles": {
+    "message": "Долни субтитри"
+  },
+  "motherLanguage": {
+    "message": "Майчин език"
+  },
+  "translationLanguage": {
+    "message": "Език на превода"
+  },
+  "anyProblemInFunctionality": {
+    "message": "Всеки проблем във функционалността на това разширение може да бъде решен с просто обновяване."
+  },
+  "signInForFree": {
+    "message": "Влезте безплатно"
+  },
+  "speedUpLanguageLearning": {
+    "message": "Ускоряване на изучаването на езици"
+  },
+  "subtitles": {
+    "message": "Субтитри"
+  },
+  "words": {
+    "message": "Думи"
+  },
+  "help": {
+    "message": "Помощ"
+  },
+  "saveWordMeaning": {
+    "message": "Можете да запаметите значението на всяка дума, като кликнете с десния бутон на мишката върху нея."
+  },
+  "always": {
+    "message": "Винаги"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "Само думи от този видеоклип?"
+  },
+  "exportAs": {
+    "message": "Изтеглете като"
+  },
+  "file": {
+    "message": "файл"
+  },
+  "howToChangeSubtitles": {
+    "message": "Как да промените езика на субтитрите"
+  },
+  "howToTranslateWord": {
+    "message": "Как да преведем думата"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "Поставете мишката върху оригиналните субтитри"
+  },
+  "howToSaveWords": {
+    "message": "Как да запазим думите"
+  },
+  "clickAnyWordOnThe": {
+    "message": "Просто кликнете върху някоя дума от оригиналните субтитри, след което кликнете върху"
+  },
+  "sign": {
+    "message": "знак"
+  },
+  "howToSaveSentence": {
+    "message": "Как да запазваме изречения"
+  },
+  "clickOnThe": {
+    "message": "Кликнете върху"
+  },
+  "clickOnLanguageTab": {
+    "message": "Щракнете върху иконата за настройка, след което щракнете върху раздела за езика, за да намерите подходящия селектор."
+  },
+  "signAtTheEndOfSentence": {
+    "message": "знак в края на всяко изречение, което ви харесва"
+  },
+  "howToExportWords": {
+    "message": "Как да изтеглите думите"
+  },
+  "clickOnSettingButton": {
+    "message": "Кликнете върху бутона за настройка"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "в долната част на плейъра, след което щракнете върху бутона за изтегляне на файл, за да изтеглите текстовия файл."
+  },
+  "howToPronounceWords": {
+    "message": "Как се произнасят думите"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "Просто кликнете върху всяка дума от оригиналните субтитри"
+  },
+  "uploadSubtitle": {
+    "message": "Качване на субтитри"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "Езикът на качените субтитри:"
+  },
+  "delaySubtitles": {
+    "message": "Забавяне на субтитрите"
+  },
+  "decrease": {
+    "message": "Намаляване"
+  },
+  "increase": {
+    "message": "Увеличаване"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "Щракнете, за да изберете горните субтитри"
+  },
+  "mainSubtitles": {
+    "message": "Основни субтитри"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "Щракнете, за да изберете долните субтитри"
+  },
+  "translateSubtitles": {
+    "message": "Преведете субтитрите"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "Горни субтитри Език:"
+  },
+  "settngsMenuHeader": {
+    "message": "Меню за настройки на LLNY"
+  },
+  "appearance": {
+    "message": "Външен вид"
+  },
+  "tools": {
+    "message": "Инструменти"
+  },
+  "shortcuts": {
+    "message": "Преки пътища"
+  },
+  "rateUs": {
+    "message": "Оценете ни"
+  },
+  "account": {
+    "message": "Сметка"
+  },
+  "languages": {
+    "message": "Езици"
+  },
+  "showHide": {
+    "message": "Показване/скриване"
+  },
+  "fontSize": {
+    "message": "Размер на шрифта"
+  },
+  "color": {
+    "message": "Цвят"
+  },
+  "download": {
+    "message": "Изтегляне"
+  },
+  "thirdSubtitle": {
+    "message": "Трети субтитри"
+  },
+  "machineTranslate": {
+    "message": "Машинен превод"
+  },
+  "hoverDictionary": {
+    "message": "Речник на мишките"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "Цвят на фона на субтитрите"
+  },
+  "choose": {
+    "message": "Изберете"
+  },
+  "blur": {
+    "message": "Размазване"
+  },
+  "show": {
+    "message": "Покажи"
+  },
+  "hide": {
+    "message": "Скрий"
+  },
+  "bothLanguages": {
+    "message": "И двата езика"
+  },
+  "sidebarSubtitles": {
+    "message": "Субтитри в страничната лента"
+  },
+  "phonetics": {
+    "message": "Фонетика"
+  },
+  "no": {
+    "message": "Не"
+  },
+  "and": {
+    "message": "и"
+  },
+  "original": {
+    "message": "Оригинал"
+  },
+  "romanji": {
+    "message": "Romanji"
+  },
+  "hirgana": {
+    "message": "Хиргана"
+  },
+  "wordPronunciation": {
+    "message": "Произношение на думите"
+  },
+  "speed": {
+    "message": "Скорост"
+  },
+  "stop": {
+    "message": "Спрете"
+  },
+  "automaticStopAfterSentence": {
+    "message": "Автоматично спиране след всяко изречение"
+  },
+  "theButton": {
+    "message": "бутонът"
+  },
+  "autoStopAfterTime": {
+    "message": "Автоматично спиране и стартиране след време"
+  },
+  "autoStopWithSpace": {
+    "message": "Автоматично спиране и стартиране с интервал"
+  },
+  "videoPause": {
+    "message": "Видеопауза"
+  },
+  "time": {
+    "message": "Време"
+  },
+  "downloadWords": {
+    "message": "Думи за изтегляне"
+  },
+  "enableDisable": {
+    "message": "Активиране/деактивиране"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "Забавяне на скоростта на възпроизвеждане"
+  },
+  "normalPlaybackSpeed": {
+    "message": "Нормална скорост на възпроизвеждане"
+  },
+  "speedUpPlayBack": {
+    "message": "Ускоряване на възпроизвеждането"
+  },
+  "saveCurrentSubtitles": {
+    "message": "Запазване на текущите субтитри"
+  },
+  "backward": {
+    "message": "Назад"
+  },
+  "forward": {
+    "message": "Напред"
+  },
+  "previousSentence": {
+    "message": "Предишно изречение"
+  },
+  "repeatSentence": {
+    "message": "Повторете изречението"
+  },
+  "nextSentence": {
+    "message": "Следващото изречение"
+  },
+  "unlimitedRepeat": {
+    "message": "Неограничено повторение"
+  },
+  "playPause": {
+    "message": "Пусни / Пауза"
+  },
+  "beGenerousUser": {
+    "message": "Можете да бъдете щедър потребител, като напишете отзив тук. Благодаря!"
+  },
+  "writeReview": {
+    "message": "Напишете отзив"
+  },
+  "tweetAboutUs": {
+    "message": "Tweet за нас"
+  },
+  "reportBug": {
+    "message": "Докладване на грешки"
+  },
+  "askForNew": {
+    "message": "Попитайте за нови"
+  },
+  "signOut": {
+    "message": "Излезте"
+  },
+  "version": {
+    "message": "Версия"
+  },
+  "translations": {
+    "message": "Преводи"
+  },
+  "saved": {
+    "message": "Запазено"
+  },
+  "export": {
+    "message": "Изтегляне"
+  },
+  "bothSubtitles": {
+    "message": "И двата вида субтитри"
+  },
+  "exportSaveWords": {
+    "message": "Изтегляне на запазени думи"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "Можете да промените този език в настройките на видеото."
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "Можете да промените този език в настройките на разширението."
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "Търсене на видеоклипове със субтитри"
+  },
+  "andTranslationOfItIs": {
+    "message": "И преводът му"
+  },
+  "note": {
+    "message": "Забележка"
+  },
+  "edit": {
+    "message": "РЕДАКТИРАНЕ"
+  },
+  "toChangeShareContent": {
+    "message": "за промяна на съдържанието за споделяне"
+  },
+  "discardChanges": {
+    "message": "Изхвърляне на промените"
+  },
+  "primarySubtitle": {
+    "message": "Основно подзаглавие"
+  },
+  "translation": {
+    "message": "Превод"
+  },
+  "saveChanges": {
+    "message": "Запазване на промените"
+  },
+  "share": {
+    "message": "Споделяне"
+  },
+  "loadingMainSubtitles": {
+    "message": "Зареждане на основните субтитри"
+  },
+  "youtubeMenu": {
+    "message": "Меню на YouTube"
+  },
+  "off": {
+    "message": "Изключено"
+  },
+  "mouseDictionary": {
+    "message": "Речник на мишките"
+  },
+  "premmium": {
+    "message": "Премиум"
+  },
+  "highSpeedLearning": {
+    "message": "Високоскоростно обучение"
+  },
+  "pronunciation": {
+    "message": "Произношение"
+  },
+  "sidebarTranslations": {
+    "message": "Преводи на страничната лента"
+  },
+  "keyboardShortcuts": {
+    "message": "Клавишни комбинации"
+  },
+  "toUseShortcuts": {
+    "message": "За да използвате, първо активирайте преките пътища от настройките"
+  },
+  "upgradeYourAccount": {
+    "message": "Актуализирайте профила си, за да използвате машинен превод!"
+  },
+  "startYourFreeTrial": {
+    "message": "Започнете своята БЕЗПЛАТНА пробна версия"
+  },
+  "toAccessMachineTranslations": {
+    "message": "за достъп до машинни преводи за всички филми"
+  },
+  "freeTrial": {
+    "message": "БЕЗПЛАТНА пробна версия"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "За да активирате/деактивирате фонетиката за корейски, японски, опростен китайски и традиционен китайски език, отидете в настройките или кликнете върху бутона по-долу!"
+  },
+  "openMenu": {
+    "message": "Отворено меню"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "Влезте, за да изтеглите файла със субтитрите!"
+  },
+  "loginForFree": {
+    "message": "Влезте безплатно"
+  },
+  "subscribe": {
+    "message": "Абонирайте се"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "Достигнали сте дневния си лимит за изтегляне на субтитри. Вземете безплатна пробна версия, за да изтеглите още субтитри!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "Упс! Това видео няма субтитри!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "Моля, влезте, за да запазите думите в профила си"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "Започнете БЕЗПЛАТНА пробна версия за използване на тази функция!"
+  },
+  "getYourTrialToUpload": {
+    "message": "Получете безплатна пробна версия за качване на субтитри"
+  },
+  "loginToLearnPronunciation": {
+    "message": "Влезте, за да научите точното произношение на всяка дума"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "Достигнали сте дневния си лимит за произношение. Вземете безплатна пробна версия, за да чуете неограничен брой думи"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "Достигнахте дневния си лимит за запазване на думи. Вземете безплатна пробна версия, за да учите неограничен брой думи"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "Достигнали сте дневния си лимит за редактиране. Получете БЕЗПЛАТНА пробна версия за неограничен брой редакции"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "Можете да видите по-точни значения в абонамента си!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "Получете БЕЗПЛАТНА пробна версия, за да покажете/скриете целевите субтитри"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "Вземете своя БЕЗПЛАТЕН пробен период, за да покажете/скриете вторичното подзаглавие"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "Вземете своя БЕЗПЛАТЕН пробен период, за да покажете/скриете вторичното подзаглавие"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "Влезте, за да филтрирате запазените думи въз основа на"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "Получете БЕЗПЛАТНА пробна версия, за да филтрирате запаметените думи въз основа на"
+  },
+  "haveProblem": {
+    "message": "Ако имате проблем, моля, излезте и влезте отново"
+  },
+  "date": {
+    "message": "дата"
+  },
+  "video": {
+    "message": "видео"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "Влезте, за да запазите цвета на субтитрите!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "Влезте, за да запазите непрозрачността на субтитрите!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "Влезте, за да запазите размера на шрифта на субтитрите!"
+  },
+  "loginToExportSubtitles": {
+    "message": "Моля, влезте в системата, за да изтеглите субтитрите!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "Влезте в системата, за да изтеглите запазените думи като"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "Получете безплатна пробна версия, за да изтеглите запазени думи като"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "Получете БЕЗПЛАТНА пробна версия на записаното изречение въз основа на видео"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "Получете БЕЗПЛАТНА пробна версия за достъп до машинни преводи като трето подзаглавие."
+  },
+  "synchronize": {
+    "message": "Синхронизиране на"
+  },
+  "settings": {
+    "message": "Настройки"
+  },
+  "moreActions": {
+    "message": "Още действия"
+  },
+  "openSidebar": {
+    "message": "Отваряне на страничната лента"
+  },
+  "moreSettingsButton": {
+    "message": "Разширени настройки"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "Субтитри/CC"
+  }
+}

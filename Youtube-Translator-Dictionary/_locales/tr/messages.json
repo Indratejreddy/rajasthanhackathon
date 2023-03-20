@@ -1,0 +1,554 @@
+{
+  "manifestAppName": {
+    "message": "Netflix ve YouTube™ ile Dil Öğrenimi"
+  },
+  "manifestAppDesc": {
+    "message": "Netflix Uzantısı ile Dil Öğrenimi (LLN) & YouTube ile Dil Öğrenimi (LLY)"
+  },
+  "appName": {
+    "message": "LLNY ile Dil Öğrenmek!"
+  },
+  "appDesc": {
+    "message": "Netflix uzantısıyla Dil Öğrenimi hayatınızı çok daha kolay ve eğlenceli hale getiriyor"
+  },
+  "upper": {
+    "message": "Üst"
+  },
+  "lower": {
+    "message": "Daha düşük"
+  },
+  "disableTestModeTitle": {
+    "message": "Test Modunu Devre Dışı Bırak"
+  },
+  "disableTestModeDescription": {
+    "message": "Netflix bazen Netflix ile Dil Öğrenmenin düzgün çalışmamasına neden olabilecek testler çalıştırır. Sorunlardan kaçınmak için\nNetflix test katılımını kapatmanızı öneririz. Bu kolay:"
+  },
+  "disableTestModeButton": {
+    "message": "Testi Devre Dışı Bırak"
+  },
+  "lowerSelectBox": {
+    "message": "Alt Altyazı Dil:"
+  },
+  "okayButton": {
+    "message": "Tamam."
+  },
+  "closeButton": {
+    "message": "Kapat"
+  },
+  "exportSubtitlesHeader": {
+    "message": "LLNY Altyazı İndir"
+  },
+  "chooseOneFormat": {
+    "message": "Birini seçin Format:"
+  },
+  "onePerDayForFree": {
+    "message": "Her gün bir tane ücretsiz"
+  },
+  "loading": {
+    "message": "Yükleniyor"
+  },
+  "nativeLanguageHeader": {
+    "message": "LLNY - Anadil"
+  },
+  "hello": {
+    "message": "Merhaba"
+  },
+  "pleaseSelectYour": {
+    "message": "Lütfen seçiminizi yapın"
+  },
+  "upperSubtitles": {
+    "message": "Üst Altyazılar"
+  },
+  "targetLanguage": {
+    "message": "Hedef Dil"
+  },
+  "lowerSubtitles": {
+    "message": "Alt Altyazılar"
+  },
+  "motherLanguage": {
+    "message": "Ana Dil"
+  },
+  "translationLanguage": {
+    "message": "Çeviri Dili"
+  },
+  "anyProblemInFunctionality": {
+    "message": "Bu uzantının işlevselliğindeki herhangi bir sorun basit bir yenileme ile çözülebilir"
+  },
+  "signInForFree": {
+    "message": "Ücretsiz Oturum Açın"
+  },
+  "speedUpLanguageLearning": {
+    "message": "Dil öğrenimini hızlandırın"
+  },
+  "subtitles": {
+    "message": "Altyazılar"
+  },
+  "words": {
+    "message": "Kelimeler"
+  },
+  "help": {
+    "message": "Yardım"
+  },
+  "saveWordMeaning": {
+    "message": "Herhangi bir kelimenin üzerine sağ tıklayarak anlamını kaydedebilirsiniz"
+  },
+  "always": {
+    "message": "Her zaman"
+  },
+  "onlyWordsOfThisVideo": {
+    "message": "Bu videonun tek kelimeleri mi?"
+  },
+  "exportAs": {
+    "message": "Farklı indir"
+  },
+  "file": {
+    "message": "dosya"
+  },
+  "howToChangeSubtitles": {
+    "message": "Altyazıların dili nasıl değiştirilir"
+  },
+  "howToTranslateWord": {
+    "message": "Kelime nasıl çevrilir"
+  },
+  "hoverMouseOnSubtitle": {
+    "message": "Fareyi orijinal altyazıların üzerine getirin"
+  },
+  "howToSaveWords": {
+    "message": "Kelimeler nasıl kaydedilir"
+  },
+  "clickAnyWordOnThe": {
+    "message": "Orijinal altyazıların herhangi bir kelimesine tıkladıktan sonra"
+  },
+  "sign": {
+    "message": "işaret"
+  },
+  "howToSaveSentence": {
+    "message": "Cümleler nasıl kaydedilir"
+  },
+  "clickOnThe": {
+    "message": "üzerine tıklayın."
+  },
+  "clickOnLanguageTab": {
+    "message": "Ayar simgesine tıklayın, ardından uygun seçiciyi bulmak için dil sekmesine tıklayın"
+  },
+  "signAtTheEndOfSentence": {
+    "message": "istediğiniz herhangi bir cümlenin sonuna işaret koyun"
+  },
+  "howToExportWords": {
+    "message": "Kelimeler Nasıl İndirilir"
+  },
+  "clickOnSettingButton": {
+    "message": "Ayar düğmesine tıklayın"
+  },
+  "atTheBottomOfPlayer": {
+    "message": "metin dosyasını indirmek için dosya indir düğmesine tıklayın."
+  },
+  "howToPronounceWords": {
+    "message": "Kelimeler nasıl telaffuz edilir"
+  },
+  "clickOnAnyWordOfOriginalSubtitles": {
+    "message": "Orijinal altyazıların herhangi bir kelimesine tıklamanız yeterlidir"
+  },
+  "uploadSubtitle": {
+    "message": "Altyazıları Yükle"
+  },
+  "subtitlesUploadLanguage": {
+    "message": "Yüklenen altyazıların dili:"
+  },
+  "delaySubtitles": {
+    "message": "Gecikme Altyazıları"
+  },
+  "decrease": {
+    "message": "Azalma"
+  },
+  "increase": {
+    "message": "Artış"
+  },
+  "clickToSelectUpperSubtitles": {
+    "message": "ÜST Altyazıları Seçmek için Tıklayın"
+  },
+  "mainSubtitles": {
+    "message": "Ana Altyazılar"
+  },
+  "clickToSelectLowerSubtitles": {
+    "message": "ALT Altyazıları Seçmek için Tıklayın"
+  },
+  "translateSubtitles": {
+    "message": "Altyazıları Çevir"
+  },
+  "upperSubtitlesLanguage": {
+    "message": "Üst Altyazı Dil:"
+  },
+  "settngsMenuHeader": {
+    "message": "LLNY Ayarlar Menüsü"
+  },
+  "appearance": {
+    "message": "Görünüş"
+  },
+  "tools": {
+    "message": "Araçlar"
+  },
+  "shortcuts": {
+    "message": "Kısayollar"
+  },
+  "rateUs": {
+    "message": "Bizi Değerlendirin"
+  },
+  "account": {
+    "message": "Hesap"
+  },
+  "languages": {
+    "message": "Diller"
+  },
+  "showHide": {
+    "message": "Göster/Gizle"
+  },
+  "fontSize": {
+    "message": "Yazı Tipi Boyutu"
+  },
+  "color": {
+    "message": "Renk"
+  },
+  "download": {
+    "message": "İndir"
+  },
+  "thirdSubtitle": {
+    "message": "Üçüncü Altyazılar"
+  },
+  "machineTranslate": {
+    "message": "Makine Çevirisi"
+  },
+  "hoverDictionary": {
+    "message": "Fare Sözlüğü"
+  },
+  "subtitlesBackgroundColor": {
+    "message": "Altyazılar Arka Plan Rengi"
+  },
+  "choose": {
+    "message": "Seçin"
+  },
+  "blur": {
+    "message": "Bulanıklık"
+  },
+  "show": {
+    "message": "Göster"
+  },
+  "hide": {
+    "message": "Gizle"
+  },
+  "bothLanguages": {
+    "message": "Her İki Dil"
+  },
+  "sidebarSubtitles": {
+    "message": "Kenar Çubuğu Altyazıları"
+  },
+  "phonetics": {
+    "message": "Fonetik"
+  },
+  "no": {
+    "message": "Hayır"
+  },
+  "and": {
+    "message": "ve"
+  },
+  "original": {
+    "message": "Orijinal"
+  },
+  "romanji": {
+    "message": "Romanji"
+  },
+  "hirgana": {
+    "message": "Hirgana"
+  },
+  "wordPronunciation": {
+    "message": "Kelime Telaffuzu"
+  },
+  "speed": {
+    "message": "Hız"
+  },
+  "stop": {
+    "message": "Dur"
+  },
+  "automaticStopAfterSentence": {
+    "message": "Her Cümleden Sonra Otomatik Durdurma"
+  },
+  "theButton": {
+    "message": "Düğme"
+  },
+  "autoStopAfterTime": {
+    "message": "Otomatik Durdurma ve Zaman Sonra Başlatma"
+  },
+  "autoStopWithSpace": {
+    "message": "Boşluk ile Otomatik Durdurma ve Başlatma"
+  },
+  "videoPause": {
+    "message": "Video Duraklatma"
+  },
+  "time": {
+    "message": "Zaman"
+  },
+  "downloadWords": {
+    "message": "İndir Kelimeler"
+  },
+  "enableDisable": {
+    "message": "Etkinleştir/Devre Dışı Bırak"
+  },
+  "slowDownPlaybackSpeed": {
+    "message": "Oynatma hızını yavaşlatma"
+  },
+  "normalPlaybackSpeed": {
+    "message": "Normal oynatma hızı"
+  },
+  "speedUpPlayBack": {
+    "message": "Oynatmayı hızlandırın"
+  },
+  "saveCurrentSubtitles": {
+    "message": "Geçerli altyazıları kaydet"
+  },
+  "backward": {
+    "message": "Geriye doğru"
+  },
+  "forward": {
+    "message": "İleri"
+  },
+  "previousSentence": {
+    "message": "Önceki cümle"
+  },
+  "repeatSentence": {
+    "message": "Cümleyi tekrarla"
+  },
+  "nextSentence": {
+    "message": "Sonraki cümle"
+  },
+  "unlimitedRepeat": {
+    "message": "Sınırsız Tekrar"
+  },
+  "playPause": {
+    "message": "Oynat / Duraklat"
+  },
+  "beGenerousUser": {
+    "message": "Buraya bir inceleme yazarak cömert bir kullanıcı olabilirsiniz. Teşekkürler!"
+  },
+  "writeReview": {
+    "message": "Bir yorum yazın"
+  },
+  "tweetAboutUs": {
+    "message": "Hakkımızda tweet atın"
+  },
+  "reportBug": {
+    "message": "Hata Bildir"
+  },
+  "askForNew": {
+    "message": "Yenisini isteyin"
+  },
+  "signOut": {
+    "message": "Çıkış Yapın"
+  },
+  "version": {
+    "message": "Versiyon"
+  },
+  "translations": {
+    "message": "Çeviriler"
+  },
+  "saved": {
+    "message": "Kurtarıldı"
+  },
+  "export": {
+    "message": "İndir"
+  },
+  "bothSubtitles": {
+    "message": "Her iki altyazı"
+  },
+  "exportSaveWords": {
+    "message": "Kayıtlı kelimeleri indirin"
+  },
+  "youCanChangeLanguageYoutube": {
+    "message": "Bu dili video ayarlarından değiştirebilirsiniz"
+  },
+  "youCanChangeLanguageExtensionSetting": {
+    "message": "Bu dili uzantının ayarlarından değiştirebilirsiniz"
+  },
+  "searchForVideosWithSubtitles": {
+    "message": "Altyazılı videoları arama"
+  },
+  "andTranslationOfItIs": {
+    "message": "Ve çevirisi"
+  },
+  "note": {
+    "message": "Not"
+  },
+  "edit": {
+    "message": "DÜZENLE"
+  },
+  "toChangeShareContent": {
+    "message": "Paylaşım içeriğini değiştirmek için"
+  },
+  "discardChanges": {
+    "message": "Değişiklikleri Atın"
+  },
+  "primarySubtitle": {
+    "message": "Birincil Altyazı"
+  },
+  "translation": {
+    "message": "Çeviri"
+  },
+  "saveChanges": {
+    "message": "Değişiklikleri Kaydet"
+  },
+  "share": {
+    "message": "Paylaş"
+  },
+  "loadingMainSubtitles": {
+    "message": "Ana altyazılar yükleniyor"
+  },
+  "youtubeMenu": {
+    "message": "YouTube Menüsü"
+  },
+  "off": {
+    "message": "Kapalı"
+  },
+  "mouseDictionary": {
+    "message": "Fare sözlüğü"
+  },
+  "premmium": {
+    "message": "Ödül"
+  },
+  "highSpeedLearning": {
+    "message": "Yüksek Hızlı Öğrenme"
+  },
+  "pronunciation": {
+    "message": "Telaffuz"
+  },
+  "sidebarTranslations": {
+    "message": "Kenar Çubuğu Çevirileri"
+  },
+  "keyboardShortcuts": {
+    "message": "Klavye Kısayolları"
+  },
+  "toUseShortcuts": {
+    "message": "Kullanmak için önce ayarlardan kısayolları etkinleştirin"
+  },
+  "upgradeYourAccount": {
+    "message": "Makine Çevirisini kullanmak için hesabınızı yükseltin!"
+  },
+  "startYourFreeTrial": {
+    "message": "ÜCRETSİZ denemenizi başlatın"
+  },
+  "toAccessMachineTranslations": {
+    "message": "tüm filmler için makine çevirilerine erişmek için"
+  },
+  "freeTrial": {
+    "message": "ÜCRETSİZ deneme"
+  },
+  "toEnableDisablePhoneticLanguages": {
+    "message": "Korece, Japonca, Basitleştirilmiş Çince ve Geleneksel Çince dilleri için fonetiği etkinleştirmek/devre dışı bırakmak için ayarlara gidin veya aşağıdaki düğmeye tıklayın!"
+  },
+  "openMenu": {
+    "message": "Açık Menü"
+  },
+  "loginToDownloadSubtitle": {
+    "message": "Altyazı dosyasını indirmek için giriş yapın!"
+  },
+  "loginForFree": {
+    "message": "Ücretsiz Giriş Yapın"
+  },
+  "subscribe": {
+    "message": "Abone Olun"
+  },
+  "getYourTrialForDownloadingSubtitles": {
+    "message": "Altyazı indirmek için günlük limitinize ulaştınız. Daha fazla altyazı indirmek için ÜCRETSİZ deneme sürümünüzü alın!"
+  },
+  "thisVideoHasNoSubtitles": {
+    "message": "Oops! Bu videoda altyazı yok!"
+  },
+  "pleaseLoginToSaveWords": {
+    "message": "Kelimeleri hesabınıza kaydetmek için lütfen giriş yapın"
+  },
+  "startYourFreeTrialForThisFeature": {
+    "message": "Bu özelliği kullanmak için ÜCRETSİZ denemenizi başlatın!"
+  },
+  "getYourTrialToUpload": {
+    "message": "Altyazı Yüklemek için ÜCRETSİZ denemenizi alın"
+  },
+  "loginToLearnPronunciation": {
+    "message": "Her kelimenin tam telaffuzunu öğrenmek için giriş yapın"
+  },
+  "youReachedYourDailyProunciationLimit": {
+    "message": "Telaffuz için günlük sınırlarınıza ulaştınız. Sınırsız sayıda kelime duymak için ÜCRETSİZ deneme sürümünüzü alın"
+  },
+  "youReachedYourDailySavedWordsLimit": {
+    "message": "Günlük kelime kaydetme limitinize ulaştınız. Sınırsız sayıda kelime öğrenmek için ÜCRETSİZ deneme sürümünüzü alın"
+  },
+  "youReachedYourDailyEditLimit": {
+    "message": "Düzenleme için günlük sınırlarınıza ulaştınız. Sınırsız sayıda düzenleme için ÜCRETSİZ deneme sürümünüzü alın"
+  },
+  "youCanSeeMoreAccurateMeanings": {
+    "message": "Aboneliğinizde daha doğru anlamlar görebilirsiniz!"
+  },
+  "getYourTrialForHidingTargetSubtitle": {
+    "message": "Hedef Altyazıyı göstermek/gizlemek için ÜCRETSİZ denemenizi alın"
+  },
+  "getYourTrialForHidingSecondarySubtitle": {
+    "message": "İkincil Altyazıyı göstermek/gizlemek için ÜCRETSİZ denemenizi alın"
+  },
+  "getYourTrialToUseThirdSubtitle": {
+    "message": "İkincil Altyazıyı göstermek/gizlemek için ÜCRETSİZ denemenizi alın"
+  },
+  "loginToSaveWordsBasedOn": {
+    "message": "Kaydedilen kelimeleri aşağıdakilere göre filtrelemek için oturum açın"
+  },
+  "getYourTrialToFilterSavedWordsBasedOn": {
+    "message": "Kayıtlı kelimeleri aşağıdakilere göre filtrelemek için ÜCRETSİZ denemenizi edinin"
+  },
+  "haveProblem": {
+    "message": "Bir sorun yaşarsanız, Lütfen Oturumu Kapatın ve Tekrar Oturum Açın"
+  },
+  "date": {
+    "message": "Tarih"
+  },
+  "video": {
+    "message": "Video"
+  },
+  "loginToChangeColorOfThisSubtitle": {
+    "message": "Altyazıların rengini korumak için giriş yapın!"
+  },
+  "loginToChangeOpacityOfThisSubtitle": {
+    "message": "Altyazıların opaklığını kaydetmek için giriş yapın!"
+  },
+  "loginToChangeFontSizeOfThisSubtitle": {
+    "message": "Altyazıların yazı tipi boyutunu kaydetmek için giriş yapın!"
+  },
+  "loginToExportSubtitles": {
+    "message": "Altyazıları indirmek için lütfen giriş yapın!"
+  },
+  "loginToSavedWordsAs": {
+    "message": "Kaydedilen kelimeleri şu şekilde indirmek için oturum açın"
+  },
+  "getYourFreeTrialToDownloadSavedWords": {
+    "message": "Kaydedilmiş kelimeleri şu şekilde indirmek için ÜCRETSİZ denemenizi alın"
+  },
+  "getYourFreeTrialToSaveSentence": {
+    "message": "Videoya dayalı cümle kaydetmek için ÜCRETSİZ deneme sürümünüzü edinin"
+  },
+  "getYourFreeTrialToUseThirdSubtitle": {
+    "message": "Üçüncü altyazı olarak makine çevirilerine erişmek için ÜCRETSİZ deneme sürümünüzü edinin."
+  },
+  "synchronize": {
+    "message": "Senkronize et"
+  },
+  "settings": {
+    "message": "Ayarlar"
+  },
+  "moreActions": {
+    "message": "Daha fazla işlem"
+  },
+  "openSidebar": {
+    "message": "Kenar Çubuğunu Aç"
+  },
+  "moreSettingsButton": {
+    "message": "Gelişmiş Ayarlar"
+  },
+  "youtubeSettingsSubtitle": {
+    "message": "Altyazılar/CC"
+  }
+}

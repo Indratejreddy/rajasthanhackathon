@@ -1,0 +1,140 @@
+<head>
+  <style>
+    #SwitchBox {
+      display: none;
+    }
+
+    #appName {
+      color: rgb(0, 0, 0);
+      font-size: 12px;
+      text-align: center;
+      margin: 0 20px 10px;
+      border-bottom: 1px solid #666;
+      line-height: 40px;
+      text-decoration: none;
+    }
+
+    .lly-popup-links {
+      display: block;
+      line-height: 18px;
+      font-size: 12px;
+      padding: 0 20px;
+      text-decoration: none;
+    }
+
+    .lly-popup-links:hover {
+      background: #444;
+    }
+
+    #sitename {
+      text-align: center;
+      font-size: 15px;
+      margin: 1px;
+      margin-bottom: 3px;
+      border: dashed;
+    }
+  </style>
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/icon?family=Material+Icons"
+  />
+  <link rel="stylesheet" href="popup.css" />
+</head>
+
+<body id="body">
+  <div class="popup" id="youtube-popup">
+
+      <div class="item devs">
+        <img class="rakshit" src="./asset/developers/Ellipse 3.png" alt="">
+        <img class="akash" src="./asset/developers/Ellipse 5.png" alt="">
+        <img class="indratej" src="./asset/developers/profile.png" alt="">
+        <img class="shashank" src="./asset/developers/profile2.png" alt="">
+        <img class="jagadish"  src="./asset/developers/profile3.png" alt="">
+    </div>
+
+    <main class="main item">
+      <div>
+        <input
+          type="checkbox"
+          class="toggle"
+          name="primarysubtitlestatus"
+          id="on-off-Popup-youtube"
+          style="height: 45px; transform: translate(-50px, -20px); width: 101px; display: none;"
+        />
+        <div class="switch" style="transform: translate(-118px, -24px); display: none;">
+          <div class="inner">
+            <div class="disc"></div>
+          </div>
+        </div>
+      </div>
+      <div class="uy-container" id="upper-div">
+        <div class="bl-container">
+          <button id="upper">
+            <p>__MSG_upper__</p>
+            <p id="upper-language"></p>
+          </button>
+        </div>
+      </div>
+      <div class="uy-container" id="lower-div">
+        <div class="bl-container">
+          <button id="lower">
+            <p>__MSG_lower__</p>
+            <p id="lower-language"></p>
+          </button>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <div class="popup" id="netflix-popup">
+    <header class="header">
+      <h2 class="popup-header-text" title="__MSG_appDesc__">__MSG_appName__</h2>
+      <button id="popup-setting-button-netflix">
+        <span class="material-icons">settings</span>
+      </button>
+    </header>
+    <main class="main">
+      <div>
+        <input
+          type="checkbox"
+          class="toggle"
+          name="primarysubtitlestatus"
+          id="on-off-Popup-netflix"
+          style="height: 45px; transform: translate(-50px, -20px); width: 101px"
+        />
+        <div class="switch" style="transform: translate(-118px, -24px)">
+          <div class="inner">
+            <div class="disc"></div>
+          </div>
+        </div>
+      </div>
+      <div class="uy-container" id="upper-div-netflix">
+        <div class="bl-container">
+          <button id="upper">
+            <p>__MSG_upper__</p>
+            <span class="material-icons">navigate_next</span>
+          </button>
+        </div>
+        <div class="bl-container">
+          <p id="upper-language-netflix"></p>
+        </div>
+      </div>
+      <div class="arrow-div">
+        <span class="material-icons">south</span>
+      </div>
+      <div class="uy-container" id="lower-div-netflix">
+        <div class="bl-container">
+          <button id="lower">
+            <p>__MSG_lower__</p>
+            <span class="material-icons">navigate_next</span>
+          </button>
+        </div>
+        <div class="bl-container">
+          <p id="lower-language-netflix"></p>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script src="./popup.js"></script>
+</body>
