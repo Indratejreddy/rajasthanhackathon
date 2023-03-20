@@ -1,0 +1,284 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.nav {
+  background-color: #12152D;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: .5em 0 .5em 0;
+}
+
+.profile {
+  width: 50px;
+  height: 50px;
+  background-color: #D7E5DF;
+  border-radius: 50%;
+  box-shadow: inset 10px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.search {
+  width: 50%;
+  padding: 1em;
+  border-radius: 10px;
+  outline: none;
+  border: 1px solid rgb(0, 191, 255);
+}
+
+main {
+  width: 100vw;
+  height: 90vh;
+  background: #D7E5DF;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  justify-content: center;
+  position: relative;
+  flex-direction: column;
+
+}
+
+.center {
+  display: flex;
+  margin-bottom: 5%;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.start {
+    color: #000;
+    text-decoration: none;
+}
+
+.startbtn:hover {
+    text-decoration: none;
+    transition: all .5s ease;
+}
+
+.startbtn:hover .start {
+    color: #fff;
+}
+
+#question {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 45px;
+  text-align: center;
+  width: 80%;
+  margin-top: 2%;
+  color: #000000;
+  text-shadow: 0px 8px 8px rgba(0, 0, 0, 0.25);
+}
+
+.center button {
+  background: #72B4A4;
+  border: 1px solid #305BF8;
+  border-radius: 8px;
+  padding: .01em 2em;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 48px;
+  cursor: pointer;
+  margin-top: 2%;
+}
+
+.center button:hover {
+  background: #0e4537;
+  color: #fff;
+  transition: all .5s ease;
+}
+
+.circle {
+  position: absolute;
+
+  left: 12%;
+  top: 35%;
+
+}
+
+.circle1 {
+  position: absolute;
+
+  right: 12%;
+  top: 35%;
+
+}
+
+.circle2 {
+  position: absolute;
+
+  left: 25%;
+  top: 0%;
+
+}
+
+.circle3 {
+  position: absolute;
+
+  left: 25%;
+  bottom: 0%;
+
+}
+
+.circle4 {
+  position: absolute;
+
+  right: 25%;
+  bottom: 0%;
+
+}
+
+.circle5 {
+  position: absolute;
+
+  right: 25%;
+  top: 0%;
+
+}
+
+.circle, .circle1, .circle3, .circle2, .circle4, .circle5 {
+  border-radius: 50%;
+  background: #F88787;
+  box-shadow: inset 10px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 180px;
+  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wave {
+  position: absolute;
+  height: 80%;
+  width: 40%;
+  right: 0%;
+  bottom: -10%;
+}
+
+#quiz-window {
+  width: 60%;
+  height: 75%;
+  font-family: 'Moserrat';
+  background: linear-gradient(110.13deg, #21736A 1.46%, #70AB9F 100%);
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  padding: 1.5em;
+}
+
+#quiz-window h1 {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  padding: 1em;
+  line-height: 45px;
+  text-align: center;
+}
+
+#btns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 100%;
+  padding: 0 2.5% 0 2.5%;
+  column-gap: 2.5%;
+}
+
+#btns button {
+  background: #72B4A4;
+  border: 1px solid #305BF8;
+  border-radius: 10px;
+  width: 100%;
+  padding: 1em;
+  margin-top: 2.5%;
+  cursor: pointer;
+}
+
+#btns button:hover {
+  background: #0e4537;
+  color: #fff;
+  transition: all .5s ease;
+}
+
+.swiper {
+  width: 100%;
+  height: 450px;
+  padding: 50px;
+}
+
+.swiper-slide {
+  background: #21736A;
+  box-shadow: inset 10px 10px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  width: 300px !important;
+  height: 400px !important;
+  padding-left: 1%;
+  font-family: 'Montserrat';
+  padding-top: .7%;
+}
+
+.swiper-slide img {
+  width: 100%;
+  height: 50%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  margin-bottom: 5%;
+}
+
+.use,.use1 {
+  background: #F6A75F;
+  color: #fff;
+  border-radius: 20px;
+  padding: .25em .5em;
+}
+
+.use1 {
+  background: #5FACF6;
+} 
+
+.swiper-slide h2 {
+  line-height: 20px;
+  font-size: larger;
+}
+
+.swiper-slide h3 {
+  line-height: 5px;
+  font-size: small;
+}
+
+
+.swiper-slide p {
+  line-height: 5px;
+  font-size: small;
+}
+
+.swiper-slide button {
+  padding: .5em 1em;
+  width: 45%;
+  border-radius: 10px;
+  outline: none;
+  border: 1px solid black;
+}
+
+a {
+  text-decoration: none;
+}
+
+.swiper-slide .button-group {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
