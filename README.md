@@ -10,6 +10,9 @@ Another problem that we identified was the issue of cheating in online exams. Ak
 Overall, our project is aimed at addressing the problems faced by students in the digital age. We are excited to develop innovative solutions that make learning and education more accessible, efficient, and enjoyable for everyone. By working together, we can create a brighter future for students everywhere.
 ***NOTE that extension needs multiple reloads and time to function properly***
 
+
+## 👉 LIVE DEMO:  https://rajasthan-hackathon.netlify.app
+
 ## 🎁 Presentation ----> https://www.canva.com/design/DAFcDAyzF7w/13V_h7Dh7j_qOaOvvRy-oA/watch?utm_content=DAFcDAyzF7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## 📷 Video ----> https://www.youtube.com/watch?v=IW7n_jTxMuI
