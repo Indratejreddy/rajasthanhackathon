@@ -11,7 +11,7 @@ Overall, our project is aimed at addressing the problems faced by students in th
 ***NOTE that extension needs multiple reloads and time to function properly***
 
 
-## 👉 LIVE DEMO:  https://rajasthan-hackathon.netlify.app
+## 👉 LIVE DEMO:  https://vidyut.netlify.app/
 
 ## 🎁 Presentation ----> https://www.canva.com/design/DAFcDAyzF7w/13V_h7Dh7j_qOaOvvRy-oA/watch?utm_content=DAFcDAyzF7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
